@@ -1,0 +1,103 @@
+{
+  "totalNegocios": 206,
+  "celdasConNegocios": 123,
+  "celdasVacias": 1461,
+  "densidadPromedio": 1.67,
+  "maxNegociosPorCelda": 30,
+  "distribucionPorPrecision": {
+    "interpolada": 183,
+    "centroide": 127
+  },
+  "top10Celdas": [
+    {
+      "cellId": "CELL_1098",
+      "count": 30,
+      "ejemplos": [
+        "UNIFORMES & DISEÑOS BHA",
+        "GREEN WASH EMBELLECIMIENTO AUTOMOTRIZ",
+        "LA SAZÓN DE MANOLO"
+      ]
+    },
+    {
+      "cellId": "CELL_1091",
+      "count": 8,
+      "ejemplos": [
+        "TORTAS GOYITA ZULUAGA",
+        "VIDRIOS JAIRO COCOTERO",
+        "SALON DE BELLEZA ISSA"
+      ]
+    },
+    {
+      "cellId": "CELL_1174",
+      "count": 4,
+      "ejemplos": [
+        "SUBLIME BOUTIQUE",
+        "ESOTERICAS ONLINE",
+        "TOTALSERVICES COL"
+      ]
+    },
+    {
+      "cellId": "CELL_0932",
+      "count": 4,
+      "ejemplos": [
+        "MR MUSTACHES BARBER SHOP",
+        "VETLOGY",
+        "EL RINCON VIRTUAL DISTRIBUIDORES COMERCIALES"
+      ]
+    },
+    {
+      "cellId": "CELL_0518",
+      "count": 4,
+      "ejemplos": [
+        "SCHOREM BARBER CLUB",
+        "TORTAS Y POSTRES DULCE MARIA",
+        "LA PARRILLA DE DON G"
+      ]
+    },
+    {
+      "cellId": "CELL_1094",
+      "count": 3,
+      "ejemplos": [
+        "PAPELERIA BENETTON",
+        "PAÑALERA Y VARIEDADES EL PARAISO DE LOS NIÑOS",
+        "AGLOMADERAS COCICLOSETS"
+      ]
+    },
+    {
+      "cellId": "CELL_0950",
+      "count": 3,
+      "ejemplos": [
+        "MISCELANEA VENTANILLA FER",
+        "PRIDE STYLE",
+        "PARQUEADERO EL BOSQUE"
+      ]
+    },
+    {
+      "cellId": "CELL_1185",
+      "count": 3,
+      "ejemplos": [
+        "TIENDA Y VARIEDADES LILA",
+        "CASA CAMPESTRE SAN JOSE DE LA MONTAÑA",
+        "VIVERO JARDINES DEL PORTICO"
+      ]
+    },
+    {
+      "cellId": "CELL_0806",
+      "count": 3,
+      "ejemplos": [
+        "SIARA´S DESING",
+        "TIENDA LA ECONOMIA ARMENIA",
+        "TIENDA MERCATODO DEL SAN JOSE"
+      ]
+    },
+    {
+      "cellId": "CELL_0659",
+      "count": 3,
+      "ejemplos": [
+        "OH ONE COFFEE",
+        "FUXION MUEBLES",
+        "TALLER PINTURAS J.H.V"
+      ]
+    }
+  ]
+}

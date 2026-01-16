@@ -1,11 +1,25 @@
 'use client'
 
 import { useState, useMemo } from 'react'
+import dynamic from 'next/dynamic'
 import Header from '@/components/layout/Header'
 import Footer from '@/components/layout/Footer'
 import Card from '@/components/ui/Card'
-import { Search, MapPin, Phone, Mail, Store, Filter, X } from 'lucide-react'
+import { Search, MapPin, Phone, Mail, Store, Filter, X, Map, List } from 'lucide-react'
 import negociosData from '@/data/negocios.json'
+
+// Cargar mapa dinámicamente (sin SSR porque Leaflet necesita window)
+const MapaDirectorio = dynamic(() => import('@/components/directorio/MapaDirectorio'), {
+  ssr: false,
+  loading: () => (
+    <div className="h-full w-full flex items-center justify-center bg-gray-100 rounded-lg">
+      <div className="text-center">
+        <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-green-600 mx-auto mb-3"></div>
+        <p className="text-gray-500">Cargando mapa...</p>
+      </div>
+    </div>
+  ),
+})
 
 interface Negocio {
   id: string
@@ -46,6 +60,8 @@ export default function DirectorioPage() {
   const [busqueda, setBusqueda] = useState('')
   const [categoriaSeleccionada, setCategoriaSeleccionada] = useState('todos')
   const [mostrarTodos, setMostrarTodos] = useState(false)
+  const [vistaActual, setVistaActual] = useState<'lista' | 'mapa'>('lista')
+  const [negocioSeleccionado, setNegocioSeleccionado] = useState<string | null>(null)
 
   const negocios: Negocio[] = negociosData.negocios
 
@@ -106,6 +122,8 @@ export default function DirectorioPage() {
                 <button
                   onClick={() => setBusqueda('')}
                   className="absolute right-4 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"
+                  title="Limpiar búsqueda"
+                  aria-label="Limpiar búsqueda"
                 >
                   <X className="w-5 h-5" />
                 </button>
@@ -140,7 +158,7 @@ export default function DirectorioPage() {
               </div>
             </div>
 
-            {/* Contador de resultados */}
+            {/* Contador de resultados y toggle de vista */}
             <div className="flex items-center justify-between mb-6">
               <p className="text-gray-600">
                 Mostrando <span className="font-semibold text-gray-900">{negociosMostrados.length}</span>
@@ -149,19 +167,57 @@ export default function DirectorioPage() {
                 )}
                 {' '}negocios
               </p>
-              {(busqueda || categoriaSeleccionada !== 'todos') && (
-                <button
-                  onClick={limpiarFiltros}
-                  className="text-sm text-blue-600 hover:text-blue-700 flex items-center space-x-1"
-                >
-                  <X className="w-4 h-4" />
-                  <span>Limpiar filtros</span>
-                </button>
-              )}
+              <div className="flex items-center gap-3">
+                {(busqueda || categoriaSeleccionada !== 'todos') && (
+                  <button
+                    onClick={limpiarFiltros}
+                    className="text-sm text-blue-600 hover:text-blue-700 flex items-center space-x-1"
+                  >
+                    <X className="w-4 h-4" />
+                    <span>Limpiar filtros</span>
+                  </button>
+                )}
+                {/* Toggle Lista/Mapa */}
+                <div className="flex bg-gray-100 rounded-lg p-1">
+                  <button
+                    onClick={() => setVistaActual('lista')}
+                    className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-md transition-colors ${
+                      vistaActual === 'lista'
+                        ? 'bg-white text-gray-900 shadow-sm'
+                        : 'text-gray-500 hover:text-gray-700'
+                    }`}
+                  >
+                    <List className="w-4 h-4" />
+                    Lista
+                  </button>
+                  <button
+                    onClick={() => setVistaActual('mapa')}
+                    className={`flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-md transition-colors ${
+                      vistaActual === 'mapa'
+                        ? 'bg-white text-gray-900 shadow-sm'
+                        : 'text-gray-500 hover:text-gray-700'
+                    }`}
+                  >
+                    <Map className="w-4 h-4" />
+                    Mapa
+                  </button>
+                </div>
+              </div>
             </div>
 
-            {/* Grid de negocios */}
-            {negociosFiltrados.length > 0 ? (
+            {/* Vista de Mapa */}
+            {vistaActual === 'mapa' && (
+              <div className="h-[600px] rounded-xl overflow-hidden shadow-lg border border-gray-200 mb-8">
+                <MapaDirectorio
+                  negocios={negociosFiltrados}
+                  negocioSeleccionado={negocioSeleccionado}
+                  onNegocioClick={(id) => setNegocioSeleccionado(id)}
+                />
+              </div>
+            )}
+
+            {/* Vista de Lista (Grid de negocios) */}
+            {vistaActual === 'lista' && (
               <>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                   {negociosMostrados.map((negocio) => (
@@ -181,7 +237,8 @@ export default function DirectorioPage() {
                   </div>
                 )}
               </>
-            ) : (
+            )}
+            {vistaActual === 'lista' && negociosFiltrados.length === 0 && (
               <div className="text-center py-12">
                 <Store className="w-16 h-16 text-gray-300 mx-auto mb-4" />
                 <h3 className="text-lg font-medium text-gray-900 mb-2">
