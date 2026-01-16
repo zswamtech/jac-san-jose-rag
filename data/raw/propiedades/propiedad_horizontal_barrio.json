@@ -1,0 +1,367 @@
+[
+  {
+    "no_exp": "5",
+    "propiedad_horizontal": "EDIFICIO ALMALLAS",
+    "direcci_n": "CALLE 20  No. 18 – 18"
+  },
+  {
+    "no_exp": "21",
+    "propiedad_horizontal": "EDIFICIO AYTAMARA",
+    "direcci_n": "CARRERA 19 No. 16 – 50"
+  },
+  {
+    "no_exp": "24",
+    "propiedad_horizontal": "EDIFICIO BANCO DE BOGOTA",
+    "direcci_n": "CALLE 21 No. 17 – 02"
+  },
+  {
+    "no_exp": "26",
+    "propiedad_horizontal": "EDIFICIO BANCO POPULAR",
+    "direcci_n": "CALLE 21 No. 16 - 37"
+  },
+  {
+    "no_exp": "44",
+    "propiedad_horizontal": "URBANIZACION CASABLANCA II ETAPA",
+    "direcci_n": "CARRERA 19 A No. 48 – 01"
+  },
+  {
+    "no_exp": "52",
+    "propiedad_horizontal": "EDIFICIO CENTRO COMERCIAL CRISTOBAL COLON",
+    "direcci_n": "CARRERA 15 CON CALLE 20"
+  },
+  {
+    "no_exp": "54",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL COINCA",
+    "direcci_n": "CALLE 22 NORTE No. 11 – 75"
+  },
+  {
+    "no_exp": "55",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL COINCA II ETAPA",
+    "direcci_n": "CARRERA 11 CALLE 21N No. 20N – 46"
+  },
+  {
+    "no_exp": "56",
+    "propiedad_horizontal": "EDIFICIO CONCASA",
+    "direcci_n": "CALLE 21 No. 15 – 26"
+  },
+  {
+    "no_exp": "68",
+    "propiedad_horizontal": "EDIFICIO LOS FUNDADORES",
+    "direcci_n": "CARRERA 15 CALLE 22"
+  },
+  {
+    "no_exp": "78",
+    "propiedad_horizontal": "EDIFICIO LA GIRALDA",
+    "direcci_n": "CALLE 22 CARRERA 19"
+  },
+  {
+    "no_exp": "86",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DEL BOSQUE",
+    "direcci_n": "CALLE 17 No. 23-119"
+  },
+  {
+    "no_exp": "90",
+    "propiedad_horizontal": "EDIFICIO PANORAMA PROPIEDAD HORIZONTAL",
+    "direcci_n": "CALLE 22 N  No. 13 – 16"
+  },
+  {
+    "no_exp": "124",
+    "propiedad_horizontal": "EDIFICIO SANTORINI",
+    "direcci_n": "CALLE 22N No. 16 - 18"
+  },
+  {
+    "no_exp": "218",
+    "propiedad_horizontal": "EDIFICIO SANTA MONICA",
+    "direcci_n": "Calle 20 No. 12-18"
+  },
+  {
+    "no_exp": "247",
+    "propiedad_horizontal": "CONDOMINIO SAN JOSE DE LA SIERRA",
+    "direcci_n": "CRA 33 No. 24A-23"
+  },
+  {
+    "no_exp": "301",
+    "propiedad_horizontal": "CENTRO COMERCIAL Y RESIDENCIAL EL BOSQUE",
+    "direcci_n": "CRA 14 No. 14N-80"
+  },
+  {
+    "no_exp": "314",
+    "propiedad_horizontal": "CONDOMINIO SANTA MARIA DEL PARQUE",
+    "direcci_n": "CARRERA 19  No. 57-60"
+  },
+  {
+    "no_exp": "330",
+    "propiedad_horizontal": "CONDOMINIO ALTOS DEL BOSQUE",
+    "direcci_n": "CRA. 18 No. 22N-10"
+  },
+  {
+    "no_exp": "359",
+    "propiedad_horizontal": "EDIFICIO LOCALES LA 21",
+    "direcci_n": "CL 18 Y 19 CALLE 20-21"
+  },
+  {
+    "no_exp": "396",
+    "propiedad_horizontal": "EDIFICIO  JARDIN DE LAS AMERICAS",
+    "direcci_n": "CALLE 22 No. 30-21"
+  },
+  {
+    "no_exp": "418",
+    "propiedad_horizontal": "EDIFICIO GIRALDO",
+    "direcci_n": "CALLE 20 No. 12-60"
+  },
+  {
+    "no_exp": "466",
+    "propiedad_horizontal": "EDIFICIO SAN JOSE",
+    "direcci_n": "CRA 14 CON CL 16 No. 15-60/64"
+  },
+  {
+    "no_exp": "480",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PORTAL DE LA COLONIA",
+    "direcci_n": "CARRERA 19 No. 25N-05"
+  },
+  {
+    "no_exp": "565",
+    "propiedad_horizontal": "URBANIZACION EL BOSQUE",
+    "direcci_n": "VEREDA EL CAIMO"
+  },
+  {
+    "no_exp": "598",
+    "propiedad_horizontal": "EDIFICIO VENECIA",
+    "direcci_n": "CALLE 22A Norte  No. 12 - 15"
+  },
+  {
+    "no_exp": "603",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL LAS RAMBLAS",
+    "direcci_n": "CARRERA 19  No. 10N-89"
+  },
+  {
+    "no_exp": "613",
+    "propiedad_horizontal": "EDIFICIO QUINDIO",
+    "direcci_n": "Calle 20 No. 18 - 37"
+  },
+  {
+    "no_exp": "627",
+    "propiedad_horizontal": "CONJUNTO PARQUE RESIDENCIAL SANTA CLARA",
+    "direcci_n": "CARRERA 19 N° 25 N 50"
+  },
+  {
+    "no_exp": "630",
+    "propiedad_horizontal": "CENTRO COMERCIAL BAMBUSA PLAZA",
+    "direcci_n": "carrera 19 con calles 5 y 9 Norte"
+  },
+  {
+    "no_exp": "636",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DE LA ISABELA",
+    "direcci_n": "CARRERA 19 N° 57-15"
+  },
+  {
+    "no_exp": "637",
+    "propiedad_horizontal": "EDIFICIO TORRES DE SAN JOSE",
+    "direcci_n": "calle 13 No. 23a- 24"
+  },
+  {
+    "no_exp": "643",
+    "propiedad_horizontal": "EDIFICIO LOCALES LA 20",
+    "direcci_n": "Carrera 20 No. 19-20 B/ Catorce de Octubre"
+  },
+  {
+    "no_exp": "654",
+    "propiedad_horizontal": "CONDOMINIO PORTAL DE GALICIA",
+    "direcci_n": "Calle 22 No. 40 - 57"
+  },
+  {
+    "no_exp": "666",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR ALOJA",
+    "direcci_n": "Calle 22 No. 27A-04"
+  },
+  {
+    "no_exp": "674",
+    "propiedad_horizontal": "EDIFICIO IRESCO",
+    "direcci_n": "Carrera 19 Numero 19-33"
+  },
+  {
+    "no_exp": "676",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CISNEROS II Y III",
+    "direcci_n": "BARRIO SAN JOSE CARRERA 27A"
+  },
+  {
+    "no_exp": "678",
+    "propiedad_horizontal": "EDIFICIO SAN JOSE DEL PARQUE",
+    "direcci_n": "carrera 13 No. 13-20"
+  },
+  {
+    "no_exp": "683",
+    "propiedad_horizontal": "LA PLAZOLETA PROPIEDAD HORIZONTAL",
+    "direcci_n": "Carrera 19 No 4N–02/08/10/20/22/30/38/42/56/58/72"
+  },
+  {
+    "no_exp": "685",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SENDEROS DE ACAYA",
+    "direcci_n": "CARRERA 20 NUMERO 17N - 36"
+  },
+  {
+    "no_exp": "687",
+    "propiedad_horizontal": "EDIFICIO VALERIA",
+    "direcci_n": "CALLE 21 NUMERO 26 - 41"
+  },
+  {
+    "no_exp": "698",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CALLEJA DE SAN JOSE I ETAPA",
+    "direcci_n": "Calle 30 No. 33-03"
+  },
+  {
+    "no_exp": "699",
+    "propiedad_horizontal": "EDIFICIO VIVIENDA MULTIFAMILIAR COMERCIO TORRE 21",
+    "direcci_n": "CALLE 21 NO. 12-43"
+  },
+  {
+    "no_exp": "702",
+    "propiedad_horizontal": "EDIFICIO VULCANO",
+    "direcci_n": "Calle 21 No. 11-70"
+  },
+  {
+    "no_exp": "706",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL TORRE VERDE",
+    "direcci_n": "CARRERA 19 No. 31N-91"
+  },
+  {
+    "no_exp": "722",
+    "propiedad_horizontal": "EDIFICIO OZONO",
+    "direcci_n": "Calle 22N # 17 - 15"
+  },
+  {
+    "no_exp": "730",
+    "propiedad_horizontal": "CENTRO COMERCIAL LA 20 I ETAPA",
+    "direcci_n": "Calle 20 No. 17 – 11 esquina"
+  },
+  {
+    "no_exp": "736",
+    "propiedad_horizontal": "EDIFICIO EL BOSQUE",
+    "direcci_n": "Calle 21 No. 23-14"
+  },
+  {
+    "no_exp": "738",
+    "propiedad_horizontal": "EDIFICIO TORRE YANUBA",
+    "direcci_n": "Calle 20ANo. 15-16"
+  },
+  {
+    "no_exp": "748",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SENDEROS DEL BOSQUE",
+    "direcci_n": "Calle 25 N° 22-53  Calle 26 N°22-08 Calle 26 N° 22-16"
+  },
+  {
+    "no_exp": "752",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CALLEJA DE SAN JOSE II ET",
+    "direcci_n": "CALLE 30 N. 33-53"
+  },
+  {
+    "no_exp": "755",
+    "propiedad_horizontal": "CONJUNTO PARQUEADEROS COINCA",
+    "direcci_n": "Cra 12 calle 21N # 11-55"
+  },
+  {
+    "no_exp": "760",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL PORTAL DE ALAMEDA",
+    "direcci_n": "Carrera 19N Nº. 36N-40"
+  },
+  {
+    "no_exp": "767",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PORTAL DE LAS AMERICAS",
+    "direcci_n": "Calle 21 # 35 - 21"
+  },
+  {
+    "no_exp": "780",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL AIRES DEL BOSQUE",
+    "direcci_n": "CALLE 45 Nº. 61-20"
+  },
+  {
+    "no_exp": "800",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CAMINOS DEL BOSQUE",
+    "direcci_n": "CALLE 45 N°.42-10"
+  },
+  {
+    "no_exp": "811",
+    "propiedad_horizontal": "CONJUNTO CERRADO BRISAS DEL BOSQUE",
+    "direcci_n": "CALLE 47 Av. De occidente n° 39-71"
+  },
+  {
+    "no_exp": "818",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL ATLANTIS",
+    "direcci_n": "Avenida 19 Carrera 19 con Calle 19N esquina"
+  },
+  {
+    "no_exp": "823",
+    "propiedad_horizontal": "CONJUNTO CERRADO GETSEMANI",
+    "direcci_n": "CARRERA 19 N° 26N-41"
+  },
+  {
+    "no_exp": "850",
+    "propiedad_horizontal": "CONJUNTO PARQUE RESIDENCIAL DEL CAFE ETAPA I",
+    "direcci_n": "Carrera 20 No. 3N-00"
+  },
+  {
+    "no_exp": "853",
+    "propiedad_horizontal": "EDIFICIO DAHIANA-PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 20 No. 23-58"
+  },
+  {
+    "no_exp": "861",
+    "propiedad_horizontal": "EDIFICIO VILLATINA",
+    "direcci_n": "CALLE 22 Nº 30-58"
+  },
+  {
+    "no_exp": "863",
+    "propiedad_horizontal": "EDIFICIO EL POMAR",
+    "direcci_n": "CARRERA 19 CALL 31 ESQUINA Nº 31-00"
+  },
+  {
+    "no_exp": "880",
+    "propiedad_horizontal": "CONJUNTO CERRADO VILLAS DE LUSITANIA",
+    "direcci_n": "CARRERA 19 N°. 71-02"
+  },
+  {
+    "no_exp": "882",
+    "propiedad_horizontal": "EDIFICIO LOCALES COMERCIALES",
+    "direcci_n": "CALLE 17 N: 20-18 ENTRE CARRERA 20 Y 21"
+  },
+  {
+    "no_exp": "884",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL AMBAR RESERVA PROPIEDAD HORIZONTAL",
+    "direcci_n": "CARRERA 19 N°. 21N-01"
+  },
+  {
+    "no_exp": "888",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL SAN JOSE -",
+    "direcci_n": "CALLE 28 N°: 26-40"
+  },
+  {
+    "no_exp": "896",
+    "propiedad_horizontal": "EDIFICIO TORRE ALAMEDA",
+    "direcci_n": "Carrera 19 No. 36N - 38"
+  },
+  {
+    "no_exp": "912",
+    "propiedad_horizontal": "Multifamiliar Ghuancha - Propiedad Horizontal",
+    "direcci_n": "Carrera 20 No. 48 - 86"
+  },
+  {
+    "no_exp": "922",
+    "propiedad_horizontal": "EDIFICIO SAN JOSE",
+    "direcci_n": "CARRERA 26 CALLE 21 ESQUINA"
+  },
+  {
+    "no_exp": "926",
+    "propiedad_horizontal": "EDIFICIO MARIN GALLEGO HERMANOS",
+    "direcci_n": "CALLE 21 No. 17-43 A 17-59, CRA 18 No. 21-03 AL 21-07"
+  },
+  {
+    "no_exp": "932",
+    "propiedad_horizontal": "EDIFICIO BALCONES DE SAN JOSÉ – PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 19 # 28 -07"
+  },
+  {
+    "no_exp": "939",
+    "propiedad_horizontal": "EDIFICIO FÉNIX",
+    "direcci_n": "Carrera 24 # 19-51/57 con Calle 20 # 23-72/74/78"
+  }
+]

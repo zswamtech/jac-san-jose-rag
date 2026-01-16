@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Certificado de Residencia JAC",
+    "category": "tramites_jac",
+    "content": "El Certificado de Residencia es un documento expedido por la Junta de Acción Comunal que certifica que una persona reside en el barrio San José y El Bosque de Armenia, Quindío. Este certificado es útil para diversos trámites ante entidades públicas y privadas.",
+    "requisitos": [
+      "Fotocopia de la cédula de ciudadanía",
+      "Recibo de servicios públicos reciente (agua, luz o gas)",
+      "Carta de un vecino que certifique la residencia (opcional)",
+      "Diligenciar formato de solicitud en la oficina JAC"
+    ],
+    "documentos_requeridos": [
+      "Cédula de ciudadanía",
+      "Recibo de servicios públicos",
+      "Formato de solicitud JAC"
+    ],
+    "pasos": [
+      "1. Reunir los documentos requeridos (cédula y recibo de servicios)",
+      "2. Acercarse a la oficina de la JAC en horario de atención",
+      "3. Diligenciar el formato de solicitud",
+      "4. Entregar los documentos al funcionario de la JAC",
+      "5. Esperar la verificación (puede tomar de 1 a 3 días)",
+      "6. Recoger el certificado en la oficina"
+    ],
+    "costo": 0,
+    "tiempo_respuesta": "1 a 3 días hábiles",
+    "donde": "Oficina de la JAC - Barrio San José",
+    "horario": "Lunes a Viernes, 8:00 AM - 12:00 PM"
+  },
+  {
+    "title": "Afiliación a la JAC",
+    "category": "tramites_jac",
+    "content": "La afiliación a la Junta de Acción Comunal permite a los residentes del barrio participar activamente en las decisiones comunitarias, votar en asambleas, proponer proyectos y acceder a beneficios de programas sociales canalizados a través de la JAC.",
+    "requisitos": [
+      "Ser mayor de 14 años",
+      "Residir en el barrio San José o El Bosque",
+      "Presentar cédula de ciudadanía o tarjeta de identidad",
+      "Diligenciar formato de afiliación",
+      "Asistir a una asamblea de inducción"
+    ],
+    "documentos_requeridos": [
+      "Cédula de ciudadanía o tarjeta de identidad",
+      "Comprobante de residencia",
+      "Formato de afiliación diligenciado"
+    ],
+    "pasos": [
+      "1. Acercarse a la oficina de la JAC y solicitar formato de afiliación",
+      "2. Diligenciar el formato con datos personales",
+      "3. Adjuntar fotocopia de cédula y comprobante de residencia",
+      "4. Entregar documentación completa",
+      "5. Esperar aprobación en la siguiente reunión de junta directiva",
+      "6. Asistir a asamblea de inducción",
+      "7. Recibir carné de afiliado"
+    ],
+    "costo": 0,
+    "tiempo_respuesta": "Según calendario de reuniones de junta directiva",
+    "donde": "Oficina de la JAC - Barrio San José",
+    "horario": "Lunes a Viernes, 8:00 AM - 12:00 PM"
+  },
+  {
+    "title": "Presentar Queja o Reclamo",
+    "category": "tramites_jac",
+    "content": "Los residentes del barrio pueden presentar quejas o reclamos ante la JAC sobre temas comunitarios como: alumbrado público, estado de las vías, convivencia vecinal, ruido, mascotas, entre otros. La JAC gestiona estas solicitudes ante las autoridades competentes.",
+    "requisitos": [
+      "Ser residente del barrio",
+      "Describir claramente el problema o situación",
+      "Indicar ubicación exacta del problema",
+      "Proporcionar datos de contacto"
+    ],
+    "documentos_requeridos": [
+      "Formato de queja diligenciado",
+      "Evidencias fotográficas (opcional pero recomendado)",
+      "Cédula de ciudadanía"
+    ],
+    "pasos": [
+      "1. Acercarse a la oficina de la JAC o enviar la queja por escrito",
+      "2. Describir detalladamente el problema",
+      "3. Indicar dirección exacta y referencias",
+      "4. Dejar datos de contacto para seguimiento",
+      "5. La JAC registra la queja y la canaliza a la entidad correspondiente",
+      "6. Se realiza seguimiento y se informa al ciudadano"
+    ],
+    "costo": 0,
+    "tiempo_respuesta": "Variable según el tipo de queja y la entidad responsable",
+    "donde": "Oficina de la JAC - Barrio San José",
+    "horario": "Lunes a Viernes, 8:00 AM - 12:00 PM"
+  },
+  {
+    "title": "Solicitud de Alumbrado Público",
+    "category": "tramites_jac",
+    "content": "Si una zona del barrio tiene problemas de alumbrado público (lámparas dañadas, zonas oscuras), los residentes pueden solicitar a través de la JAC la reparación o instalación de nuevas luminarias.",
+    "requisitos": [
+      "Identificar el poste o zona con problema",
+      "Describir el tipo de daño (lámpara apagada, intermitente, etc.)",
+      "Proporcionar dirección exacta"
+    ],
+    "documentos_requeridos": [
+      "Formato de solicitud",
+      "Fotografía del poste con problema (opcional)"
+    ],
+    "pasos": [
+      "1. Identificar el número del poste (si es visible)",
+      "2. Reportar a la JAC con dirección exacta",
+      "3. La JAC registra y envía la solicitud a la empresa de alumbrado",
+      "4. Se programa visita técnica",
+      "5. Se realiza la reparación o instalación"
+    ],
+    "costo": 0,
+    "tiempo_respuesta": "7 a 15 días hábiles según disponibilidad de la empresa",
+    "donde": "Oficina de la JAC o reporte directo a la empresa de alumbrado",
+    "horario": "Lunes a Viernes, 8:00 AM - 12:00 PM"
+  },
+  {
+    "title": "Participar en Asambleas",
+    "category": "tramites_jac",
+    "content": "Las asambleas de la JAC son espacios de participación ciudadana donde se toman decisiones importantes sobre el barrio, se eligen dignatarios, se aprueban proyectos y se rinden cuentas a la comunidad. Todo afiliado tiene derecho a voz y voto.",
+    "requisitos": [
+      "Estar afiliado a la JAC",
+      "Asistir puntualmente a las convocatorias",
+      "Presentar cédula de ciudadanía para registro de asistencia"
+    ],
+    "documentos_requeridos": [
+      "Cédula de ciudadanía",
+      "Carné de afiliado JAC"
+    ],
+    "pasos": [
+      "1. Estar atento a las convocatorias (carteleras, WhatsApp, perifoneo)",
+      "2. Confirmar fecha, hora y lugar de la asamblea",
+      "3. Asistir puntualmente",
+      "4. Registrar asistencia con cédula",
+      "5. Participar activamente en debates y votaciones",
+      "6. Firmar actas si es requerido"
+    ],
+    "costo": 0,
+    "tiempo_respuesta": "Las asambleas se realizan según estatutos (ordinarias y extraordinarias)",
+    "donde": "Lugar designado por la JAC (generalmente salón comunal o espacio público)",
+    "horario": "Según convocatoria"
+  },
+  {
+    "title": "Solicitar Uso del Salón Comunal",
+    "category": "tramites_jac",
+    "content": "Los afiliados a la JAC pueden solicitar el uso del salón comunal para eventos familiares, reuniones o actividades comunitarias, sujeto a disponibilidad y cumplimiento del reglamento.",
+    "requisitos": [
+      "Estar afiliado a la JAC",
+      "Estar al día con aportes (si aplica)",
+      "Solicitar con mínimo 15 días de anticipación",
+      "Firmar compromiso de buen uso y entrega"
+    ],
+    "documentos_requeridos": [
+      "Formato de solicitud de salón comunal",
+      "Cédula de ciudadanía",
+      "Carné de afiliado"
+    ],
+    "pasos": [
+      "1. Verificar disponibilidad en la oficina de la JAC",
+      "2. Diligenciar formato de solicitud indicando fecha, hora y tipo de evento",
+      "3. Firmar compromiso de responsabilidad",
+      "4. Realizar depósito de garantía (si aplica)",
+      "5. Recibir las llaves el día del evento",
+      "6. Entregar el salón en las mismas condiciones"
+    ],
+    "costo": "Variable según evento y duración. Consultar tarifas vigentes.",
+    "tiempo_respuesta": "Aprobación en 3 a 5 días hábiles",
+    "donde": "Oficina de la JAC - Barrio San José",
+    "horario": "Lunes a Viernes, 8:00 AM - 12:00 PM"
+  }
+]

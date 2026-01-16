@@ -1,0 +1,24 @@
+[
+  {
+    "nombre": "Fábricas de Calzado del Barrio",
+    "tipo": "fabrica",
+    "categoria": "industria",
+    "sector": "calzado",
+    "descripcion": "El barrio San José y El Bosque alberga varias fábricas de calzado, parte de la tradición industrial del Quindío en la producción de zapatos y artículos de cuero.",
+    "direccion": "Barrio San José / El Bosque, Armenia, Quindío",
+    "productos": ["zapatos", "botas", "sandalias", "calzado deportivo"],
+    "empleos_generados": "",
+    "historia": "La industria del calzado ha sido parte importante de la economía del barrio y del departamento del Quindío"
+  },
+  {
+    "nombre": "Fábricas de Marroquinería",
+    "tipo": "fabrica",
+    "categoria": "industria",
+    "sector": "marroquineria",
+    "descripcion": "Talleres y fábricas dedicadas a la producción de artículos de marroquinería: bolsos, cinturones, carteras y otros productos en cuero.",
+    "direccion": "Barrio San José / El Bosque, Armenia, Quindío",
+    "productos": ["bolsos", "carteras", "cinturones", "billeteras", "accesorios de cuero"],
+    "empleos_generados": "",
+    "historia": "La marroquinería complementa la industria del calzado en el barrio, aprovechando la tradición manufacturera de la zona"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "instrucciones": "Completar con datos reales del barrio",
+  "fecha_creacion": "2026-01-15T18:10:07.041Z",
+  "propiedades": [
+    {
+      "matricula_inmobiliaria": "630-XXXXXX",
+      "direccion": "Calle XX # XX-XX",
+      "barrio": "San José",
+      "tipo_predio": "Residencial"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Colegio Público Principal",
+    "tipo": "colegio_publico",
+    "nivel": "preescolar_primaria_secundaria",
+    "descripcion": "Uno de los colegios públicos más grandes de la ciudad de Armenia. Ofrece educación desde preescolar hasta grado 11. Cuenta con amplias instalaciones y programas educativos completos.",
+    "direccion": "Barrio San José, Armenia, Quindío",
+    "telefono": "",
+    "rector": "",
+    "jornadas": ["mañana", "tarde"],
+    "modalidad": "académica",
+    "estudiantes_aproximados": "",
+    "servicios": ["biblioteca", "laboratorios", "canchas deportivas", "restaurante escolar"],
+    "historia": "Institución educativa de tradición en el barrio San José, reconocida por su calidad educativa"
+  },
+  {
+    "nombre": "Colegio Privado 1",
+    "tipo": "colegio_privado",
+    "nivel": "preescolar_primaria_secundaria",
+    "descripcion": "Colegio privado ubicado en el sector del Barrio San José y El Bosque.",
+    "direccion": "Barrio San José / El Bosque, Armenia, Quindío",
+    "telefono": "",
+    "rector": "",
+    "jornadas": ["única"],
+    "modalidad": "académica",
+    "estudiantes_aproximados": "",
+    "servicios": [],
+    "historia": ""
+  },
+  {
+    "nombre": "Colegio Privado 2",
+    "tipo": "colegio_privado",
+    "nivel": "preescolar_primaria_secundaria",
+    "descripcion": "Colegio privado ubicado en el sector del Barrio San José y El Bosque.",
+    "direccion": "Barrio San José / El Bosque, Armenia, Quindío",
+    "telefono": "",
+    "rector": "",
+    "jornadas": ["única"],
+    "modalidad": "académica",
+    "estudiantes_aproximados": "",
+    "servicios": [],
+    "historia": ""
+  },
+  {
+    "nombre": "Colegio Privado 3",
+    "tipo": "colegio_privado",
+    "nivel": "preescolar_primaria_secundaria",
+    "descripcion": "Colegio privado ubicado en el sector del Barrio San José y El Bosque.",
+    "direccion": "Barrio San José / El Bosque, Armenia, Quindío",
+    "telefono": "",
+    "rector": "",
+    "jornadas": ["única"],
+    "modalidad": "académica",
+    "estudiantes_aproximados": "",
+    "servicios": [],
+    "historia": ""
+  }
+]

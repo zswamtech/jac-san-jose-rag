@@ -1,0 +1,13 @@
+{
+  "fecha_extraccion": "2026-01-15T18:09:14.421Z",
+  "datasets": {
+    "contratacion_municipal_armenia.json": 0,
+    "entidades_sin_lucro_armenia.json": 1099,
+    "establecimientos_comercio_armenia.json": 20038,
+    "juntas_accion_comunal_armenia.json": 1,
+    "prestadores_turisticos_armenia.json": 7358,
+    "propiedad_horizontal_armenia.json": 944,
+    "secop_procesos_armenia.json": 106
+  },
+  "total_registros": 29546
+}

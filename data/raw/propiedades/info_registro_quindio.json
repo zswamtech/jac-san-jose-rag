@@ -1,0 +1,41 @@
+{
+  "orip": {
+    "nombre": "Oficina de Registro de Instrumentos Públicos de Armenia",
+    "direccion": "Calle 21 # 14-32, Armenia, Quindío",
+    "telefono": "(606) 744-4444",
+    "web": "https://www.supernotariado.gov.co/",
+    "servicios_en_linea": {
+      "consulta_indices": "https://radicacion.supernotariado.gov.co/app/certificado.web/pages/consulta/consultaIndice.jsf",
+      "certificado_libertad": "https://certificados.supernotariado.gov.co/"
+    },
+    "tarifas": {
+      "certificado_tradicion": 18300,
+      "certificado_tradicion_electronico": 16470
+    }
+  },
+  "circulo_registral": {
+    "codigo": "630",
+    "departamento": "Quindío",
+    "oficina": "Armenia",
+    "municipios_jurisdiccion": [
+      "Armenia",
+      "Buenavista",
+      "Calarcá",
+      "Circasia",
+      "Córdoba",
+      "Filandia",
+      "Génova",
+      "La Tebaida",
+      "Montenegro",
+      "Pijao",
+      "Quimbaya",
+      "Salento"
+    ]
+  },
+  "formato_matricula": "630-XXXXXX",
+  "notas": [
+    "El código 630 corresponde a Armenia",
+    "Las matrículas son números secuenciales de 6 dígitos",
+    "Se requiere pago para obtener certificados completos"
+  ]
+}

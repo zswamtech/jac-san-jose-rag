@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Estadio del Barrio San José",
+    "tipo": "estadio",
+    "categoria": "deportivo",
+    "descripcion": "El primer estadio de fútbol que tuvo la ciudad de Armenia. En este escenario histórico, el Deportes Quindío logró su primera estrella en la liga nacional de fútbol colombiano. Aunque actualmente es un estadio antiguo, representa un patrimonio histórico y deportivo invaluable para la ciudad.",
+    "direccion": "Barrio San José, Armenia, Quindío",
+    "estado": "operativo",
+    "capacidad": "",
+    "uso_actual": "eventos deportivos locales, entrenamientos",
+    "historia": "Primer estadio de Armenia. Aquí el Deportes Quindío conquistó su primera estrella en la liga colombiana de fútbol. Un lugar de orgullo para todos los quindianos y especialmente para los habitantes del barrio San José.",
+    "importancia_historica": "alta"
+  },
+  {
+    "nombre": "Iglesia del Barrio",
+    "tipo": "iglesia",
+    "categoria": "religioso",
+    "descripcion": "Iglesia católica del barrio San José y El Bosque. Centro de la vida religiosa de la comunidad.",
+    "direccion": "Barrio San José, Armenia, Quindío",
+    "estado": "activo",
+    "horarios_misa": [],
+    "parroco": "",
+    "servicios": ["misas dominicales", "bautizos", "matrimonios", "funerales", "primeras comuniones", "confirmaciones"],
+    "historia": "Centro espiritual de la comunidad del barrio"
+  },
+  {
+    "nombre": "Plaza de Toros",
+    "tipo": "plaza_toros",
+    "categoria": "cultural",
+    "descripcion": "Plaza de toros ubicada dentro del bosque que da nombre al barrio. Actualmente se encuentra inactiva debido a las leyes de protección animal que prohibieron las corridas de toros en Colombia.",
+    "direccion": "El Bosque, Barrio San José, Armenia, Quindío",
+    "estado": "inactivo",
+    "capacidad": "",
+    "uso_actual": "sin uso - patrimonio arquitectónico",
+    "historia": "La plaza de toros fue parte importante de la tradición cultural del barrio y la ciudad. Se encuentra dentro del bosque y representa un patrimonio arquitectónico aunque ya no está en funcionamiento por leyes de bienestar animal.",
+    "importancia_historica": "media"
+  },
+  {
+    "nombre": "El Bosque",
+    "tipo": "parque_natural",
+    "categoria": "ambiental",
+    "descripcion": "Bosque natural que da nombre al barrio 'El Bosque'. Área verde dentro del perímetro urbano que ofrece un espacio de naturaleza y esparcimiento para la comunidad.",
+    "direccion": "Barrio El Bosque, Armenia, Quindío",
+    "estado": "activo",
+    "servicios": ["senderos", "zonas verdes", "aire puro"],
+    "flora_fauna": "Árboles nativos, aves, fauna silvestre urbana",
+    "historia": "El bosque es el corazón verde del barrio y la razón de su nombre. Un pulmón natural dentro de la ciudad.",
+    "importancia_ambiental": "alta"
+  },
+  {
+    "nombre": "Antiguo Batallón (Conjunto Residencial)",
+    "tipo": "conjunto_residencial",
+    "categoria": "historico",
+    "descripcion": "Lo que antes fue un batallón militar hoy es un moderno conjunto residencial dentro del barrio. La transformación representa el cambio de uso del suelo y el crecimiento urbano de Armenia.",
+    "direccion": "Barrio San José, Armenia, Quindío",
+    "estado": "activo",
+    "uso_anterior": "batallón militar",
+    "uso_actual": "conjunto residencial",
+    "historia": "Este terreno albergó un batallón militar durante muchos años. Con el tiempo y la reubicación de las instalaciones militares, se convirtió en un desarrollo residencial que hoy forma parte integral del barrio.",
+    "importancia_historica": "alta"
+  },
+  {
+    "nombre": "Avenida Principal",
+    "tipo": "via",
+    "categoria": "infraestructura_vial",
+    "descripcion": "Una de las avenidas más importantes de Armenia que atraviesa el barrio y conecta con el centro de la ciudad. Por esta vía hay comercio activo y es arteria principal de transporte.",
+    "direccion": "Barrio San José, Armenia, Quindío",
+    "estado": "activo",
+    "conecta_con": ["Centro de Armenia", "otros barrios"],
+    "comercio": "Sí - zona comercial activa",
+    "transporte_publico": "Sí",
+    "historia": "Vía histórica que ha sido testigo del crecimiento del barrio y la ciudad"
+  }
+]

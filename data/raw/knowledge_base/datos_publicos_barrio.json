@@ -1,0 +1,35 @@
+{
+  "articulos": [
+    {
+      "id": "art_comercio_datos_publicos",
+      "titulo": "Comercio Local del Barrio - Datos Oficiales",
+      "contenido": "El barrio San José y El Bosque cuenta con 310 establecimientos comerciales registrados oficialmente en la Cámara de Comercio de Armenia. Estos datos provienen de fuentes públicas (datos.gov.co) y representan el comercio formal del sector.",
+      "categoria": "economia",
+      "fecha_actualizacion": "2026-01-15T21:07:32.046Z",
+      "fuente": "Cámara de Comercio Armenia - datos.gov.co"
+    },
+    {
+      "id": "art_jacs_armenia",
+      "titulo": "Juntas de Acción Comunal en Armenia",
+      "contenido": "En Armenia, Quindío, existen 1 Juntas de Acción Comunal registradas oficialmente. Las JACs son organizaciones cívicas que representan a los habitantes de un barrio o vereda ante las autoridades y entidades públicas. La JAC del Barrio San José y El Bosque es una de las más activas de la ciudad.",
+      "categoria": "organizacion_comunal",
+      "fecha_actualizacion": "2026-01-15T21:07:32.046Z",
+      "fuente": "Cámara de Comercio Armenia - Registro ESAL"
+    },
+    {
+      "id": "art_conjuntos_residenciales",
+      "titulo": "Conjuntos y Edificios del Barrio",
+      "contenido": "El barrio cuenta con 73 propiedades horizontales registradas, incluyendo conjuntos residenciales y edificios. Esta información proviene del registro oficial de propiedad horizontal del municipio de Armenia.",
+      "categoria": "vivienda",
+      "fecha_actualizacion": "2026-01-15T21:07:32.046Z",
+      "fuente": "Alcaldía de Armenia - datos.gov.co"
+    }
+  ],
+  "fuentes": [
+    "Historia oral del barrio",
+    "datos.gov.co",
+    "SECOP II",
+    "Cámara de Comercio Armenia"
+  ],
+  "ultima_actualizacion": "2026-01-15T21:07:32.046Z"
+}

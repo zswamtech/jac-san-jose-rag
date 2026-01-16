@@ -1,0 +1,4720 @@
+[
+  {
+    "no_exp": "1",
+    "propiedad_horizontal": "EDIFICIO ACUARIUM",
+    "direcci_n": "CARRERA 14  No. 14N – 06"
+  },
+  {
+    "no_exp": "2",
+    "propiedad_horizontal": "EDIFICIO ALAMEDA",
+    "direcci_n": "CARRERA 11  No. 22N – 09"
+  },
+  {
+    "no_exp": "3",
+    "propiedad_horizontal": "CONDOMINIO LA ALDEA",
+    "direcci_n": "CARRERA 16  No. 26 - 24"
+  },
+  {
+    "no_exp": "4",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE LA ALDEA",
+    "direcci_n": "JURISDICCION CIRCASIA"
+  },
+  {
+    "no_exp": "5",
+    "propiedad_horizontal": "EDIFICIO ALMALLAS",
+    "direcci_n": "CALLE 20  No. 18 – 18"
+  },
+  {
+    "no_exp": "6",
+    "propiedad_horizontal": "EDIFICIO LOS ALMENDROS",
+    "direcci_n": "CALLLE 13A  No.  13N -47"
+  },
+  {
+    "no_exp": "7",
+    "propiedad_horizontal": "EDIFICIO LOS ALMENDROS",
+    "direcci_n": "CALLE  5N  No. 16 – 69"
+  },
+  {
+    "no_exp": "8",
+    "propiedad_horizontal": "EDIFICIO ALMIRANTE",
+    "direcci_n": "CALLE 2  No.  17 – 55 y 17 - 31"
+  },
+  {
+    "no_exp": "9",
+    "propiedad_horizontal": "UNIDAD RESIDENCIAL ALTO DE LAS PALMAS",
+    "direcci_n": "CALLE 3  No. 20 – 23"
+  },
+  {
+    "no_exp": "10",
+    "propiedad_horizontal": "CONDOMINIO ANDALUCIA",
+    "direcci_n": "CARRERA  21  No. 18 – 36"
+  },
+  {
+    "no_exp": "11",
+    "propiedad_horizontal": "CONDOMINIO LOS ANDES",
+    "direcci_n": "CARRERA 15  No. 15 – 04"
+  },
+  {
+    "no_exp": "12",
+    "propiedad_horizontal": "UNIDAD RESIDENCIAL ANDINA",
+    "direcci_n": "CALLE 11 No. 22 – 61"
+  },
+  {
+    "no_exp": "13",
+    "propiedad_horizontal": "EDIFICIO LOS ANGELES",
+    "direcci_n": "CALLE 23 No. 14 – 54"
+  },
+  {
+    "no_exp": "14",
+    "propiedad_horizontal": "EDIFICIO APARCADEROS PIJAO",
+    "direcci_n": "CALLE 23  No. 15 - 37"
+  },
+  {
+    "no_exp": "15",
+    "propiedad_horizontal": "APARCADEROS CENTENARIO",
+    "direcci_n": "CARRERA 12 No. 20 – 10"
+  },
+  {
+    "no_exp": "16",
+    "propiedad_horizontal": "EDIFICIO ARTALVA",
+    "direcci_n": "CARRERA 18 No. 21 – 06"
+  },
+  {
+    "no_exp": "17",
+    "propiedad_horizontal": "EDIFICIO ASTURIAS",
+    "direcci_n": "CALLE 17 No. 13 – 08"
+  },
+  {
+    "no_exp": "18",
+    "propiedad_horizontal": "EDIFICIO ATENAS",
+    "direcci_n": "CALLE 13 No. 15 – 07"
+  },
+  {
+    "no_exp": "19",
+    "propiedad_horizontal": "EDIFICIO ATLAS",
+    "direcci_n": "Calle 16 No. 14-65"
+  },
+  {
+    "no_exp": "20",
+    "propiedad_horizontal": "EDIFICIO AUTOCENTRO",
+    "direcci_n": "CARRERA 18 CALLE 13 ESQUINA"
+  },
+  {
+    "no_exp": "21",
+    "propiedad_horizontal": "EDIFICIO AYTAMARA",
+    "direcci_n": "CARRERA 19 No. 16 – 50"
+  },
+  {
+    "no_exp": "22",
+    "propiedad_horizontal": "EDIFICIO COMERCIAL A.Z.",
+    "direcci_n": "CARRERA 18 ENTRE CALLES  21 Y 22"
+  },
+  {
+    "no_exp": "23",
+    "propiedad_horizontal": "EDIFICIO BACHUE",
+    "direcci_n": "CALLE 5 NORTE No. 18ª – 07"
+  },
+  {
+    "no_exp": "24",
+    "propiedad_horizontal": "EDIFICIO BANCO DE BOGOTA",
+    "direcci_n": "CALLE 21 No. 17 – 02"
+  },
+  {
+    "no_exp": "25",
+    "propiedad_horizontal": "EDIFICIO BANCO CAFETERO",
+    "direcci_n": "CARRERA 17 No. 20 - 27"
+  },
+  {
+    "no_exp": "26",
+    "propiedad_horizontal": "EDIFICIO BANCO POPULAR",
+    "direcci_n": "CALLE 21 No. 16 - 37"
+  },
+  {
+    "no_exp": "27",
+    "propiedad_horizontal": "EDIFICIO BANI",
+    "direcci_n": "CALLE 16 No. 13 – 10"
+  },
+  {
+    "no_exp": "28",
+    "propiedad_horizontal": "EDIFICIO BARILOCHE",
+    "direcci_n": "CARRERA 13 No. 22 – 10"
+  },
+  {
+    "no_exp": "29",
+    "propiedad_horizontal": "EDIFICIO BAVARIA",
+    "direcci_n": "CARRERA 14 No. 3 – 28"
+  },
+  {
+    "no_exp": "30",
+    "propiedad_horizontal": "EDIFICIO BELMONTE",
+    "direcci_n": "CARRERA 15  No.  10N-11"
+  },
+  {
+    "no_exp": "31",
+    "propiedad_horizontal": "CONDOMINIO BELLAVISTA",
+    "direcci_n": "CARRERA 12 N 22-11"
+  },
+  {
+    "no_exp": "32",
+    "propiedad_horizontal": "EDIFICIO BENHUR",
+    "direcci_n": "CARRERA 18 No. 14 – 50"
+  },
+  {
+    "no_exp": "33A",
+    "propiedad_horizontal": "EDIFICIO RESIDENCIAS BOLIVAR",
+    "direcci_n": "CARRERA 13 CLL 22 Y 23"
+  },
+  {
+    "no_exp": "33",
+    "propiedad_horizontal": "CENTRO COMERCIAL BOLIVAR",
+    "direcci_n": "AVENIDA BOLIVAR calle 2N No.14-01"
+  },
+  {
+    "no_exp": "34",
+    "propiedad_horizontal": "EDIFICIO BONANZA",
+    "direcci_n": "AVENIDA BOLIVAR  No. 22N – 05"
+  },
+  {
+    "no_exp": "35",
+    "propiedad_horizontal": "URBANIZACION  LAS BRISAS PRIMERA ETAPA",
+    "direcci_n": "CARRERA 31 No. 47 – 30"
+  },
+  {
+    "no_exp": "36",
+    "propiedad_horizontal": "EDIFICIO CALIFORNIA",
+    "direcci_n": "CALLE 14N  No. 12 – 09"
+  },
+  {
+    "no_exp": "37",
+    "propiedad_horizontal": "EDIFICIO CALLE DE JUNIN",
+    "direcci_n": "Calle 6a. No. 18-20"
+  },
+  {
+    "no_exp": "38",
+    "propiedad_horizontal": "EDIFICIO CALLE DE SEVILLA",
+    "direcci_n": "CARRERA. 13 No. 6 – 27"
+  },
+  {
+    "no_exp": "39",
+    "propiedad_horizontal": "EDIFICIO CAMINO REAL",
+    "direcci_n": "CALLE 15 NORTE No. 9 – 12"
+  },
+  {
+    "no_exp": "40",
+    "propiedad_horizontal": "CONDOMINIO LA CAMPIÑA",
+    "direcci_n": "CARRERA 11 N°: 13N-14"
+  },
+  {
+    "no_exp": "41",
+    "propiedad_horizontal": "EDIFICIO CAMPO REAL",
+    "direcci_n": "CARRERA 11 No. 20N - 45"
+  },
+  {
+    "no_exp": "42",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR LA CANDELARIA",
+    "direcci_n": "CALLE 19 A NORTE No. 14 – 44"
+  },
+  {
+    "no_exp": "43",
+    "propiedad_horizontal": "CONDOMINIO CASABLANCA",
+    "direcci_n": "CARRERA 13 No. 25 – 44"
+  },
+  {
+    "no_exp": "44",
+    "propiedad_horizontal": "URBANIZACION CASABLANCA II ETAPA",
+    "direcci_n": "CARRERA 19 A No. 48 – 01"
+  },
+  {
+    "no_exp": "45",
+    "propiedad_horizontal": "EDIFICIO CENTRO COMERCIAL Y RESIDENCIAL EL CASTILLO",
+    "direcci_n": "CARRERA 15 No. 18-07"
+  },
+  {
+    "no_exp": "46",
+    "propiedad_horizontal": "EDIFICIO CATALINA",
+    "direcci_n": "CALLE 9 No 18 – 37"
+  },
+  {
+    "no_exp": "47",
+    "propiedad_horizontal": "CONDOMINIO LA CATORCE",
+    "direcci_n": "CARRERA 14 No. 21 - 53"
+  },
+  {
+    "no_exp": "48",
+    "propiedad_horizontal": "EDIFICIO LOS CEDROS",
+    "direcci_n": "CALLE 13  No. 14 – 50"
+  },
+  {
+    "no_exp": "49",
+    "propiedad_horizontal": "CONDOMINIO EL CENTENARIO",
+    "direcci_n": "CALLE 19  No. 11 – 30"
+  },
+  {
+    "no_exp": "50",
+    "propiedad_horizontal": "EDIFICIO CENTRO 21",
+    "direcci_n": "CARRERA 18  No. 21 – 25"
+  },
+  {
+    "no_exp": "51",
+    "propiedad_horizontal": "CENTRO COMERCIAL DE LA CALLE REAL",
+    "direcci_n": "CALLE 17  No. 13 – 35"
+  },
+  {
+    "no_exp": "52",
+    "propiedad_horizontal": "EDIFICIO CENTRO COMERCIAL CRISTOBAL COLON",
+    "direcci_n": "CARRERA 15 CON CALLE 20"
+  },
+  {
+    "no_exp": "53",
+    "propiedad_horizontal": "CONDOMINIO LOS CEREZOS",
+    "direcci_n": "CARRERA 5N  No. 16 – 22"
+  },
+  {
+    "no_exp": "54",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL COINCA",
+    "direcci_n": "CALLE 22 NORTE No. 11 – 75"
+  },
+  {
+    "no_exp": "55",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL COINCA II ETAPA",
+    "direcci_n": "CARRERA 11 CALLE 21N No. 20N – 46"
+  },
+  {
+    "no_exp": "56",
+    "propiedad_horizontal": "EDIFICIO CONCASA",
+    "direcci_n": "CALLE 21 No. 15 – 26"
+  },
+  {
+    "no_exp": "57",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIR COOPROQUIN",
+    "direcci_n": "CARRERA 14 ENTRE CALLE 24 Y 25N"
+  },
+  {
+    "no_exp": "58",
+    "propiedad_horizontal": "CONDOMINIO COPACABANA",
+    "direcci_n": "CARRERA 29 No. 21 – 45"
+  },
+  {
+    "no_exp": "59",
+    "propiedad_horizontal": "EDIFICIO CONQUISTADOR",
+    "direcci_n": "CARRERA 15  No. 1N-12/10"
+  },
+  {
+    "no_exp": "60",
+    "propiedad_horizontal": "URBANIZACION LOS CRISTALES",
+    "direcci_n": "CALLES 47 Y 48"
+  },
+  {
+    "no_exp": "61",
+    "propiedad_horizontal": "NO FUE ASIGNADO"
+  },
+  {
+    "no_exp": "62",
+    "propiedad_horizontal": "EDIFICIO No. 1 PARQUE RESIDENCIAL LA CASTELLANA",
+    "direcci_n": "CALLE 14N  No. 10 – 49"
+  },
+  {
+    "no_exp": "63",
+    "propiedad_horizontal": "EDIFICIO CLAUDIA MARIA",
+    "direcci_n": "CARRERA 12N  No. 23 – 19"
+  },
+  {
+    "no_exp": "64",
+    "propiedad_horizontal": "EDIFICIO DE LA SIERRA",
+    "direcci_n": "CALLE 10N  No. 18 – 61"
+  },
+  {
+    "no_exp": "65",
+    "propiedad_horizontal": "CONDOMINIO EDIFICIO EDUA",
+    "direcci_n": "CALLE 16  No. 15 – 49"
+  },
+  {
+    "no_exp": "66",
+    "propiedad_horizontal": "EDIFICIO EL ESCORIAL",
+    "direcci_n": "CARRERA 15  No. 19-15 AL 19-31"
+  },
+  {
+    "no_exp": "67",
+    "propiedad_horizontal": "EDIFICIO ESCOBAR Y BOTERO",
+    "direcci_n": "CARRERA 16  No. 17 – 13"
+  },
+  {
+    "no_exp": "68",
+    "propiedad_horizontal": "EDIFICIO LOS FUNDADORES",
+    "direcci_n": "CARRERA 15 CALLE 22"
+  },
+  {
+    "no_exp": "69",
+    "propiedad_horizontal": "EDIFICIO LOS FUNDADORES",
+    "direcci_n": "CARRERA 13A  No. 1AN – 05/45"
+  },
+  {
+    "no_exp": "70",
+    "propiedad_horizontal": "URBANIZACION LOS GUADUALES",
+    "direcci_n": "CALLE 40 CARRERA 21 Y 23"
+  },
+  {
+    "no_exp": "71",
+    "propiedad_horizontal": "EDIFICIO GUAYACAN",
+    "direcci_n": "CARRERAS 19 y 20  No. 19 - 57"
+  },
+  {
+    "no_exp": "72",
+    "propiedad_horizontal": "EDIFICIO GUIVAL",
+    "direcci_n": "CALLE 19N No. 14 – 21/23"
+  },
+  {
+    "no_exp": "73",
+    "propiedad_horizontal": "EDIFICIO GRAN TORINO",
+    "direcci_n": "CARRERA 13 No. 14 – 26"
+  },
+  {
+    "no_exp": "74",
+    "propiedad_horizontal": "EDIFICIO IBIZA",
+    "direcci_n": "CALLE 1N No. 16 – 09"
+  },
+  {
+    "no_exp": "75",
+    "propiedad_horizontal": "EDIFICIO LAS JOTAS",
+    "direcci_n": "CARRERA 14 CALLE 5 No. 13 – 23"
+  },
+  {
+    "no_exp": "76",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL JOSE ANTONIO GALAN",
+    "direcci_n": "CARRERA 18 No.4A-10/16"
+  },
+  {
+    "no_exp": "77",
+    "propiedad_horizontal": "CENTRO COMERCIAL LA ESQUINA",
+    "direcci_n": "CARRERA 14  No.  23 - 15"
+  },
+  {
+    "no_exp": "78",
+    "propiedad_horizontal": "EDIFICIO LA GIRALDA",
+    "direcci_n": "CALLE 22 CARRERA 19"
+  },
+  {
+    "no_exp": "79",
+    "propiedad_horizontal": "EDIFICIO LOTERIA DEL QUINDIO",
+    "direcci_n": "CARRERA 16 No. 19 – 17"
+  },
+  {
+    "no_exp": "80",
+    "propiedad_horizontal": "EDIFICIO LUJIMENEZ",
+    "direcci_n": "CARRERA 16 No. 19 – 28"
+  },
+  {
+    "no_exp": "81",
+    "propiedad_horizontal": "UNIDAD RESIDENCIAL MARIA CRISTINA I ETAPA",
+    "direcci_n": "AV. CENTERNARIO CL 17 No. 17-06"
+  },
+  {
+    "no_exp": "82",
+    "propiedad_horizontal": "CONJUNTO RESIDENICAL MARIA CRISTINA II ETAPA",
+    "direcci_n": "CARRERA 6° N° 15-47"
+  },
+  {
+    "no_exp": "83",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MALLORCA",
+    "direcci_n": "CALLE 10N No. 18 – 70"
+  },
+  {
+    "no_exp": "84",
+    "propiedad_horizontal": "EDIFICIO LAS MARGARITAS",
+    "direcci_n": "CALLE 5 N  No. 17 – 78"
+  },
+  {
+    "no_exp": "85",
+    "propiedad_horizontal": "CONDOMINIO MEDITERRANEO",
+    "direcci_n": "CALLE 5N  No. 17 – 17"
+  },
+  {
+    "no_exp": "86",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DEL BOSQUE",
+    "direcci_n": "CALLE 17 No. 23-119"
+  },
+  {
+    "no_exp": "87",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DEL CENTENARIO",
+    "direcci_n": "CARRERA 18 CALLE 43 Y 44"
+  },
+  {
+    "no_exp": "88",
+    "propiedad_horizontal": "EDIFICIO MONTECARLO",
+    "direcci_n": "CALLE 23 No. 13 – 48"
+  },
+  {
+    "no_exp": "89",
+    "propiedad_horizontal": "CONDOMINIO MUÑOZ MONTOYA",
+    "direcci_n": "CARREA 17 No. 17 - 58"
+  },
+  {
+    "no_exp": "90",
+    "propiedad_horizontal": "EDIFICIO PANORAMA PROPIEDAD HORIZONTAL",
+    "direcci_n": "CALLE 22 N  No. 13 – 16"
+  },
+  {
+    "no_exp": "91",
+    "propiedad_horizontal": "CONDOMINIO URBANIZACION EL PARAISO",
+    "direcci_n": "Urbanización el Paraiso"
+  },
+  {
+    "no_exp": "92",
+    "propiedad_horizontal": "CONDOMINIO EDIFICIO PIAMONTE",
+    "direcci_n": "CALLE 13N No. 9 - 52"
+  },
+  {
+    "no_exp": "93",
+    "propiedad_horizontal": "EDIFICIO  EL PINAR",
+    "direcci_n": "CARRERA 12 No. 14 – 55"
+  },
+  {
+    "no_exp": "94",
+    "propiedad_horizontal": "EDIFICIO LA POLA",
+    "direcci_n": "CARRERA 15  No. 22 – 43"
+  },
+  {
+    "no_exp": "95",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL EL PORTICO",
+    "direcci_n": "AV. BOL. No. 44N-00"
+  },
+  {
+    "no_exp": "96",
+    "propiedad_horizontal": "EDIFICIO EL PRADO",
+    "direcci_n": "CALLE 27 No. 13 – 11"
+  },
+  {
+    "no_exp": "97",
+    "propiedad_horizontal": "EDIFICIO PRINCESS",
+    "direcci_n": "CALLE 5N No. 15 – 15"
+  },
+  {
+    "no_exp": "98",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR PROVIDENCIA I ETAPA",
+    "direcci_n": "CALLE 10N No. 18 – 71"
+  },
+  {
+    "no_exp": "99",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR PROVIDENCIA III ETAPA",
+    "direcci_n": "CALLE 10N No. 18 – 108"
+  },
+  {
+    "no_exp": "100",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PROVITEQ UNIDAD UNO",
+    "direcci_n": "AVENIDA 19 No. 16N – 60"
+  },
+  {
+    "no_exp": "101",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PROVITEQ  UNIDAD DOS",
+    "direcci_n": "AVENIDA 19 No. 13N – 34"
+  },
+  {
+    "no_exp": "102",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PROVITEQ UNIDAD TRES",
+    "direcci_n": "AVENIDA 19 No. 15N – 49"
+  },
+  {
+    "no_exp": "103",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PROVITEQ UNIDAD CUATRO",
+    "direcci_n": "AVENIDA 19 No. 13N – 47"
+  },
+  {
+    "no_exp": "104",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PROVITEQ UNIDAD CINCO",
+    "direcci_n": "AVENIDA 19 No. 11N – 93"
+  },
+  {
+    "no_exp": "105",
+    "propiedad_horizontal": "PROVIVENDA CENTRO NACIONAL"
+  },
+  {
+    "no_exp": "106",
+    "propiedad_horizontal": "EDIFICIO EL PORTAL",
+    "direcci_n": "AV. BOLIVAR No. 1N-51"
+  },
+  {
+    "no_exp": "107",
+    "propiedad_horizontal": "CONDOMINIO  PRAGA",
+    "direcci_n": "CRA 15 No. 23-44"
+  },
+  {
+    "no_exp": "108",
+    "propiedad_horizontal": "CONDOMINIO PLAZA",
+    "direcci_n": "CRA 14 No. 21-35"
+  },
+  {
+    "no_exp": "109",
+    "propiedad_horizontal": "URBANIZACION EL RETIRO",
+    "direcci_n": "Calle 19 Norte No. 12-49"
+  },
+  {
+    "no_exp": "110",
+    "propiedad_horizontal": "CONDOMINIO EL RINCON",
+    "direcci_n": "CRA 15 No 15N-40"
+  },
+  {
+    "no_exp": "111",
+    "propiedad_horizontal": "EDIFICIO LOS ROBLES",
+    "direcci_n": "CRA 14 No. 22-31"
+  },
+  {
+    "no_exp": "112",
+    "propiedad_horizontal": "EDIFICIO CONDOMINIO SAHARA",
+    "direcci_n": "CRA 16 CLL 25"
+  },
+  {
+    "no_exp": "113",
+    "propiedad_horizontal": "CENTRO COMERCIAL POPULAR SAN ANDRESITO",
+    "direcci_n": "CARRERA 15 NO. 22-45 Y 22-47"
+  },
+  {
+    "no_exp": "114",
+    "propiedad_horizontal": "SAN CAMILO",
+    "direcci_n": "CLL 22 No. 12-40"
+  },
+  {
+    "no_exp": "115",
+    "propiedad_horizontal": "EDIFICIO SAN CARLOS",
+    "direcci_n": "CLL 20N No. 14-08"
+  },
+  {
+    "no_exp": "116",
+    "propiedad_horizontal": "CONDOMINIO SAN DIEGO",
+    "direcci_n": "CLL 13N No. 10-150"
+  },
+  {
+    "no_exp": "117",
+    "propiedad_horizontal": "CONDOMINIO SAN FRANCISCO",
+    "direcci_n": "CLL 14  CARRERA18 No.18-18"
+  },
+  {
+    "no_exp": "118",
+    "propiedad_horizontal": "SAN REMO",
+    "direcci_n": "CRA 14 CLL 22N-48"
+  },
+  {
+    "no_exp": "119",
+    "propiedad_horizontal": "EDIFICIO LOS SAMANES",
+    "direcci_n": "CARRERA 16 No. 22N-15"
+  },
+  {
+    "no_exp": "120",
+    "propiedad_horizontal": "EDIFICIO SAN ROQUE",
+    "direcci_n": "CARRERA 17 No. 5N-26"
+  },
+  {
+    "no_exp": "121",
+    "propiedad_horizontal": "EDIFICIO SANTA MONICA",
+    "direcci_n": "CRA 16 No. 4N-35"
+  },
+  {
+    "no_exp": "122",
+    "propiedad_horizontal": "EDIFICIO SANTA CLARA",
+    "direcci_n": "CL 17 No. 14-13"
+  },
+  {
+    "no_exp": "123",
+    "propiedad_horizontal": "EDIFICIO TORRE SANTO DOMINGO",
+    "direcci_n": "CL 13 No. 13-11"
+  },
+  {
+    "no_exp": "124",
+    "propiedad_horizontal": "EDIFICIO SANTORINI",
+    "direcci_n": "CALLE 22N No. 16 - 18"
+  },
+  {
+    "no_exp": "125",
+    "propiedad_horizontal": "CONDOMINIO SAUZALITO",
+    "direcci_n": "CRA. 14 No. 12N-15"
+  },
+  {
+    "no_exp": "126",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL LA SUIZA",
+    "direcci_n": "CRA 16 No. 22N-90"
+  },
+  {
+    "no_exp": "127",
+    "propiedad_horizontal": "EDIFICIO SURAMERICANA",
+    "direcci_n": "CLL 19 No. 14-17"
+  },
+  {
+    "no_exp": "128",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE SANTA ANA",
+    "direcci_n": "KL 3 VIA AL EDEN"
+  },
+  {
+    "no_exp": "129",
+    "propiedad_horizontal": "EDIFICIO APARTAESTUDIOS TORREMOLINOS",
+    "direcci_n": "CL 17N No. 14-10 A 14-24"
+  },
+  {
+    "no_exp": "130",
+    "propiedad_horizontal": "SDIFICIO TORREON",
+    "direcci_n": "CRA 14N No. 9-52"
+  },
+  {
+    "no_exp": "131",
+    "propiedad_horizontal": "EDIFICIO TORRE COLPATRIA",
+    "direcci_n": "CARRERA 15 No. 20A-04"
+  },
+  {
+    "no_exp": "132",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TORRES DE ALCAZAR",
+    "direcci_n": "CLL 12 No. 2N-59"
+  },
+  {
+    "no_exp": "133",
+    "propiedad_horizontal": "EDIFICIO TORRE HORIZONTE",
+    "direcci_n": "CRA 4N No  13-127"
+  },
+  {
+    "no_exp": "134",
+    "propiedad_horizontal": "EDIFICIO TERMINAL DE TRANSPORTES DE ARMENIA",
+    "direcci_n": "CLL 35 No. 20-68"
+  },
+  {
+    "no_exp": "135",
+    "propiedad_horizontal": "EDIFICIO VALORIZACION ARMENIA",
+    "direcci_n": "CL 21 No. 13-51"
+  },
+  {
+    "no_exp": "136",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LAS VEGAS",
+    "direcci_n": "CRA. 18 No. 48-97"
+  },
+  {
+    "no_exp": "137",
+    "propiedad_horizontal": "EDIFICIO LAS VEGAS",
+    "direcci_n": "CL 22 No. 14-33"
+  },
+  {
+    "no_exp": "138",
+    "propiedad_horizontal": "EDIFICIO VERSALLES",
+    "direcci_n": "CLL 22 No. 13-49"
+  },
+  {
+    "no_exp": "139",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL VILLA JARDIN",
+    "direcci_n": "CLL 22 ENTRE CRAS 28,28ª,29"
+  },
+  {
+    "no_exp": "140",
+    "propiedad_horizontal": "EDIFICIO VILLA DEL ROSARIO",
+    "direcci_n": "CRA 16 No. 3N-27"
+  },
+  {
+    "no_exp": "141",
+    "propiedad_horizontal": "CONDOMINIO VILLAREAL",
+    "direcci_n": "CRA 18 No 12-40 CR. 13 No. 18-48"
+  },
+  {
+    "no_exp": "142",
+    "propiedad_horizontal": "URBANIZACION VILLA ROSARIO",
+    "direcci_n": "CLL 8 No. 22-45"
+  },
+  {
+    "no_exp": "143",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL VILLA XIMENA II ETAPA",
+    "direcci_n": "CR 27 CLL37N49"
+  },
+  {
+    "no_exp": "144",
+    "propiedad_horizontal": "URBANIZACION YULIMA I ETAPA UNIDADES I Y II",
+    "direcci_n": "Calle 9a entre calles 21 y 22"
+  },
+  {
+    "no_exp": "145",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR YULIMA II CELULA C",
+    "direcci_n": "CALLE  9A Norte No. 21-51"
+  },
+  {
+    "no_exp": "146",
+    "propiedad_horizontal": "YULIMA ETAPA II UNIDADES D Y E",
+    "direcci_n": "Calle 9a entre calles 21 y 22"
+  },
+  {
+    "no_exp": "147",
+    "propiedad_horizontal": "URBANIZACION YULIMA II ETAPA UNIDAD G Y H",
+    "direcci_n": "CALLE 9 Norte No. 2151"
+  },
+  {
+    "no_exp": "148",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR YULIMA II ETAPA UNIDAD D y E",
+    "direcci_n": "Calle 9a entre calles 21 y 22"
+  },
+  {
+    "no_exp": "149",
+    "propiedad_horizontal": "UNIDAD RESIDENCIAL CATORCE DE OCTUBRE",
+    "direcci_n": "VIA PUERTO ESPEJO MZ A"
+  },
+  {
+    "no_exp": "150",
+    "propiedad_horizontal": "EDIFICIO LOS ABEDULES",
+    "direcci_n": "CL 5N No. 16-07"
+  },
+  {
+    "no_exp": "151",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR PROVIDENCIA II ETAPA",
+    "direcci_n": "CLL 10N No. 18-101"
+  },
+  {
+    "no_exp": "152",
+    "propiedad_horizontal": "EDIFICIO COPACABANA",
+    "direcci_n": "CRA 14 No. 21N-59"
+  },
+  {
+    "no_exp": "153",
+    "propiedad_horizontal": "NUEVA GRANADA",
+    "direcci_n": "CLL 10ª No. 23-50"
+  },
+  {
+    "no_exp": "154",
+    "propiedad_horizontal": "EDIFICIO ARAGON",
+    "direcci_n": "CLL 23 No. 15-09"
+  },
+  {
+    "no_exp": "155",
+    "propiedad_horizontal": "EDIFICIO MILAN",
+    "direcci_n": "Calle 24 No. 13-46"
+  },
+  {
+    "no_exp": "156",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR EL MIRADOR",
+    "direcci_n": "CL 43 No. 18-55"
+  },
+  {
+    "no_exp": "157",
+    "propiedad_horizontal": "EDIFICIO BANCOQUIA",
+    "direcci_n": "CRA 16 CL 20 No 19-40"
+  },
+  {
+    "no_exp": "158",
+    "propiedad_horizontal": "EDIFICIO POZO BLANCO",
+    "direcci_n": "CRA 11 No. 21N-30"
+  },
+  {
+    "no_exp": "159",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL RINCON DE ANDALUCIA I ET",
+    "direcci_n": "CRA 17 No. 10N-25"
+  },
+  {
+    "no_exp": "160",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL LAS VERANERAS",
+    "direcci_n": "CLL 10N No. 18-76"
+  },
+  {
+    "no_exp": "161",
+    "propiedad_horizontal": "EDIFICIO EL VIRREY",
+    "direcci_n": "Carrera 14 No.  No. 9N-31"
+  },
+  {
+    "no_exp": "162",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR  EL ROBLEDAL",
+    "direcci_n": "CL 14 N No. 10-05"
+  },
+  {
+    "no_exp": "163",
+    "propiedad_horizontal": "EDIFICIO LAS PALMAS",
+    "direcci_n": "CRA 13 CLL 15 No. 14-55"
+  },
+  {
+    "no_exp": "164",
+    "propiedad_horizontal": "EDIFICIO LA CASA DEL PARQUE",
+    "direcci_n": "CRA. 13 A No. 1 A-87"
+  },
+  {
+    "no_exp": "165",
+    "propiedad_horizontal": "EDIFICIO NUEVO CENTRO",
+    "direcci_n": "CRA 14 CLL 13"
+  },
+  {
+    "no_exp": "166",
+    "propiedad_horizontal": "EDIFICIO MARACAIBO C",
+    "direcci_n": "CL 15 No. 13-39"
+  },
+  {
+    "no_exp": "167",
+    "propiedad_horizontal": "EDIFICIO PALERMO 85",
+    "direcci_n": "CRA 13 No. 14-47"
+  },
+  {
+    "no_exp": "168",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL QUINTAS DE SAN JULIAN",
+    "direcci_n": "CRA 13 No. 24N-00"
+  },
+  {
+    "no_exp": "170",
+    "propiedad_horizontal": "CONDOMINIO EDIFICIO AMERICA ARMENIA",
+    "direcci_n": "CRA. 29 No. 21-58"
+  },
+  {
+    "no_exp": "171",
+    "propiedad_horizontal": "EDIFICIO LA PLAZUELA",
+    "direcci_n": "CRA 13 No. 19-33"
+  },
+  {
+    "no_exp": "172",
+    "propiedad_horizontal": "EDIFICIO  RINCON DE LA CASTELLANA",
+    "direcci_n": "CRA 11 CLL 12N"
+  },
+  {
+    "no_exp": "173",
+    "propiedad_horizontal": "EDIFICIO CENTRO COMERCIAL VANESSA",
+    "direcci_n": "CLL 18 No. 13-23"
+  },
+  {
+    "no_exp": "174",
+    "propiedad_horizontal": "CENTRO AGROPECUARIO LA ESTACION",
+    "direcci_n": "CL 25 No. 18-28 CRA 19, 24-15"
+  },
+  {
+    "no_exp": "175",
+    "propiedad_horizontal": "EDIFICIO ANGLES",
+    "direcci_n": "CLL 6 N No. 16-47"
+  },
+  {
+    "no_exp": "176",
+    "propiedad_horizontal": "EDIFICIO MAROA",
+    "direcci_n": "CRA 27 No. 20-38"
+  },
+  {
+    "no_exp": "177",
+    "propiedad_horizontal": "EDIFICIO JOSELINO GOMEZ",
+    "direcci_n": "CRA 16 CL 19 No. 19-00"
+  },
+  {
+    "no_exp": "178",
+    "propiedad_horizontal": "URBANIZACION LA VILLA",
+    "direcci_n": "CRA. 19 NO. 59-30"
+  },
+  {
+    "no_exp": "179",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL  LOS ARBOLES",
+    "direcci_n": "CRA 33 No. 25-03"
+  },
+  {
+    "no_exp": "180",
+    "propiedad_horizontal": "CONDOMINIO  EL RETIRO",
+    "direcci_n": "CLL 6 N No. 18-20"
+  },
+  {
+    "no_exp": "181",
+    "propiedad_horizontal": "EDIFICIO ARANJUEZ",
+    "direcci_n": "CALLE 9N No. 12-12"
+  },
+  {
+    "no_exp": "182",
+    "propiedad_horizontal": "EDIFICIO EL RINCON DE LOS CEDRITOS",
+    "direcci_n": "CRA 15 No. 18N-13"
+  },
+  {
+    "no_exp": "183",
+    "propiedad_horizontal": "UNIDAD RESIDENCIAL COOMEVA I",
+    "direcci_n": "CLL 23ª NORTE No. 14-24"
+  },
+  {
+    "no_exp": "184",
+    "propiedad_horizontal": "CONDOMINIO EL TUNAL",
+    "direcci_n": "CL 5N CRA 18 Y 19 No. 18-47"
+  },
+  {
+    "no_exp": "185",
+    "propiedad_horizontal": "EDIFICIO EL ZAGUAN DE LA CATORCE",
+    "direcci_n": "CRA 14 No. 16-43"
+  },
+  {
+    "no_exp": "186",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR YULIMA ETAPA II CELULA  F",
+    "direcci_n": "CALLE 9A No. 21-51"
+  },
+  {
+    "no_exp": "187",
+    "propiedad_horizontal": "EDIFICIO EL CARMELO",
+    "direcci_n": "CRA 13 CL 18 Y 19"
+  },
+  {
+    "no_exp": "188",
+    "propiedad_horizontal": "EDIFICIO BOSQUES DE SAN MIGUEL",
+    "direcci_n": "CRA 13 A No. 1 A-103"
+  },
+  {
+    "no_exp": "189",
+    "propiedad_horizontal": "EDIFICIO ADRIANA",
+    "direcci_n": "CRA. 14 No. 13N-50"
+  },
+  {
+    "no_exp": "190",
+    "propiedad_horizontal": "EDIFICIO EL PALMAR",
+    "direcci_n": "AV. BOLIVAR 19AN-14"
+  },
+  {
+    "no_exp": "191",
+    "propiedad_horizontal": "EDIFICIO ARCO CENTRO ARMENIA",
+    "direcci_n": "CL 19 CRA 18 No. 17-36 ESQ."
+  },
+  {
+    "no_exp": "192",
+    "propiedad_horizontal": "EDIFICIO SOCIEDAD DE  INGENIEROS DEL QUINDIO",
+    "direcci_n": "CRA 13 No. 18-31"
+  },
+  {
+    "no_exp": "193",
+    "propiedad_horizontal": "EDIFICIO JARDINES DE VIZCAYA",
+    "direcci_n": "CL 9 CRA 12 ESQUINA"
+  },
+  {
+    "no_exp": "194",
+    "propiedad_horizontal": "EDIFICIO LAS TERRAZAS",
+    "direcci_n": "CRA 18  No. 2 - 75"
+  },
+  {
+    "no_exp": "195",
+    "propiedad_horizontal": "EDIFICIO ASTOR",
+    "direcci_n": "CRA. 17 No. 23-11"
+  },
+  {
+    "no_exp": "196",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MARIA CRISTINA III ETAPA",
+    "direcci_n": "AV CENTENARIO No. 15-11"
+  },
+  {
+    "no_exp": "197",
+    "propiedad_horizontal": "EDIFICIO PLAZUELAS DE LAURELES",
+    "direcci_n": "CRA 16 No. 18AN-11"
+  },
+  {
+    "no_exp": "198",
+    "propiedad_horizontal": "EDIFICIO CASTILLEJO",
+    "direcci_n": "CRA 9 CLL 14 NORTE No. 9-17"
+  },
+  {
+    "no_exp": "199",
+    "propiedad_horizontal": "EDIFICIO CENTRO COMERCIAL LINA MARIA",
+    "direcci_n": "CRA 16 No. 17-37"
+  },
+  {
+    "no_exp": "200",
+    "propiedad_horizontal": "CONDOMINIO ATLANTA",
+    "direcci_n": "CRA. 9N No. 11-12"
+  },
+  {
+    "no_exp": "201",
+    "propiedad_horizontal": "CONDOMINIO PLAZA CENTENARIO",
+    "direcci_n": "CLL 19 No. 10-90/72"
+  },
+  {
+    "no_exp": "202",
+    "propiedad_horizontal": "YULIMA III ETAPA",
+    "direcci_n": "CLL 9N  No. 21 – 51"
+  },
+  {
+    "no_exp": "203",
+    "propiedad_horizontal": "CONDOMINIO MALIBU",
+    "direcci_n": "CRA 15 No. 22-13"
+  },
+  {
+    "no_exp": "204",
+    "propiedad_horizontal": "EDIFICIO RINCON DEL PORTAL",
+    "direcci_n": "AV. BOLIVAR No. 11N-51"
+  },
+  {
+    "no_exp": "205",
+    "propiedad_horizontal": "CONDOMINIO LA CASCADA DE LA CASTELLANA",
+    "direcci_n": "CLL 12 NORTE  No. 11-40"
+  },
+  {
+    "no_exp": "206",
+    "propiedad_horizontal": "EDIFICIO LA PORTADA",
+    "direcci_n": "CLL 20 No. 12-10"
+  },
+  {
+    "no_exp": "207",
+    "propiedad_horizontal": "EDIFICIO SOLIDARIDAD",
+    "direcci_n": "CRA 15 No. 18-22"
+  },
+  {
+    "no_exp": "208",
+    "propiedad_horizontal": "EDIFICIO MONSERRATE",
+    "direcci_n": "CRA. 15 No. 1N-06"
+  },
+  {
+    "no_exp": "209",
+    "propiedad_horizontal": "CIUDADELA SORRENTO",
+    "direcci_n": "CLL 5N No. 20-00"
+  },
+  {
+    "no_exp": "210",
+    "propiedad_horizontal": "EDIFICIO XIMENA",
+    "direcci_n": "CLL 16 NORTE No. 14-21"
+  },
+  {
+    "no_exp": "211",
+    "propiedad_horizontal": "EDIFICIO MONTEBELLO",
+    "direcci_n": "CLL 13N No. 12N-31"
+  },
+  {
+    "no_exp": "212",
+    "propiedad_horizontal": "EDIFICIO SEBRING",
+    "direcci_n": "CRA 15 CON CLL 18"
+  },
+  {
+    "no_exp": "213",
+    "propiedad_horizontal": "EDIFICIO EL CHISPERO",
+    "direcci_n": "CLL 21 No. 16-24"
+  },
+  {
+    "no_exp": "214",
+    "propiedad_horizontal": "URBANIZACION SAN JORGE",
+    "direcci_n": "PARAJE EL EDEN"
+  },
+  {
+    "no_exp": "215",
+    "propiedad_horizontal": "EDIFICIO PALMA DEL RIO",
+    "direcci_n": "CLL 6N No. 18-16"
+  },
+  {
+    "no_exp": "216",
+    "propiedad_horizontal": "EDIFICIO LA CANTILLANA",
+    "direcci_n": "CLL 22  No. 18-17"
+  },
+  {
+    "no_exp": "217",
+    "propiedad_horizontal": "EDIFICIO SAN SEBASTIAN",
+    "direcci_n": "CRA 11 No. 17-50"
+  },
+  {
+    "no_exp": "218",
+    "propiedad_horizontal": "EDIFICIO SANTA MONICA",
+    "direcci_n": "Calle 20 No. 12-18"
+  },
+  {
+    "no_exp": "219",
+    "propiedad_horizontal": "EDIFICIO SAN JORGE",
+    "direcci_n": "CARRERA 13  No. 16 N – 12"
+  },
+  {
+    "no_exp": "220",
+    "propiedad_horizontal": "EDIFICIO SAN LUCAR",
+    "direcci_n": "CRA 13 No. 22N-28"
+  },
+  {
+    "no_exp": "221",
+    "propiedad_horizontal": "EDIFICIO EL AGUILA",
+    "direcci_n": "CRA 18 CON CLL 22 ESQUINA"
+  },
+  {
+    "no_exp": "222",
+    "propiedad_horizontal": "EDIFICIO SAN JORGE",
+    "direcci_n": "CRA 26 No. 21-47"
+  },
+  {
+    "no_exp": "223",
+    "propiedad_horizontal": "EDIFICIO LA FONTANA",
+    "direcci_n": "CRA 11 No. 12N-74"
+  },
+  {
+    "no_exp": "224",
+    "propiedad_horizontal": "EDIFICIO LA SUIZA SEGUNDA ETAPA",
+    "direcci_n": "CRA 16 22N-80"
+  },
+  {
+    "no_exp": "225",
+    "propiedad_horizontal": "CONJUNTO PARQUE RESIDENCIAL PALMAS DE SORRENTO",
+    "direcci_n": "CLL 3 NORTE No. 18-49"
+  },
+  {
+    "no_exp": "226",
+    "propiedad_horizontal": "CONDOMINIO CIUDADELA LOS QUIMBAYAS",
+    "direcci_n": "CARRERA 13  No. 49N-09"
+  },
+  {
+    "no_exp": "227",
+    "propiedad_horizontal": "EDIFICIO BALCONES DE LA BELLA SUIZA",
+    "direcci_n": "CRA 17 No. 22N-50"
+  },
+  {
+    "no_exp": "228",
+    "propiedad_horizontal": "CONJUNTO  RESIDENCIAL TORRES DE MARFIL",
+    "direcci_n": "CL 10N No. 18-351"
+  },
+  {
+    "no_exp": "229",
+    "propiedad_horizontal": "EDIFICIO BALMORAL",
+    "direcci_n": "CRA 14 No. 11A-45"
+  },
+  {
+    "no_exp": "230",
+    "propiedad_horizontal": "EDIFICIO ALCATRAZ",
+    "direcci_n": "CLL 16N No. 12-36"
+  },
+  {
+    "no_exp": "231",
+    "propiedad_horizontal": "EDIFICIO SIERRA GRANDE",
+    "direcci_n": "CLL 6N No. 16-51"
+  },
+  {
+    "no_exp": "232",
+    "propiedad_horizontal": "EDIFICIO TORRE  CASTELLANA",
+    "direcci_n": "CRA 11 No. 13N-48"
+  },
+  {
+    "no_exp": "233",
+    "propiedad_horizontal": "EDIFICIO SIERRAMAR",
+    "direcci_n": "CAL 6N No. 16-33"
+  },
+  {
+    "no_exp": "234",
+    "propiedad_horizontal": "EDIFICIO EL PORTAL DE LA CASTELLANA",
+    "direcci_n": "CLL 9N No. 12-23"
+  },
+  {
+    "no_exp": "235",
+    "propiedad_horizontal": "EDIFICIO CENTRO 20",
+    "direcci_n": "CRA. 18  No. 19-29"
+  },
+  {
+    "no_exp": "236",
+    "propiedad_horizontal": "EDIFICIO NEVADOS",
+    "direcci_n": "CRA 10 CLL 15N No. 14N-38"
+  },
+  {
+    "no_exp": "237",
+    "propiedad_horizontal": "EDIFICIO HELMAN",
+    "direcci_n": "CRA 13 No. 15-49"
+  },
+  {
+    "no_exp": "238",
+    "propiedad_horizontal": "EDIFICIO EL VAQUERO",
+    "direcci_n": "CLL 14 No. 16-20"
+  },
+  {
+    "no_exp": "239",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA ABADIA",
+    "direcci_n": "CRA. 19 No. 11N-33"
+  },
+  {
+    "no_exp": "240",
+    "propiedad_horizontal": "EDIFICIO BELLO HORIZONTE",
+    "direcci_n": "CARRERA 15Norte No,12-02"
+  },
+  {
+    "no_exp": "241",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL SAN FERNANDO",
+    "direcci_n": "CALLE 15 NORTE No. 8-11"
+  },
+  {
+    "no_exp": "242",
+    "propiedad_horizontal": "EDIFICIO BALCONES DEL GALAN",
+    "direcci_n": "CRA 18 No. 3-34"
+  },
+  {
+    "no_exp": "243",
+    "propiedad_horizontal": "EDIFICIO CONCORD",
+    "direcci_n": "CRA 15 Norte No. 1N-30"
+  },
+  {
+    "no_exp": "244",
+    "propiedad_horizontal": "EDIFICIO GOMEZ Y MEJIA",
+    "direcci_n": "CLL 21 CRA 12 ESQUINA"
+  },
+  {
+    "no_exp": "245",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL BULEVAR DEL COLISEO",
+    "direcci_n": "CLL 2N No. 18-144"
+  },
+  {
+    "no_exp": "246",
+    "propiedad_horizontal": "EDIFICIO SAN LORENZO",
+    "direcci_n": "CRA 13  No. 21N – 48"
+  },
+  {
+    "no_exp": "247",
+    "propiedad_horizontal": "CONDOMINIO SAN JOSE DE LA SIERRA",
+    "direcci_n": "CRA 33 No. 24A-23"
+  },
+  {
+    "no_exp": "248",
+    "propiedad_horizontal": "EDIFICIO CAMARA DE COMERCIO",
+    "direcci_n": "CRA. 14 CL 23 Y 24 No. 23-15"
+  },
+  {
+    "no_exp": "249",
+    "propiedad_horizontal": "EDIFICIO EL ROBLE",
+    "direcci_n": "CRA 16 No. 18-53/55/54"
+  },
+  {
+    "no_exp": "250",
+    "propiedad_horizontal": "EDIFICIO TORRE ALHAMBRA",
+    "direcci_n": "CARRERA 13 No. 1N-00"
+  },
+  {
+    "no_exp": "251",
+    "propiedad_horizontal": "EDIFICIO PONTEVEDRA",
+    "direcci_n": "CLL 23 No.13-18"
+  },
+  {
+    "no_exp": "252",
+    "propiedad_horizontal": "EDIFICIO GUADALUPE ARMENIA",
+    "direcci_n": "CRA 18 No. 1N-05"
+  },
+  {
+    "no_exp": "253",
+    "propiedad_horizontal": "EDIFICIO PORTOBELO",
+    "direcci_n": "CLL 10N No. 14-27"
+  },
+  {
+    "no_exp": "254",
+    "propiedad_horizontal": "EDIFICIO COLTEQUINDIO",
+    "direcci_n": "CL 18 ENTRE CRAS 17 Y 18"
+  },
+  {
+    "no_exp": "255",
+    "propiedad_horizontal": "EDIFICIO CATALUÑA",
+    "direcci_n": "CRA. 14 No. 38N-95"
+  },
+  {
+    "no_exp": "256",
+    "propiedad_horizontal": "EDIFICIO IMPORT",
+    "direcci_n": "CRA 14 No. 17-28"
+  },
+  {
+    "no_exp": "257",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CAMINOS DE SAN LORENZO",
+    "direcci_n": "CL 10AN No. 14ª-20"
+  },
+  {
+    "no_exp": "258",
+    "propiedad_horizontal": "EDIFICIO MARANATHA",
+    "direcci_n": "CL 10N ENTRE CRAS 18 Y 19"
+  },
+  {
+    "no_exp": "259",
+    "propiedad_horizontal": "CONDOMINIO PARANA",
+    "direcci_n": "CRA 12 CL 24 ESQUINA"
+  },
+  {
+    "no_exp": "260",
+    "propiedad_horizontal": "EDIFICIO BEATRIZ ELENA",
+    "direcci_n": "CL 14N No. 12-02 y 12-04"
+  },
+  {
+    "no_exp": "261",
+    "propiedad_horizontal": "EDIFICIO TORRES DE ZARAGOZA",
+    "direcci_n": "CRA 14 No. 8N-38"
+  },
+  {
+    "no_exp": "263",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL RINCON DEL YULIMA",
+    "direcci_n": "CRA 22 No. 9N-18"
+  },
+  {
+    "no_exp": "264",
+    "propiedad_horizontal": "EDIFICIO TORRE VERSALLES",
+    "direcci_n": "CRA. 11 A CON CL 13 NORTE"
+  },
+  {
+    "no_exp": "265",
+    "propiedad_horizontal": "EDIFICIO TERRANOVA",
+    "direcci_n": "CL 13 N No. 12N-44/50"
+  },
+  {
+    "no_exp": "266",
+    "propiedad_horizontal": "ALCAZAR DEL PARQUE",
+    "direcci_n": "CRA. 13 CON CLL 2N ESQUIN"
+  },
+  {
+    "no_exp": "267",
+    "propiedad_horizontal": "EDIFICIO TORRES DE ALTAMIRA",
+    "direcci_n": "CRA. 14 No. 18N-119"
+  },
+  {
+    "no_exp": "268",
+    "propiedad_horizontal": "EDIFICIO PRAGA",
+    "direcci_n": "CRA. 13 No. 21N-40/42"
+  },
+  {
+    "no_exp": "269",
+    "propiedad_horizontal": "EDIFICIO JOHANNAS",
+    "direcci_n": "CRA 14 No. 11-36"
+  },
+  {
+    "no_exp": "270",
+    "propiedad_horizontal": "EDIFICIO ROMANZA",
+    "direcci_n": "CL 4N No. 13-100"
+  },
+  {
+    "no_exp": "271",
+    "propiedad_horizontal": "EDIFICIO MADRIGALES DEL PARQUE",
+    "direcci_n": "CRA 13 A No 1 A-39"
+  },
+  {
+    "no_exp": "272",
+    "propiedad_horizontal": "EL SADDAY",
+    "direcci_n": "CL 10 N No. 18-24"
+  },
+  {
+    "no_exp": "273",
+    "propiedad_horizontal": "BALCONES DEL CENTRO",
+    "direcci_n": "CL 23 No. 13-25"
+  },
+  {
+    "no_exp": "274",
+    "propiedad_horizontal": "LAS 3SERRANIAS BQ E MZ 3",
+    "direcci_n": "CLL 49 B No. 28-10"
+  },
+  {
+    "no_exp": "275",
+    "propiedad_horizontal": "URBANIZACION PARQUE DE LA VILLA",
+    "direcci_n": "CRA 18 No. 57-48"
+  },
+  {
+    "no_exp": "276",
+    "propiedad_horizontal": "MALL LA AVENIDA",
+    "direcci_n": "AV. BOLIVAR  No. 27-80"
+  },
+  {
+    "no_exp": "277",
+    "propiedad_horizontal": "EDIFICIO CLINICA CENTRAL DEL QUINDÍO",
+    "direcci_n": "CRA 13 No. 1N-03"
+  },
+  {
+    "no_exp": "278",
+    "propiedad_horizontal": "EDIFICIO TARANTELLA",
+    "direcci_n": "CRA 14 No. 9-18"
+  },
+  {
+    "no_exp": "279",
+    "propiedad_horizontal": "EDIFICIO CENTRO COMERCIAL FIRENZE",
+    "direcci_n": "CRA 15 No. 18-34"
+  },
+  {
+    "no_exp": "280",
+    "propiedad_horizontal": "EDIFICIO CENTRO DE MERCADEO EL RETIRO",
+    "direcci_n": "CL 50 CON CRA 25 No. 24-03"
+  },
+  {
+    "no_exp": "281",
+    "propiedad_horizontal": "SANTA BARBARA PROP HORIZONTAL",
+    "direcci_n": "CL 10 NO CON CRA 18 No. 9-73"
+  },
+  {
+    "no_exp": "282",
+    "propiedad_horizontal": "REAL DEL CENTRO",
+    "direcci_n": "CL 23 ENTRE CRAS 14 Y 15"
+  },
+  {
+    "no_exp": "283",
+    "propiedad_horizontal": "LOS BALCONES",
+    "direcci_n": "CRA 14 No. 14N-34 A 14N-52"
+  },
+  {
+    "no_exp": "284",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SOTAVENTO I",
+    "direcci_n": "CRA 17 No. 7A-17"
+  },
+  {
+    "no_exp": "285",
+    "propiedad_horizontal": "EDIFICIO BARICHARA",
+    "direcci_n": "CALLE 23N  No. 14 – 35"
+  },
+  {
+    "no_exp": "286",
+    "propiedad_horizontal": "URBANIZACION SERRANIAS MZ 4 BQ. A1-A2-B3-B4-B5",
+    "direcci_n": "CLL 49 CON CRA 28"
+  },
+  {
+    "no_exp": "286A",
+    "propiedad_horizontal": "URBANIZACION SERRANIAS MZ 5 BQ. C1-C2-C4-C6-D3-D5",
+    "direcci_n": "Calle 49A No 28 - 94"
+  },
+  {
+    "no_exp": "287",
+    "propiedad_horizontal": "EDIFICIO MANGLARES",
+    "direcci_n": "CL 6N  No. 14-40"
+  },
+  {
+    "no_exp": "288",
+    "propiedad_horizontal": "EDIFICIO TORRES DE SAN JULIAN",
+    "direcci_n": "CL 24 N No. 13-30"
+  },
+  {
+    "no_exp": "289",
+    "propiedad_horizontal": "CONDOMINIO TARRAGONA",
+    "direcci_n": "CRA 13 No. 8N-52/58"
+  },
+  {
+    "no_exp": "290",
+    "propiedad_horizontal": "EDIFICIO LAS CEIBAS",
+    "direcci_n": "CRA 14 CLL 12 No. 11-76"
+  },
+  {
+    "no_exp": "291",
+    "propiedad_horizontal": "PORTO BELLO",
+    "direcci_n": "CRA 13 No. 15-14"
+  },
+  {
+    "no_exp": "292",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PASADENA COUNTRY",
+    "direcci_n": "CL 10N No. 18-224"
+  },
+  {
+    "no_exp": "293",
+    "propiedad_horizontal": "EDIFICIO TORRE BLANCA",
+    "direcci_n": "CL 14 No. 10-10"
+  },
+  {
+    "no_exp": "294",
+    "propiedad_horizontal": "EDIFICIO TORRE ALICANTE",
+    "direcci_n": "CRA 11 No. 12N-60"
+  },
+  {
+    "no_exp": "295",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA HACIENDA",
+    "direcci_n": "CRA 14 No. 28N-61"
+  },
+  {
+    "no_exp": "296",
+    "propiedad_horizontal": "EDIFICIO PLAZUELA DE LOS FUNDADORES",
+    "direcci_n": "CL 1N No. 13-43"
+  },
+  {
+    "no_exp": "297",
+    "propiedad_horizontal": "EDIFICIO LOS MADRIGALES",
+    "direcci_n": "CRA 16 No. 5N-61"
+  },
+  {
+    "no_exp": "298",
+    "propiedad_horizontal": "EDIFICIO PUERTOMONTT",
+    "direcci_n": "CRA 19 No. 13N-30"
+  },
+  {
+    "no_exp": "299",
+    "propiedad_horizontal": "URBANIZACION EL CORTIJO",
+    "direcci_n": "CRA. 28 No. 40-16"
+  },
+  {
+    "no_exp": "300",
+    "propiedad_horizontal": "CAJANAL",
+    "direcci_n": "CRA 21 DIAG. 19 No. 19-48"
+  },
+  {
+    "no_exp": "301",
+    "propiedad_horizontal": "CENTRO COMERCIAL Y RESIDENCIAL EL BOSQUE",
+    "direcci_n": "CRA 14 No. 14N-80"
+  },
+  {
+    "no_exp": "302",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TORRES DEL RIO",
+    "direcci_n": "CRA 6 No. 19-25"
+  },
+  {
+    "no_exp": "303",
+    "propiedad_horizontal": "EDIFICIO TORRE CENTRAL",
+    "direcci_n": "CRA 14  No. 22-23"
+  },
+  {
+    "no_exp": "304",
+    "propiedad_horizontal": "EDIFICIO LA COLINA",
+    "direcci_n": "CLL 18AN No. 15-75"
+  },
+  {
+    "no_exp": "305",
+    "propiedad_horizontal": "EDIFICIO CEDRITOS",
+    "direcci_n": "CARRERA 15 No. 12-49"
+  },
+  {
+    "no_exp": "306",
+    "propiedad_horizontal": "EDIFICIO VALDIVIA",
+    "direcci_n": "CRA 13 No. 10-60"
+  },
+  {
+    "no_exp": "307",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LOS TULIPANES",
+    "direcci_n": "CL 19N No. 17-51"
+  },
+  {
+    "no_exp": "308",
+    "propiedad_horizontal": "EDIFICIO MONTERREY",
+    "direcci_n": "CRA 14 CON CLL 15 No. 13-49"
+  },
+  {
+    "no_exp": "309",
+    "propiedad_horizontal": "CONDOMINIO LA POLA",
+    "direcci_n": "CL 24  No. 16 - 17"
+  },
+  {
+    "no_exp": "310",
+    "propiedad_horizontal": "EDIFICIO PARMA",
+    "direcci_n": "CLL 24 No. 15-44"
+  },
+  {
+    "no_exp": "311",
+    "propiedad_horizontal": "EDIFICIO UNION",
+    "direcci_n": "CRA 15 CON CLL 21 No. 20A-09"
+  },
+  {
+    "no_exp": "312",
+    "propiedad_horizontal": "EDIFICIO SANTILLANA",
+    "direcci_n": "CLL 15N No. 14-66"
+  },
+  {
+    "no_exp": "313",
+    "propiedad_horizontal": "EDIFICIO FARALLONES",
+    "direcci_n": "CL 1ra N No. 12-17"
+  },
+  {
+    "no_exp": "314",
+    "propiedad_horizontal": "CONDOMINIO SANTA MARIA DEL PARQUE",
+    "direcci_n": "CARRERA 19  No. 57-60"
+  },
+  {
+    "no_exp": "315",
+    "propiedad_horizontal": "EDIFICIO BOLIVARIANO",
+    "direcci_n": "CALLE 13  No. 17 – 44"
+  },
+  {
+    "no_exp": "316",
+    "propiedad_horizontal": "EDIFICIO VALLARTA",
+    "direcci_n": "CRA 20 No. 14-31"
+  },
+  {
+    "no_exp": "317",
+    "propiedad_horizontal": "EDIFICIO TORRES DE PROVIDENCIA I",
+    "direcci_n": "CL 10N No. 18-207"
+  },
+  {
+    "no_exp": "318",
+    "propiedad_horizontal": "LOS ALCAZARES",
+    "direcci_n": "CL 4N No. 13-43"
+  },
+  {
+    "no_exp": "319",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL ALTOS DE LA CALLEJA",
+    "direcci_n": "CL 6 No. 24 A-64"
+  },
+  {
+    "no_exp": "320",
+    "propiedad_horizontal": "EDIFICIO LORENZETY",
+    "direcci_n": "CALLE 19 NORTE No. 16-30"
+  },
+  {
+    "no_exp": "321",
+    "propiedad_horizontal": "EDIFICIO MAICAO REAL",
+    "direcci_n": "CARRERA 15 CALLE 17 ESQUINA No. 14-60."
+  },
+  {
+    "no_exp": "322",
+    "propiedad_horizontal": "I.B.G. PROP. HORIZONTAL",
+    "direcci_n": "CRUCE CRA 14 CON CLL 19"
+  },
+  {
+    "no_exp": "323",
+    "propiedad_horizontal": "DAMASCO PROPIEDAD HORIZONTAL",
+    "direcci_n": "CL 17 No. 14-30"
+  },
+  {
+    "no_exp": "324",
+    "propiedad_horizontal": "EL NARANJAL",
+    "direcci_n": "CL 50 No. 30-3"
+  },
+  {
+    "no_exp": "325",
+    "propiedad_horizontal": "EDIFICIO SOCIAL",
+    "direcci_n": "CRA. 15 No. 10-23"
+  },
+  {
+    "no_exp": "326",
+    "propiedad_horizontal": "EDIFICIO EL PALACIO",
+    "direcci_n": "CRA 12 No. 21-24"
+  },
+  {
+    "no_exp": "327",
+    "propiedad_horizontal": "TIVOLI",
+    "direcci_n": "CRA. 11 No. 20N – 59"
+  },
+  {
+    "no_exp": "328",
+    "propiedad_horizontal": "EDIFICIO TORRES DE LOS ANDES  TORRES A Y B",
+    "direcci_n": "CRA. 13 No. 16-47"
+  },
+  {
+    "no_exp": "328B",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE ALCARRAZA",
+    "direcci_n": "KM 4 CAIMO – CLUB CAMPESTRE"
+  },
+  {
+    "no_exp": "329",
+    "propiedad_horizontal": "CONJUNTO LAS TORRES DE LAURELES PH.",
+    "direcci_n": "CLL 19N No. 15-66"
+  },
+  {
+    "no_exp": "330",
+    "propiedad_horizontal": "CONDOMINIO ALTOS DEL BOSQUE",
+    "direcci_n": "CRA. 18 No. 22N-10"
+  },
+  {
+    "no_exp": "331",
+    "propiedad_horizontal": "LAS AMERICAS TORRE I",
+    "direcci_n": "CRA 19 No. 31-07"
+  },
+  {
+    "no_exp": "332",
+    "propiedad_horizontal": "EDIFICIO PIAMONTE",
+    "direcci_n": "CRA 11 No. 9-02"
+  },
+  {
+    "no_exp": "333",
+    "propiedad_horizontal": "UNIDAD RESIDENCIAL BALCONES DEL EDEN",
+    "direcci_n": "CRA 18 No. 58-33"
+  },
+  {
+    "no_exp": "334",
+    "propiedad_horizontal": "EDIFICIO TORRE SAN ESTEBAN",
+    "direcci_n": "CLL 15N No. 14-16/24"
+  },
+  {
+    "no_exp": "335",
+    "propiedad_horizontal": "EDIFICIO BALCONES DE MILAN",
+    "direcci_n": "CLL 10N No. 17 A-85/87"
+  },
+  {
+    "no_exp": "336",
+    "propiedad_horizontal": "EDIFICIO PANAMERICANO",
+    "direcci_n": "CRA 15 No. 18-31"
+  },
+  {
+    "no_exp": "337",
+    "propiedad_horizontal": "CONDOMINIO EL DORADO",
+    "direcci_n": "CRA. 13 No. 21-03"
+  },
+  {
+    "no_exp": "338",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL ALTOS DE SOTAVENTO",
+    "direcci_n": "CRA. 17 No. 8-29"
+  },
+  {
+    "no_exp": "339",
+    "propiedad_horizontal": "EDIFICIO  TORRES DE SIERRAVIENTO I Y II",
+    "direcci_n": "CL 6N ENTRE CRAS 17 Y 18"
+  },
+  {
+    "no_exp": "340",
+    "propiedad_horizontal": "EDIFICIO LOS PINOS",
+    "direcci_n": "CRA 29 No. 21-02/06/12/14"
+  },
+  {
+    "no_exp": "341",
+    "propiedad_horizontal": "CENTRO INDUSTRIAL Y COMERCIAL SAN PEDRO",
+    "direcci_n": "CL. 51 No. 6-106"
+  },
+  {
+    "no_exp": "342",
+    "propiedad_horizontal": "EDIFICIO CENTRO COMERCIAL  Y RESIDENCIAL BALEARES",
+    "direcci_n": "Avenida Bolívar No. 1-133"
+  },
+  {
+    "no_exp": "343",
+    "propiedad_horizontal": "EDIFICIO RINCON DEL RETIRO",
+    "direcci_n": "CLL 19 N No. 11-20/10/42"
+  },
+  {
+    "no_exp": "344",
+    "propiedad_horizontal": "EDIFICIO MARIA CRISTINA",
+    "direcci_n": "CRA. 7 AV CENTENARIO 17-68"
+  },
+  {
+    "no_exp": "345",
+    "propiedad_horizontal": "CONJUNTO  RESIDENCIAL NISA BULEVAR",
+    "direcci_n": "AV. 19 No. 1N-00"
+  },
+  {
+    "no_exp": "346",
+    "propiedad_horizontal": "CONDOMINIO GRUPO GRAN COLOMBIANO",
+    "direcci_n": "CRA 15 No. 21-26"
+  },
+  {
+    "no_exp": "347",
+    "propiedad_horizontal": "CONDOMINIO TORRES DEL GRANADA",
+    "direcci_n": "CRA 22 No. 4-17"
+  },
+  {
+    "no_exp": "348",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LOS GUAYACANES",
+    "direcci_n": "CALLE 4  No. 23 - 79"
+  },
+  {
+    "no_exp": "350",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL PLAZOLETA ANDINA",
+    "direcci_n": "AV. 19 No. 21N- 79"
+  },
+  {
+    "no_exp": "351",
+    "propiedad_horizontal": "EDIFICIO TORRE COLSEGUROS",
+    "direcci_n": "CL 21 No. 16-46"
+  },
+  {
+    "no_exp": "352",
+    "propiedad_horizontal": "CONJUNTO MULTIFAMILIAR VILLA LUX",
+    "direcci_n": "CL 7ª No. 22ª-26"
+  },
+  {
+    "no_exp": "353",
+    "propiedad_horizontal": "EDIFICIO CAMACOL QUINDIO",
+    "direcci_n": "CL 23 No. 12-59"
+  },
+  {
+    "no_exp": "354",
+    "propiedad_horizontal": "EDIFICIO SANTA BARBARA",
+    "direcci_n": "CRA 13 No. 22-44/46"
+  },
+  {
+    "no_exp": "355",
+    "propiedad_horizontal": "EDIFICIO KIRIOS",
+    "direcci_n": "CRA. 16 No. 22 N –45-51"
+  },
+  {
+    "no_exp": "356",
+    "propiedad_horizontal": "EDIFICIO OLIVARES",
+    "direcci_n": "CLL 22N No. 17-52"
+  },
+  {
+    "no_exp": "357",
+    "propiedad_horizontal": "CONJUNTO  RESIDENCIAL EL SINAI",
+    "direcci_n": "CLL 30 No. 43-20"
+  },
+  {
+    "no_exp": "358",
+    "propiedad_horizontal": "EDIFICIO CASTILLETE",
+    "direcci_n": "CRA 11 No. 12N-68"
+  },
+  {
+    "no_exp": "359",
+    "propiedad_horizontal": "EDIFICIO LOCALES LA 21",
+    "direcci_n": "CL 18 Y 19 CALLE 20-21"
+  },
+  {
+    "no_exp": "360",
+    "propiedad_horizontal": "EDIFICIO BONAIRE",
+    "direcci_n": "CARRERA 11 No. 9N-30"
+  },
+  {
+    "no_exp": "361",
+    "propiedad_horizontal": "EDIFICIO BALCONES DE LA QUINCE",
+    "direcci_n": "CRA 15 CL 23 Y 24"
+  },
+  {
+    "no_exp": "362",
+    "propiedad_horizontal": "EDIFICIO AIDA",
+    "direcci_n": "CRA. 16 CL 22"
+  },
+  {
+    "no_exp": "363",
+    "propiedad_horizontal": "EDIFICIO EL CASTILLO",
+    "direcci_n": "CRA 15 CLL 18 No. 18-10"
+  },
+  {
+    "no_exp": "364",
+    "propiedad_horizontal": "EDIFICIO TORRES DE PROVIDENCIA II",
+    "direcci_n": "CL 9ª N No. 18-183"
+  },
+  {
+    "no_exp": "365",
+    "propiedad_horizontal": "EDIFICIO MONTICELLO",
+    "direcci_n": "CRA. 13  No. 15N-43"
+  },
+  {
+    "no_exp": "366",
+    "propiedad_horizontal": "EDIFICIO ONIX",
+    "direcci_n": "CALLE 8A No. 16-08"
+  },
+  {
+    "no_exp": "367",
+    "propiedad_horizontal": "EDIFICIO MADELEINE",
+    "direcci_n": "CRA 12 No. 21N-04"
+  },
+  {
+    "no_exp": "368",
+    "propiedad_horizontal": "EDIFICIO LA COLINA",
+    "direcci_n": "CRA 19 CLL 11 No. 11-07/13"
+  },
+  {
+    "no_exp": "369",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TORRE DE SANMARINO I",
+    "direcci_n": "CLL 22 CRAS. 35 Y 36"
+  },
+  {
+    "no_exp": "370",
+    "propiedad_horizontal": "EDIFICIO EBEN - EZER",
+    "direcci_n": "CL 7 CRAS 13 Y 14"
+  },
+  {
+    "no_exp": "371",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PALMAS DEL MODELO",
+    "direcci_n": "CLL. 3 No. 23D Y 23E"
+  },
+  {
+    "no_exp": "372",
+    "propiedad_horizontal": "URBANIZACION  BOSQUES DE PINARES",
+    "direcci_n": "CRA 15 No. 63-20"
+  },
+  {
+    "no_exp": "373",
+    "propiedad_horizontal": "CENTRO COMERCIAL Y RESIDENCIAL NIZA",
+    "direcci_n": "CRA 15 No. 17-50"
+  },
+  {
+    "no_exp": "374",
+    "propiedad_horizontal": "EDIFICIO LA CANDELARIA",
+    "direcci_n": "CRA 22 No. 21-41"
+  },
+  {
+    "no_exp": "349",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL PALMAS DE SORRENTO (se convierte en 225) SE ANULA POR RESOLUCION 054 DE ENERO 28 -2021",
+    "direcci_n": "CL 3N No. 18-49"
+  },
+  {
+    "no_exp": "375",
+    "propiedad_horizontal": "EDIFICIO BARLOVENTO",
+    "direcci_n": "CRA 14 CLL 20 N No. 14-19"
+  },
+  {
+    "no_exp": "376",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LOS NOGALES",
+    "direcci_n": "CLL 22 No.29-39"
+  },
+  {
+    "no_exp": "377",
+    "propiedad_horizontal": "85",
+    "direcci_n": "KILOMETRO 9 VÍA LA TEBAIDA"
+  },
+  {
+    "no_exp": "378",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA AURORA",
+    "direcci_n": "AV. 19 No. 30N-65"
+  },
+  {
+    "no_exp": "379",
+    "propiedad_horizontal": "CONDOMINIO LAS AMERICAS",
+    "direcci_n": "CL 31 No. 18-27"
+  },
+  {
+    "no_exp": "380",
+    "propiedad_horizontal": "EDIFICIO LOS ALPES DE LA SUIZA",
+    "direcci_n": "CRA. 16 No. 21N-02"
+  },
+  {
+    "no_exp": "381",
+    "propiedad_horizontal": "CONJUNTO CERRADO ALEJANDRIA",
+    "direcci_n": "CLL 50 No. 40-80"
+  },
+  {
+    "no_exp": "382",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL LA CORUÑA",
+    "direcci_n": "CL 1N No. 12-37"
+  },
+  {
+    "no_exp": "383",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TORRES DE SAN MARINO II",
+    "direcci_n": "CLL 22 No. 35-02/20"
+  },
+  {
+    "no_exp": "384",
+    "propiedad_horizontal": "EDIFICIO AVENIDA",
+    "direcci_n": "Calle 10N # 14 - 10"
+  },
+  {
+    "no_exp": "385",
+    "propiedad_horizontal": "EDIFICIO MURIEL",
+    "direcci_n": "CRA 11 No. 9-46/48"
+  },
+  {
+    "no_exp": "386",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE EL MOLINO",
+    "direcci_n": "CRA 6 No. 33N-50"
+  },
+  {
+    "no_exp": "387",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA ESTANCIA",
+    "direcci_n": "CLL 2 No. 6-69"
+  },
+  {
+    "no_exp": "388",
+    "propiedad_horizontal": "URBANIZACION LOMA VERDE",
+    "direcci_n": "CLL 30 No. 42-80"
+  },
+  {
+    "no_exp": "389",
+    "propiedad_horizontal": "EDIFICIO MILANO",
+    "direcci_n": "CLL22 Norte No.17-20"
+  },
+  {
+    "no_exp": "390",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SERRA SUIZA",
+    "direcci_n": "CLL 19N No. 17-50"
+  },
+  {
+    "no_exp": "391",
+    "propiedad_horizontal": "EDIFICIO SANTA MARGARITA",
+    "direcci_n": "AV BOL. No. 15N-15/22"
+  },
+  {
+    "no_exp": "392",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL JARDIN DE LAS MERCEDES DEL NORTE",
+    "direcci_n": "CLL 19 N No. 20-30"
+  },
+  {
+    "no_exp": "393",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL ALEJANDRIA",
+    "direcci_n": "CRA 6 No. 25N-35"
+  },
+  {
+    "no_exp": "394",
+    "propiedad_horizontal": "EDIFICIO PANORAMA",
+    "direcci_n": "CRA 17 No. 21N-05"
+  },
+  {
+    "no_exp": "395",
+    "propiedad_horizontal": "EDIFICIO PARDO CRUZ",
+    "direcci_n": "CRA 17 No. 15-24"
+  },
+  {
+    "no_exp": "396",
+    "propiedad_horizontal": "EDIFICIO  JARDIN DE LAS AMERICAS",
+    "direcci_n": "CALLE 22 No. 30-21"
+  },
+  {
+    "no_exp": "397",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CAMPESTRE EL EDEN",
+    "direcci_n": "VEREDA MURILLO"
+  },
+  {
+    "no_exp": "398",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA ALQUERIA",
+    "direcci_n": "CRA 6 No. 3-40"
+  },
+  {
+    "no_exp": "399",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA  ARCADIA",
+    "direcci_n": "Calle 57  No.24-11"
+  },
+  {
+    "no_exp": "400",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL BALCON DE ARMENIA",
+    "direcci_n": "CRA 24A No. 6-03"
+  },
+  {
+    "no_exp": "401",
+    "propiedad_horizontal": "EDIFICIO VERONICA",
+    "direcci_n": "CRA 12 CRAS 21 y 22 No. 21-49"
+  },
+  {
+    "no_exp": "403",
+    "propiedad_horizontal": "EDIFICIO LOMA LINDA",
+    "direcci_n": "CRUCE CRA 17 CLL 22N"
+  },
+  {
+    "no_exp": "404",
+    "propiedad_horizontal": "CENTRAL MAYORISTA DE ARMENIA S.A.",
+    "direcci_n": "KM 2 VIA A MONTENEGRO"
+  },
+  {
+    "no_exp": "405",
+    "propiedad_horizontal": "EDIFICIO EL CAFETERO",
+    "direcci_n": "CRA 14 No. 23-16"
+  },
+  {
+    "no_exp": "406",
+    "propiedad_horizontal": "EDIFICIO EL CEDRAL",
+    "direcci_n": "CALLE  12 No. 14-27"
+  },
+  {
+    "no_exp": "407",
+    "propiedad_horizontal": "EDIFICIO MANHATAN",
+    "direcci_n": "CLL 23 No. 14-51"
+  },
+  {
+    "no_exp": "408",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE LAS VEGAS",
+    "direcci_n": "VEREDA MURILLO"
+  },
+  {
+    "no_exp": "409",
+    "propiedad_horizontal": "EDIFICIO LA CEIBA",
+    "direcci_n": "CLL 5N No. 16-10"
+  },
+  {
+    "no_exp": "410",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL  BOSQUES DE PALERMO",
+    "direcci_n": "CLL 22N No. 19-170"
+  },
+  {
+    "no_exp": "411",
+    "propiedad_horizontal": "EDIFICIO EL CAIRO",
+    "direcci_n": "CRA 15 CLL 20 No. 14-57 y 20-17"
+  },
+  {
+    "no_exp": "412",
+    "propiedad_horizontal": "EDIFICIO CLAUDIA MILENA",
+    "direcci_n": "CLL 22N No. 11-48"
+  },
+  {
+    "no_exp": "413",
+    "propiedad_horizontal": "CONJUNTO UNIDAD CERRADA LOS LIBERTADORES",
+    "direcci_n": "CRA 27 No. 13-53"
+  },
+  {
+    "no_exp": "414",
+    "propiedad_horizontal": "EDIFICIO RINCON DE LOS ARBOLES",
+    "direcci_n": "CRA 34 No. 17-11"
+  },
+  {
+    "no_exp": "415",
+    "propiedad_horizontal": "UNIDAD RESIDENCAL SAN DIEGO",
+    "direcci_n": "CLL 30 ENTRE CRAS. 42 Y 44"
+  },
+  {
+    "no_exp": "416",
+    "propiedad_horizontal": "EDIFICIO LOS NOGALES",
+    "direcci_n": "CLL 18 No. 16-14"
+  },
+  {
+    "no_exp": "417",
+    "propiedad_horizontal": "EDIFICIO GALEON",
+    "direcci_n": "CLL 24 No. 16-18"
+  },
+  {
+    "no_exp": "418",
+    "propiedad_horizontal": "EDIFICIO GIRALDO",
+    "direcci_n": "CALLE 20 No. 12-60"
+  },
+  {
+    "no_exp": "419",
+    "propiedad_horizontal": "EDIFICIO BILBAO",
+    "direcci_n": "CLL 11 No. 13-23"
+  },
+  {
+    "no_exp": "420",
+    "propiedad_horizontal": "EDIFICIO PICASO",
+    "direcci_n": "CLL 20N No. 14-30"
+  },
+  {
+    "no_exp": "421",
+    "propiedad_horizontal": "EDIFICIO LOS GIRASOLES",
+    "direcci_n": "CLL 12 No: 15ª-02"
+  },
+  {
+    "no_exp": "422",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LAS LOMAS",
+    "direcci_n": "CRA 12 No. 1N-00"
+  },
+  {
+    "no_exp": "423",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL REMANSO",
+    "direcci_n": "CLL 5N No. 20-29"
+  },
+  {
+    "no_exp": "424",
+    "propiedad_horizontal": "EDIFICIO SAN JORGE",
+    "direcci_n": "CLL 12 No. 20-43/45"
+  },
+  {
+    "no_exp": "425",
+    "propiedad_horizontal": "EDIFICIO AMERICA",
+    "direcci_n": "CLL 19 No. 13-28/30/32"
+  },
+  {
+    "no_exp": "426",
+    "propiedad_horizontal": "CENTRO COMERCIAL  LA ESTACION",
+    "direcci_n": "CRA 19 CLL 20 ESQUINA"
+  },
+  {
+    "no_exp": "427",
+    "propiedad_horizontal": "EDIFICIO PALMARES DE SAN MARTIN",
+    "direcci_n": "CRA 16 No. 4N-35/39"
+  },
+  {
+    "no_exp": "428",
+    "propiedad_horizontal": "EDIFICIO HOLGUIN HERMANOS",
+    "direcci_n": "CRA 15 No. 19-13"
+  },
+  {
+    "no_exp": "429",
+    "propiedad_horizontal": "EDIFICIO VELEZ",
+    "direcci_n": "CLL 22 No. 11-10/12"
+  },
+  {
+    "no_exp": "430",
+    "propiedad_horizontal": "EDIFICIO EL ROSAL",
+    "direcci_n": "CRA 12 No. 24-30"
+  },
+  {
+    "no_exp": "431",
+    "propiedad_horizontal": "EDIFICIO ADDA",
+    "direcci_n": "CLL 14N No. 9-58"
+  },
+  {
+    "no_exp": "432",
+    "propiedad_horizontal": "EDIFICIO LOS OLIVOS",
+    "direcci_n": "CLL 14 No. 11-30"
+  },
+  {
+    "no_exp": "433",
+    "propiedad_horizontal": "EDIFICIO EL MILAGRO",
+    "direcci_n": "CLL 15 No. 15-36/40"
+  },
+  {
+    "no_exp": "434",
+    "propiedad_horizontal": "EDIFICIO RUIZ OSORIO",
+    "direcci_n": "CRA 14 No. 23-26"
+  },
+  {
+    "no_exp": "435",
+    "propiedad_horizontal": "EDIFICIO CARMONA",
+    "direcci_n": "CRA 21 No. 11-50"
+  },
+  {
+    "no_exp": "436",
+    "propiedad_horizontal": "EDIFICIO RESIDENCIAS LA FOGATA",
+    "direcci_n": "CRA 13 No. 14N-19"
+  },
+  {
+    "no_exp": "437",
+    "propiedad_horizontal": "EDIFICIO OMA",
+    "direcci_n": "CRA 16 No. 12-08"
+  },
+  {
+    "no_exp": "438",
+    "propiedad_horizontal": "EDIFICIO FLAMINGO",
+    "direcci_n": "CRA 14 No. 13-60"
+  },
+  {
+    "no_exp": "439",
+    "propiedad_horizontal": "EDIFICIO LA PERCHA",
+    "direcci_n": "CLL 18 No. 15-3/33"
+  },
+  {
+    "no_exp": "440",
+    "propiedad_horizontal": "EDIFICIO JIMENEZ",
+    "direcci_n": "CRA 19 CLLS 14 Y 14 ESQUINA"
+  },
+  {
+    "no_exp": "441",
+    "propiedad_horizontal": "EDIFICIO LA MERCED",
+    "direcci_n": "CLL 19 No. 14-44/48"
+  },
+  {
+    "no_exp": "442",
+    "propiedad_horizontal": "EDIFICIO MARIA ELENA",
+    "direcci_n": "CRA 15 No. 14-59/67"
+  },
+  {
+    "no_exp": "443",
+    "propiedad_horizontal": "EDIFICIO GENESIS",
+    "direcci_n": "Carrera 13 No. 1-16"
+  },
+  {
+    "no_exp": "444",
+    "propiedad_horizontal": "EDIFICIO BOLIVAR",
+    "direcci_n": "CLL 20 A No. 14-14"
+  },
+  {
+    "no_exp": "445",
+    "propiedad_horizontal": "EDIFICIO TAIRONA",
+    "direcci_n": "CRA 15 No. 11-10"
+  },
+  {
+    "no_exp": "446",
+    "propiedad_horizontal": "EDIFICIO ALVAREZ JARAMILLO",
+    "direcci_n": "CRA 12 No.  17-53"
+  },
+  {
+    "no_exp": "447",
+    "propiedad_horizontal": "EDIFICIO RICARDO",
+    "direcci_n": "CLL 13 No. 16-12/14"
+  },
+  {
+    "no_exp": "448",
+    "propiedad_horizontal": "EDIFICIO EL CORAL",
+    "direcci_n": "CRA. 18 No. 12-10/16"
+  },
+  {
+    "no_exp": "449",
+    "propiedad_horizontal": "CONDOMINIO EL ROCIO",
+    "direcci_n": "CL 15 No. 14-23"
+  },
+  {
+    "no_exp": "450",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL MONTREAL",
+    "direcci_n": "CL 14 No. 15-44"
+  },
+  {
+    "no_exp": "451",
+    "propiedad_horizontal": "EDIFICIO VANESSA",
+    "direcci_n": "CL 21 CON CRA 26 ESQUINA"
+  },
+  {
+    "no_exp": "452",
+    "propiedad_horizontal": "EDIFICIO LAURELES",
+    "direcci_n": "CRA. 15 Y 16 No. 22N-19/25/29"
+  },
+  {
+    "no_exp": "453",
+    "propiedad_horizontal": "EDIFICIO LONDRINA",
+    "direcci_n": "CLL 18 No. 13-08"
+  },
+  {
+    "no_exp": "454",
+    "propiedad_horizontal": "EDIFICIO AURORA",
+    "direcci_n": "CLL 19 No. 14-21"
+  },
+  {
+    "no_exp": "455",
+    "propiedad_horizontal": "EDIFICIO NUBIA",
+    "direcci_n": "CL 13 No. 14-02/04/16"
+  },
+  {
+    "no_exp": "456",
+    "propiedad_horizontal": "EDIFICIO BERNAL",
+    "direcci_n": "CRA 15 No. 16-21/23/25/29"
+  },
+  {
+    "no_exp": "457",
+    "propiedad_horizontal": "EDIFICIO LIGIA VILLA ARIAS",
+    "direcci_n": "CL 20 No. 12-34"
+  },
+  {
+    "no_exp": "458",
+    "propiedad_horizontal": "EDIFICIO SAN JACINTO",
+    "direcci_n": "CLL 5 N No. 18-54"
+  },
+  {
+    "no_exp": "459",
+    "propiedad_horizontal": "EDIFICIO LORENA",
+    "direcci_n": "CRA 15 No. 14-05"
+  },
+  {
+    "no_exp": "460",
+    "propiedad_horizontal": "EDIFICIO LAS MELENAS",
+    "direcci_n": "CRA 15 CON CL 14 No. 14-04/06"
+  },
+  {
+    "no_exp": "461",
+    "propiedad_horizontal": "EDIFICIO SUCRES",
+    "direcci_n": "CL 11 No. 13-45"
+  },
+  {
+    "no_exp": "462",
+    "propiedad_horizontal": "EDIFICIO GALAXIA",
+    "direcci_n": "CL 15 No. 15-47"
+  },
+  {
+    "no_exp": "463",
+    "propiedad_horizontal": "EDIFICIO INOL",
+    "direcci_n": "CRA. 23 No. 11-37/45"
+  },
+  {
+    "no_exp": "464",
+    "propiedad_horizontal": "EDIFICIO LAS BERMUDAS",
+    "direcci_n": "CRA 14 No. 21-46/48"
+  },
+  {
+    "no_exp": "465",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE ZINAMAYCA",
+    "direcci_n": "VEREDA MURILLO KM 7 VIA EL EDEN"
+  },
+  {
+    "no_exp": "466",
+    "propiedad_horizontal": "EDIFICIO SAN JOSE",
+    "direcci_n": "CRA 14 CON CL 16 No. 15-60/64"
+  },
+  {
+    "no_exp": "467",
+    "propiedad_horizontal": "CONDOMINIO CERRADO QUINTAS DE PALERMO",
+    "direcci_n": "CRA 6 No. 17N-20"
+  },
+  {
+    "no_exp": "468",
+    "propiedad_horizontal": "CONDOMINIO NAVACERRA",
+    "direcci_n": "CLL 14 NORTE  No. 9-59"
+  },
+  {
+    "no_exp": "469",
+    "propiedad_horizontal": "EDIFICIO PAVESA",
+    "direcci_n": "CL 22 No. 15-37/39"
+  },
+  {
+    "no_exp": "470",
+    "propiedad_horizontal": "EDIFICIO SAN PEDRO",
+    "direcci_n": "AV BOLIVAR CL 9N No. 9N-03"
+  },
+  {
+    "no_exp": "471",
+    "propiedad_horizontal": "EDIFICIO LA ALAMEDA",
+    "direcci_n": "CRA. 13 No. 21N-60"
+  },
+  {
+    "no_exp": "472",
+    "propiedad_horizontal": "CONDOMINIO CAMINOS DE CALAY",
+    "direcci_n": "CRA 20 No. 17N-20"
+  },
+  {
+    "no_exp": "473",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL ESCORIAL",
+    "direcci_n": "ENTRE CRAS. 10 Y 11 CL11 Y 12"
+  },
+  {
+    "no_exp": "474",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA VILLA",
+    "direcci_n": "AV. EL EDEN No. 57-81"
+  },
+  {
+    "no_exp": "475",
+    "propiedad_horizontal": "EDIFICIO ARANDALES",
+    "direcci_n": "CLL 9 NORTE No. 11-01"
+  },
+  {
+    "no_exp": "476",
+    "propiedad_horizontal": "CONDOMINIO CERRADO VILLAS DE PALERMO",
+    "direcci_n": "CRA. 19 No. 36N-40"
+  },
+  {
+    "no_exp": "477",
+    "propiedad_horizontal": "EDIFICIO TEQUENDAMA",
+    "direcci_n": "CL 15N No. 12-11/13"
+  },
+  {
+    "no_exp": "478",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL PORTAL DE SAN JUAN",
+    "direcci_n": "VEREDA SAN JUAN"
+  },
+  {
+    "no_exp": "479",
+    "propiedad_horizontal": "EDIFICIO TOSCANA",
+    "direcci_n": "CALLE 16 N No. 13-23"
+  },
+  {
+    "no_exp": "480",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PORTAL DE LA COLONIA",
+    "direcci_n": "CARRERA 19 No. 25N-05"
+  },
+  {
+    "no_exp": "481",
+    "propiedad_horizontal": "EDIFICIO GINEBRA",
+    "direcci_n": "CRA 17 CL 23 N No. 22N-29"
+  },
+  {
+    "no_exp": "482",
+    "propiedad_horizontal": "CONJUNTO CERRADO BOSQUES DE GIBRALTAR",
+    "direcci_n": "FINCA LOS NARANJOS"
+  },
+  {
+    "no_exp": "483",
+    "propiedad_horizontal": "CONJUNTO  CERRADO LA  ANUNCIACION TCC",
+    "direcci_n": "CRA 33 No. 29ª-00"
+  },
+  {
+    "no_exp": "484",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR URIBE",
+    "direcci_n": "CRA 12 CL 26 Y 27 No. 26-32"
+  },
+  {
+    "no_exp": "485",
+    "propiedad_horizontal": "CONDOMINIO EL PALMAR",
+    "direcci_n": "CRA 6 No. 32N-60"
+  },
+  {
+    "no_exp": "486",
+    "propiedad_horizontal": "CONDOMINIO SANTA MARIA DEL PINAR",
+    "direcci_n": "VEREDA TITINA KM 5 VIA AL AEREOPUERTO"
+  },
+  {
+    "no_exp": "487",
+    "propiedad_horizontal": "EDIFICIO SCALA",
+    "direcci_n": "CLL 6N No. 18-166/168/170/174"
+  },
+  {
+    "no_exp": "488",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL HACIENDA PALMACERA",
+    "direcci_n": "CLL 9N No. 18-380"
+  },
+  {
+    "no_exp": "489",
+    "propiedad_horizontal": "EDIFICIO BALMORAL",
+    "direcci_n": "CRA 18 No. 12-42"
+  },
+  {
+    "no_exp": "490",
+    "propiedad_horizontal": "CONJUNTO CERRADO BOSQUES DE SAN MARTIN",
+    "direcci_n": "CRA 19 No. 30N-64"
+  },
+  {
+    "no_exp": "491",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CASTELAMAR",
+    "direcci_n": "CRA 19 No. 26N-32"
+  },
+  {
+    "no_exp": "492",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA COLONIA",
+    "direcci_n": "CRA 19 No. 25n-75"
+  },
+  {
+    "no_exp": "493",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL LA FLORESTA",
+    "direcci_n": "AV. BOLIVAR No. 19N-10/24"
+  },
+  {
+    "no_exp": "494",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LOS ANDES",
+    "direcci_n": "CLL 22N No. 19-68"
+  },
+  {
+    "no_exp": "495",
+    "propiedad_horizontal": "EDIFICIO PALMERAS",
+    "direcci_n": "CRA. 14 No. 16-44"
+  },
+  {
+    "no_exp": "496",
+    "propiedad_horizontal": "EDIFICIO TORRE SAN CANCIO",
+    "direcci_n": "CLL 2N No. 18-131/135"
+  },
+  {
+    "no_exp": "497",
+    "propiedad_horizontal": "EDIFICIO GEMINIS",
+    "direcci_n": "CRA 13 No. 9N-104"
+  },
+  {
+    "no_exp": "498",
+    "propiedad_horizontal": "EDIFICIO NORMADA",
+    "direcci_n": "CRA 13 No. 11A-10/14"
+  },
+  {
+    "no_exp": "499",
+    "propiedad_horizontal": "CONDOMINIO CERRADO GALICIA",
+    "direcci_n": "AV 19 No. 24N-04"
+  },
+  {
+    "no_exp": "500",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SOTAVENTO II",
+    "direcci_n": "CRA 17 No. 7A-17/21"
+  },
+  {
+    "no_exp": "501",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL SAN CARLOS",
+    "direcci_n": "CLL 5N No. 18A-40"
+  },
+  {
+    "no_exp": "502",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TEJARES DEL PARQUE",
+    "direcci_n": "CRA. 13 No. 8N-49"
+  },
+  {
+    "no_exp": "503",
+    "propiedad_horizontal": "EDIFICIO OPALO",
+    "direcci_n": "CLL 8 No. 16-09"
+  },
+  {
+    "no_exp": "504",
+    "propiedad_horizontal": "EDIFICIO EL SILENCIO",
+    "direcci_n": "CLL 13 No. 8-14"
+  },
+  {
+    "no_exp": "505",
+    "propiedad_horizontal": "EDIFICIO TOLEDO",
+    "direcci_n": "CRA 15 No. 22N-25"
+  },
+  {
+    "no_exp": "506",
+    "propiedad_horizontal": "EDIFICIO UNINORTE",
+    "direcci_n": "CLL 1ª NORTE No. 12-36"
+  },
+  {
+    "no_exp": "507",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL BOSQUES DE VIENA I",
+    "direcci_n": "AV. 19 No. 32N-11"
+  },
+  {
+    "no_exp": "508",
+    "propiedad_horizontal": "EDIFICIO GHOSA",
+    "direcci_n": "CRA 14 No. 18-53"
+  },
+  {
+    "no_exp": "509",
+    "propiedad_horizontal": "EDIFICIO LA PERLA",
+    "direcci_n": "CRA 15 No. 22-45/47"
+  },
+  {
+    "no_exp": "510",
+    "propiedad_horizontal": "UNIDAD INMOBILIARIA CERRADA NAVARRA",
+    "direcci_n": "AV. 19 No. 23N-96"
+  },
+  {
+    "no_exp": "511",
+    "propiedad_horizontal": "CONJUNTO CERRADO PLAZUELA DE LAS AMERICAS",
+    "direcci_n": "CLL 19 No. 28-20"
+  },
+  {
+    "no_exp": "512",
+    "propiedad_horizontal": "EDIFICIO BOTERO JOTA",
+    "direcci_n": "CRA .15 No. 19-10"
+  },
+  {
+    "no_exp": "513",
+    "propiedad_horizontal": "EDIFICIO EL TRIANGULO",
+    "direcci_n": "CLL 19N No. 15-85"
+  },
+  {
+    "no_exp": "514",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CASTELLON",
+    "direcci_n": "CLL 19N No. 10-41"
+  },
+  {
+    "no_exp": "515",
+    "propiedad_horizontal": "EDIFICIO MOGADOR",
+    "direcci_n": "CRA 15 CLL 17 ESQUINA No. 17-06"
+  },
+  {
+    "no_exp": "516",
+    "propiedad_horizontal": "EDIFICIO CONDOMINIO BEATRIZ ELENA (DESAPARECE SE INCORPORA AL 216)",
+    "direcci_n": "CLL 14N No. 12-02/04"
+  },
+  {
+    "no_exp": "517",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL BOSQUES DE CATALUÑA",
+    "direcci_n": "CLL 22 NORTE No. 19-100"
+  },
+  {
+    "no_exp": "518",
+    "propiedad_horizontal": "CONJUNTO  RESIDENCIAL CASALOMA",
+    "direcci_n": "CRA 19 No. 29N-40"
+  },
+  {
+    "no_exp": "519",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL GUADUALES DEL EDEN",
+    "direcci_n": "CLL 52 ENTRE CRAS 1 Y 2"
+  },
+  {
+    "no_exp": "520",
+    "propiedad_horizontal": "EDIFICIO SANTA HELENA",
+    "direcci_n": "CLL 15N No. 15N-02/12"
+  },
+  {
+    "no_exp": "521",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL  BOSQUES DE VIENA UNIDAD II",
+    "direcci_n": "AV. 19 No. 32n-37"
+  },
+  {
+    "no_exp": "522",
+    "propiedad_horizontal": "EDIFICIO ORION",
+    "direcci_n": "CLL 21 No. 11-23/27/29"
+  },
+  {
+    "no_exp": "523",
+    "propiedad_horizontal": "EDIFICIO CLINICA EL PRADO",
+    "direcci_n": "CRAS 12 Y 13 No. 12-70/120/180"
+  },
+  {
+    "no_exp": "524",
+    "propiedad_horizontal": "EDIFICIO LOS CERROS",
+    "direcci_n": "CLL 19 A NORTE 14-31/33/35"
+  },
+  {
+    "no_exp": "525",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SANTILLANA DEL MAR",
+    "direcci_n": "AVENIDA 19  No. 28 NORTE 60"
+  },
+  {
+    "no_exp": "526",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL EDEN DE LA VICTORIA",
+    "direcci_n": "AV. BOLIVAR CLL. 45 NORTE-49"
+  },
+  {
+    "no_exp": "527",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL EL CARMELO",
+    "direcci_n": "CLL 50 No. 30-61"
+  },
+  {
+    "no_exp": "528",
+    "propiedad_horizontal": "EDIFICIO MONTEVERDE",
+    "direcci_n": "CARRERA 13 No. 8N - 16"
+  },
+  {
+    "no_exp": "529",
+    "propiedad_horizontal": "EDIFICIO LOS SAMANES",
+    "direcci_n": "CLL. 9 No. 16-07 CRA. 16 No. 9-04"
+  },
+  {
+    "no_exp": "530",
+    "propiedad_horizontal": "CONJUNTO CERRADO LOS SAUCES",
+    "direcci_n": "CRA. 17 No. 7-20"
+  },
+  {
+    "no_exp": "531",
+    "propiedad_horizontal": "CONDOMINIO ASTURIAS",
+    "direcci_n": "CRA. 20 No. 23N-95"
+  },
+  {
+    "no_exp": "532",
+    "propiedad_horizontal": "EDIFICIO RIALTO",
+    "direcci_n": "AV. BOLIVAR No. 7N-06/10/14/68"
+  },
+  {
+    "no_exp": "533",
+    "propiedad_horizontal": "CENTRO HOTELERO Y DE NEGOCIO LA CASCADA TORRE CAÑABRAVA",
+    "direcci_n": "Av. Bol.  Con carrera 14 entre CLL 8N y 9N"
+  },
+  {
+    "no_exp": "534",
+    "propiedad_horizontal": "EDIFICIO BARCAROLA",
+    "direcci_n": "CLL 10N No. 18-119"
+  },
+  {
+    "no_exp": "535",
+    "propiedad_horizontal": "EDIFICIO CALAMAR",
+    "direcci_n": "CLL 19 No. 25-37/39"
+  },
+  {
+    "no_exp": "536",
+    "propiedad_horizontal": "CONJUNTO  RESIDENCIAL VILLA MARAVELEZ",
+    "direcci_n": "CLL 57 No. 23-71"
+  },
+  {
+    "no_exp": "537",
+    "propiedad_horizontal": "CONJUNTO PARQUE RESIDENCIAL SAN SIMON",
+    "direcci_n": "CLL 32N No. 18-60"
+  },
+  {
+    "no_exp": "538",
+    "propiedad_horizontal": "CONJUNTO RESDIENCIAL ALTOS DEL OLIVAR",
+    "direcci_n": "CLL 5N No. 18A-10"
+  },
+  {
+    "no_exp": "539",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL QUINTAS DE LA FLORESTA",
+    "direcci_n": "CRA. 19 No. 33N-15"
+  },
+  {
+    "no_exp": "540",
+    "propiedad_horizontal": "EDIFICIO JARAMILLO ARAGO",
+    "direcci_n": "CRA 21A No. 11A-08/10"
+  },
+  {
+    "no_exp": "541",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TOLEDO CAMPESTRE",
+    "direcci_n": "CLL 23 NORTE No. 24-01"
+  },
+  {
+    "no_exp": "542",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA RIOJA",
+    "direcci_n": "CLL 9 NORTE No. 16-01"
+  },
+  {
+    "no_exp": "374A",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PALMAS DE LA CALLEJA",
+    "direcci_n": "CRA 11 No. 22N-43"
+  },
+  {
+    "no_exp": "544",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL PORTAL DEL CAIMO",
+    "direcci_n": "CRA 3 No. 2-60"
+  },
+  {
+    "no_exp": "545",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PALMA REAL",
+    "direcci_n": "CLL 9n No. 18-385"
+  },
+  {
+    "no_exp": "546",
+    "propiedad_horizontal": "CENTRO COMERCIAL PORTAL DEL QUINDIO",
+    "direcci_n": "CLL 19 NORTE No. 12-60"
+  },
+  {
+    "no_exp": "547",
+    "propiedad_horizontal": "EDIFICIO SUCRE",
+    "direcci_n": "CLL 12 CON CRA 13 No. 11A-54"
+  },
+  {
+    "no_exp": "548",
+    "propiedad_horizontal": "EDIFICIO ACROPOLIS",
+    "direcci_n": "CLL 10 CRAS13 Y 14 No. 13-12/22"
+  },
+  {
+    "no_exp": "549",
+    "propiedad_horizontal": "EDIFICIO RUCAR",
+    "direcci_n": "CRA. 15 No. 10-50"
+  },
+  {
+    "no_exp": "550",
+    "propiedad_horizontal": "CONJUNTO  RESIDENCIAL QUINTAS DEL PALMAR",
+    "direcci_n": "CARRERA 6a. No. 32N-60"
+  },
+  {
+    "no_exp": "551",
+    "propiedad_horizontal": "CONJUNTO RESERVADO ALTOS DE LA SIERRA",
+    "direcci_n": "CRA 19 No. 21N-48"
+  },
+  {
+    "no_exp": "552",
+    "propiedad_horizontal": "EDIFICIO PARQUEADEROS AMIGOS DEL NORTE",
+    "direcci_n": "AVENIDA 19  14N- 11"
+  },
+  {
+    "no_exp": "553",
+    "propiedad_horizontal": "EDIFICIO BETHEL",
+    "direcci_n": "CALLE 11ª No.13-11"
+  },
+  {
+    "no_exp": "554",
+    "propiedad_horizontal": "CONJUNTO CERRADO LA PASTORITA",
+    "direcci_n": "AV. 19 No. 23ª Norte-21"
+  },
+  {
+    "no_exp": "555",
+    "propiedad_horizontal": "EDIFICIO ESCOCIA",
+    "direcci_n": "CLL 1 No. 14-45"
+  },
+  {
+    "no_exp": "556",
+    "propiedad_horizontal": "CONDOMINIO MONTES DE MARIA",
+    "direcci_n": "CRA. 10N No. 11N-40"
+  },
+  {
+    "no_exp": "557",
+    "propiedad_horizontal": "CENTRO EMPRESARIAL FLORIDA MALL",
+    "direcci_n": "CRA 11 No. 19-13"
+  },
+  {
+    "no_exp": "558",
+    "propiedad_horizontal": "EDIFICIO MORALES RESTREPO HERMANOS",
+    "direcci_n": "CLL 15 No. 16-44"
+  },
+  {
+    "no_exp": "559",
+    "propiedad_horizontal": "EDIFICIO BETHESDA",
+    "direcci_n": "CLL 10 NORTE No. 18-13 Y 18-09"
+  },
+  {
+    "no_exp": "560",
+    "propiedad_horizontal": "EDIFICIO IPANEMA",
+    "direcci_n": "CRA. 14 No. 21N-39"
+  },
+  {
+    "no_exp": "561",
+    "propiedad_horizontal": "EDIFICIO CENTRO MEDICO Y EMPRESARIAL UNINORTE",
+    "direcci_n": "CRA.12  CLL1AN 04/14/20/26 CLL1AN N° 11-60/68"
+  },
+  {
+    "no_exp": "562",
+    "propiedad_horizontal": "EDIFICIO ESTHER",
+    "direcci_n": "CRA. 17 No 10-01/03"
+  },
+  {
+    "no_exp": "563",
+    "propiedad_horizontal": "CONDOMINIO SALAMANCA",
+    "direcci_n": "CLL 5N – N18A - 80"
+  },
+  {
+    "no_exp": "564",
+    "propiedad_horizontal": "CENTRO COMERCIAL LUCIANA",
+    "direcci_n": "CLL 17 carreras 15 y 16 No 15 - 22"
+  },
+  {
+    "no_exp": "565",
+    "propiedad_horizontal": "URBANIZACION EL BOSQUE",
+    "direcci_n": "VEREDA EL CAIMO"
+  },
+  {
+    "no_exp": "566",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA RESERVA DE TOLEDO",
+    "direcci_n": "CALLE 23 Norte # 24-51"
+  },
+  {
+    "no_exp": "567",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL QUINTAS DE SAN SEBASTIAN",
+    "direcci_n": "CRA 11 No 22N 36"
+  },
+  {
+    "no_exp": "568",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SAN JERONIMO CAMPESTRE",
+    "direcci_n": "CRA 20 # 17N 00"
+  },
+  {
+    "no_exp": "569",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL QUINTAS DE LA PASTORITA",
+    "direcci_n": "CLL 25N No 19-90"
+  },
+  {
+    "no_exp": "570",
+    "propiedad_horizontal": "EDIFICIO GLORIA",
+    "direcci_n": "CLL 13 N No.13-44"
+  },
+  {
+    "no_exp": "571",
+    "propiedad_horizontal": "EDIFICIO EL PALMAR",
+    "direcci_n": "CRA 15 No. 22-46"
+  },
+  {
+    "no_exp": "572",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL AGUAZUL",
+    "direcci_n": "CALLE 67  No. 23-20"
+  },
+  {
+    "no_exp": "573",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CAMPESTRE REMANSO DEL EDEN",
+    "direcci_n": "FINCA LA ESTRELLA VIA CLUB CAMPESTRE CONDUCE AL CAIMO"
+  },
+  {
+    "no_exp": "574",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CAMINOS DEL CAMPO",
+    "direcci_n": "CLL 48 No.26-01"
+  },
+  {
+    "no_exp": "542A",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL  LOMA LINDA",
+    "direcci_n": "CRA. 19 A No. 18 NORTE-67"
+  },
+  {
+    "no_exp": "576",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL JARDIN DE LAS AMERICAS",
+    "direcci_n": "CLL 20 No.29-04"
+  },
+  {
+    "no_exp": "575",
+    "propiedad_horizontal": "EDIFICIO MONTEMADERO",
+    "direcci_n": "CRA 10 No. 11N-12"
+  },
+  {
+    "no_exp": "578",
+    "propiedad_horizontal": "EDIFICIO SAN FERNANDO",
+    "direcci_n": "CLL 5 NORTE NO.17-42"
+  },
+  {
+    "no_exp": "579",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA FLORESTA DE SAN JUAN",
+    "direcci_n": "CARRERA 6A. No. 47N-20"
+  },
+  {
+    "no_exp": "580",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LA COLINA DE LA CASTELLANA",
+    "direcci_n": "URBANIZACION CASTELLANA CALLE 11 NORTE No.9-55"
+  },
+  {
+    "no_exp": "581",
+    "propiedad_horizontal": "EDIFICIO SAN ANDRES",
+    "direcci_n": "CALLE 17 Nos. 15-43 / 47 / 49"
+  },
+  {
+    "no_exp": "582",
+    "propiedad_horizontal": "CONDOMINIO LOS CEDROS",
+    "direcci_n": "AVENIDA 19 DE ENERO No.24N-27"
+  },
+  {
+    "no_exp": "583",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL RINCON DE LA SAMARIA",
+    "direcci_n": "CLL 11 N Nos. 14A-08"
+  },
+  {
+    "no_exp": "584",
+    "propiedad_horizontal": "EDIFICIO SOLARIS",
+    "direcci_n": "CRA 13 8N-40"
+  },
+  {
+    "no_exp": "585",
+    "propiedad_horizontal": "EDIFICIO EMY",
+    "direcci_n": "Mza 36 No.4 BARRIO LA ISABELA"
+  },
+  {
+    "no_exp": "586",
+    "propiedad_horizontal": "CONDOMINIO GERMANIA",
+    "direcci_n": "CRA. 6 No. 17 N-01"
+  },
+  {
+    "no_exp": "587",
+    "propiedad_horizontal": "EDIFICIO LOS CORALES",
+    "direcci_n": "CRA 14 No. 13-61"
+  },
+  {
+    "no_exp": "588",
+    "propiedad_horizontal": "CONJUNTO CERRADO LA CECILIA",
+    "direcci_n": "Correg. El Caimo Coj. La cecilia detrás de la bodega de Bavaria Casa.12"
+  },
+  {
+    "no_exp": "589",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CIUDAD REAL",
+    "direcci_n": "CRA. 11  No. 16-46"
+  },
+  {
+    "no_exp": "590",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL BRISAS DE LA SECRETA",
+    "direcci_n": "CALLE 43 ENTRE CARRERAS 18 Y 19"
+  },
+  {
+    "no_exp": "591",
+    "propiedad_horizontal": "EDIFICIO LUCELLY",
+    "direcci_n": "CALLE 11  Nros. 15 - 32"
+  },
+  {
+    "no_exp": "592",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL RESERVA DE LA PASTORITA",
+    "direcci_n": "AVENIDA 19  No. 23N – 21"
+  },
+  {
+    "no_exp": "593",
+    "propiedad_horizontal": "CONJUNTO CAMPESTRE PONTEVEDRA",
+    "direcci_n": "KM. 8 VIA ARMENIA – EL CAIMO – CLUB CAMPESTRE"
+  },
+  {
+    "no_exp": "594",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL ALCALA U.I.C.",
+    "direcci_n": "CALLE 24AN  No. 18 - 20"
+  },
+  {
+    "no_exp": "595",
+    "propiedad_horizontal": "CONDOMINIO LOS ANGELES",
+    "direcci_n": "CARRERA 6  No. 23N - 50"
+  },
+  {
+    "no_exp": "596",
+    "propiedad_horizontal": "CLUB RESIDENCIAL LA PROVENCE",
+    "direcci_n": "VEREDA MURILLO"
+  },
+  {
+    "no_exp": "597",
+    "propiedad_horizontal": "CONDOMINIO LOS ALPES",
+    "direcci_n": "CARRERA 13  9AN - 37"
+  },
+  {
+    "no_exp": "598",
+    "propiedad_horizontal": "EDIFICIO VENECIA",
+    "direcci_n": "CALLE 22A Norte  No. 12 - 15"
+  },
+  {
+    "no_exp": "599",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL IBERICA",
+    "direcci_n": "CARRERA 6ta.  No. 9 - 49"
+  },
+  {
+    "no_exp": "600",
+    "propiedad_horizontal": "CONDOMINIO PUERTA DE SION",
+    "direcci_n": "Calle 23Norte No. 19-89"
+  },
+  {
+    "no_exp": "601",
+    "propiedad_horizontal": "EDIFICIO OBELISCO",
+    "direcci_n": "CARRERA 11  No. 21N - 51"
+  },
+  {
+    "no_exp": "602",
+    "propiedad_horizontal": "EDIFICIO ZEPHIA",
+    "direcci_n": "CARRERA 10  No. 11N-60"
+  },
+  {
+    "no_exp": "603",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL LAS RAMBLAS",
+    "direcci_n": "CARRERA 19  No. 10N-89"
+  },
+  {
+    "no_exp": "605",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL QUINTAS DE LA CASTELLANA",
+    "direcci_n": "AVDA. CENTENARIO Cra. 6  No. 16N-61"
+  },
+  {
+    "no_exp": "606",
+    "propiedad_horizontal": "CONJUNTO COMERCIAL CARMEN DEL PINAR",
+    "direcci_n": "Km 6 vía la Tebaida"
+  },
+  {
+    "no_exp": "607",
+    "propiedad_horizontal": "UNIDAD FAMILIAR AURITA",
+    "direcci_n": "Urbanización Santa Ana Km 2 vía la Tebaida"
+  },
+  {
+    "no_exp": "608",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL GRANADA",
+    "direcci_n": "CALLE 10a. Norte No. 22a-01"
+  },
+  {
+    "no_exp": "609",
+    "propiedad_horizontal": "URBANIZACIÓN MURANO",
+    "direcci_n": "CALLE 8A No. 23 - 16"
+  },
+  {
+    "no_exp": "610",
+    "propiedad_horizontal": "EDIFICIO PUERTA DEL SOL",
+    "direcci_n": "Calle 2N # 18 - 209"
+  },
+  {
+    "no_exp": "611",
+    "propiedad_horizontal": "EDIFICIO LONDOÑO ESCOBAR",
+    "direcci_n": "Carrera 14 No. 30 - 37"
+  },
+  {
+    "no_exp": "612",
+    "propiedad_horizontal": "CONDOMINIO PARQUE RESIDENCIAL QUINTAS DE SAN FELIPE",
+    "direcci_n": "Cra.  19  No. 30N – 14"
+  },
+  {
+    "no_exp": "613",
+    "propiedad_horizontal": "EDIFICIO QUINDIO",
+    "direcci_n": "Calle 20 No. 18 - 37"
+  },
+  {
+    "no_exp": "614",
+    "propiedad_horizontal": "EDIFICIO CAROLINA",
+    "direcci_n": "CALLE 19 No. 20-34"
+  },
+  {
+    "no_exp": "615",
+    "propiedad_horizontal": "EDIFICIO LIBARDO MEJIA PALACIO",
+    "direcci_n": "CALLE 14  No. 13-46/52 CARRERA 14  No. 13-57/59"
+  },
+  {
+    "no_exp": "616",
+    "propiedad_horizontal": "UNIDAD INMOBILIARIA CERRADA URB. CABO DE LA VELA",
+    "direcci_n": "CARRERA 18  No. 70 - 20"
+  },
+  {
+    "no_exp": "617",
+    "propiedad_horizontal": "UNIDAD INMOBILIARIA CERRADA CONJ RES.L MANAURE",
+    "direcci_n": "CARRERA 18  No. 70 - 20"
+  },
+  {
+    "no_exp": "618",
+    "propiedad_horizontal": "UNIDAD INMOBILIARIA CERRADA CONJ RESIDENCIAL BARU",
+    "direcci_n": "CARRERA 18  No. 70 - 20"
+  },
+  {
+    "no_exp": "619",
+    "propiedad_horizontal": "UNIDAD INMOBILIARIA CERRADA CONJ. RES.  CAÑO CRISTALES",
+    "direcci_n": "CARRERA 18  No. 70 - 20"
+  },
+  {
+    "no_exp": "620",
+    "propiedad_horizontal": "EDIFICIO SANTA FE",
+    "direcci_n": "Calle 17 No. 17-29"
+  },
+  {
+    "no_exp": "621",
+    "propiedad_horizontal": "SIERRA MORENA CONJUNTO CAMPESTRE",
+    "direcci_n": "KILOMETRO 5 VIA EL EDEN"
+  },
+  {
+    "no_exp": "622",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL QUINTAS DE SAN JULIAN II",
+    "direcci_n": "CARRERA 11  No. 22N – 80"
+  },
+  {
+    "no_exp": "623",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR RUCARLI",
+    "direcci_n": "CARRERA 24A  No. 5-104 / 108 CALLE 6 No. 24A – 10"
+  },
+  {
+    "no_exp": "624",
+    "propiedad_horizontal": "EDIFICIO ANDREA",
+    "direcci_n": "AVENIDA BOLIVAR  No. 16N – 18"
+  },
+  {
+    "no_exp": "625",
+    "propiedad_horizontal": "ALTAVISTA CENTRO COMERCIAL",
+    "direcci_n": "CALLE 19  No. 12 – 41"
+  },
+  {
+    "no_exp": "626",
+    "propiedad_horizontal": "EDIFICIO NOGALES DEL PARQUE",
+    "direcci_n": "CALLE 17N  No. 11 – 70"
+  },
+  {
+    "no_exp": "627",
+    "propiedad_horizontal": "CONJUNTO PARQUE RESIDENCIAL SANTA CLARA",
+    "direcci_n": "CARRERA 19 N° 25 N 50"
+  },
+  {
+    "no_exp": "628",
+    "propiedad_horizontal": "COLINA DEL PARQUE CONJUNTO RESIDENCIAL",
+    "direcci_n": "CARRERA 11  No. 9N – 01"
+  },
+  {
+    "no_exp": "629",
+    "propiedad_horizontal": "EDIFICIO MONTECARMELO",
+    "direcci_n": "carrera 9N con carrera 12 No. 9N- 07"
+  },
+  {
+    "no_exp": "630",
+    "propiedad_horizontal": "CENTRO COMERCIAL BAMBUSA PLAZA",
+    "direcci_n": "carrera 19 con calles 5 y 9 Norte"
+  },
+  {
+    "no_exp": "631",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PALMAS DE GALICIA",
+    "direcci_n": "Calle 1 No. 11-70"
+  },
+  {
+    "no_exp": "632",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TERRAZA BAMBU",
+    "direcci_n": "Carrera 24 A # 1-01 barrio Niágara"
+  },
+  {
+    "no_exp": "633",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL PIETRA SANTA",
+    "direcci_n": "Calle 10  N No. 18-127"
+  },
+  {
+    "no_exp": "634",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL BOSQUES DE SAN JUAN",
+    "direcci_n": "carrera 6 No. 43N-50"
+  },
+  {
+    "no_exp": "635",
+    "propiedad_horizontal": "EDIFICIO OASIS DE LAURELES",
+    "direcci_n": "Calle 23N No. 15-21"
+  },
+  {
+    "no_exp": "636",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DE LA ISABELA",
+    "direcci_n": "CARRERA 19 N° 57-15"
+  },
+  {
+    "no_exp": "637",
+    "propiedad_horizontal": "EDIFICIO TORRES DE SAN JOSE",
+    "direcci_n": "calle 13 No. 23a- 24"
+  },
+  {
+    "no_exp": "638",
+    "propiedad_horizontal": "CONDOMINIO SAN FERNANDO",
+    "direcci_n": "Calle 9 No 16-43"
+  },
+  {
+    "no_exp": "639",
+    "propiedad_horizontal": "URBANIZACION PALMA DE CORINTIA",
+    "direcci_n": "AV. 19 N° 33N -31"
+  },
+  {
+    "no_exp": "640",
+    "propiedad_horizontal": "EDIFICIO EL TRIANGULO DEL LIMONAR",
+    "direcci_n": "CALLE 5 No 28A - 81"
+  },
+  {
+    "no_exp": "641",
+    "propiedad_horizontal": "EDIFICIO LA RIVIERA",
+    "direcci_n": "Avenida Bolívar No. 38N-75"
+  },
+  {
+    "no_exp": "642",
+    "propiedad_horizontal": "EDIFICIO CLINICA DEL CAFE",
+    "direcci_n": "Carrera 12  Calle 1 Manzana E"
+  },
+  {
+    "no_exp": "643",
+    "propiedad_horizontal": "EDIFICIO LOCALES LA 20",
+    "direcci_n": "Carrera 20 No. 19-20 B/ Catorce de Octubre"
+  },
+  {
+    "no_exp": "644",
+    "propiedad_horizontal": "EDIFICIO PARAISO DE LOS ANGELES",
+    "direcci_n": "CARRERA 16 No. 8-19"
+  },
+  {
+    "no_exp": "645",
+    "propiedad_horizontal": "CONJUNTO CERRADO BADAJOZ",
+    "direcci_n": "Avenida 19 No. 10N-43"
+  },
+  {
+    "no_exp": "646",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE RESERVA DEL MANANTIAL",
+    "direcci_n": "Corregimiento El Caimo"
+  },
+  {
+    "no_exp": "647",
+    "propiedad_horizontal": "CONDOMINIO PALMARES DE ALAMEDA",
+    "direcci_n": "Cra 23 No. 18N -03"
+  },
+  {
+    "no_exp": "648",
+    "propiedad_horizontal": "EDIFICIO SOHO",
+    "direcci_n": "CALLE 9 N No. 11-18"
+  },
+  {
+    "no_exp": "649",
+    "propiedad_horizontal": "EDIFICIO AZUL",
+    "direcci_n": "Carrera 13 No. 15-36"
+  },
+  {
+    "no_exp": "650",
+    "propiedad_horizontal": "EDIFICIO RESERVA DE LA CAMPIÑA",
+    "direcci_n": "CARRERA 10 NO. 15N- 09"
+  },
+  {
+    "no_exp": "651",
+    "propiedad_horizontal": "EDIFICIO TORRE BALCANES",
+    "direcci_n": "Carrera 16 No. 22 N- 09"
+  },
+  {
+    "no_exp": "652",
+    "propiedad_horizontal": "EDIFICIO CERROS DEL CASTILLO",
+    "direcci_n": "Carrera 13 No. 21N- 18"
+  },
+  {
+    "no_exp": "653",
+    "propiedad_horizontal": "URBANIZACION QUINTAS DE SAN MIGUEL",
+    "direcci_n": "Calle 25 Norte No. 11-15"
+  },
+  {
+    "no_exp": "654",
+    "propiedad_horizontal": "CONDOMINIO PORTAL DE GALICIA",
+    "direcci_n": "Calle 22 No. 40 - 57"
+  },
+  {
+    "no_exp": "655",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL BAVIERA",
+    "direcci_n": "Carrera 16 No. 13 - 26"
+  },
+  {
+    "no_exp": "656",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL NETANIA",
+    "direcci_n": "Calle 19 Norte No. 11-20"
+  },
+  {
+    "no_exp": "657",
+    "propiedad_horizontal": "METROLOFT APARTASUITES",
+    "direcci_n": "Cra 19 N° 26 Norte-49"
+  },
+  {
+    "no_exp": "658",
+    "propiedad_horizontal": "CIUDADELA DEL CAFE ETAPA 2",
+    "direcci_n": "Calle 49 N° 31-02"
+  },
+  {
+    "no_exp": "659",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL SANTA CATALINA",
+    "direcci_n": "carrera 18 No. 29 nOrte-10"
+  },
+  {
+    "no_exp": "660",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE PALO DE AGUA",
+    "direcci_n": "Km. 6 Vía al Edén"
+  },
+  {
+    "no_exp": "661",
+    "propiedad_horizontal": "EDIFICIO BAHIA BLANCA",
+    "direcci_n": "Carrera 18 VIA EL EDEN  No. 70=20"
+  },
+  {
+    "no_exp": "662",
+    "propiedad_horizontal": "EDIFICIO LOPEZ",
+    "direcci_n": "Carrera 14 No.  11 – 08/10  Y  Calle 11 No.  11-08"
+  },
+  {
+    "no_exp": "663",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL BOREAL",
+    "direcci_n": "Calle 2 avenida las palmas No 6-371"
+  },
+  {
+    "no_exp": "664",
+    "propiedad_horizontal": "EDIFICIO GOMEZ Y GOMEZ",
+    "direcci_n": "CALLE 18 No. 17-45/51"
+  },
+  {
+    "no_exp": "665",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL QUINTAS DE SANTA ISABEL",
+    "direcci_n": "Carrera 14 No 38N 158"
+  },
+  {
+    "no_exp": "666",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR ALOJA",
+    "direcci_n": "Calle 22 No. 27A-04"
+  },
+  {
+    "no_exp": "667",
+    "propiedad_horizontal": "EDIFICIO SINNAMARY",
+    "direcci_n": "CARRERA 13 No 04Norte - 49"
+  },
+  {
+    "no_exp": "668",
+    "propiedad_horizontal": "EDIFICIO MURANO",
+    "direcci_n": "CALLE 19N No. 14-39"
+  },
+  {
+    "no_exp": "669",
+    "propiedad_horizontal": "EDIFICIO MARIA JOSE",
+    "direcci_n": "AVENIDA BOLIVAR No. 36N-12"
+  },
+  {
+    "no_exp": "670",
+    "propiedad_horizontal": "COCORA PARQUE RESIDENCIAL",
+    "direcci_n": "CALLE 10 NORTE LOTE NUMERO 1 - LOTE PRIMERA ETAPA."
+  },
+  {
+    "no_exp": "671",
+    "propiedad_horizontal": "EDIFICIO RESERVA DEL PARQUE",
+    "direcci_n": "CARRERA 15  19AN-41"
+  },
+  {
+    "no_exp": "672",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TORRE ORION",
+    "direcci_n": "CARRERA 11A CON CALLE 12 NORTE ESQUINA, URBANIZACION LA CASTELLANA"
+  },
+  {
+    "no_exp": "673",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PORTAL DE LOS ANDES",
+    "direcci_n": "CALLE 23 CON CARRERA 37B VIA BARRIO LA PATRIA"
+  },
+  {
+    "no_exp": "674",
+    "propiedad_horizontal": "EDIFICIO IRESCO",
+    "direcci_n": "Carrera 19 Numero 19-33"
+  },
+  {
+    "no_exp": "675",
+    "propiedad_horizontal": "CENTRO COMERCIAL UNICENTRO",
+    "direcci_n": "CARRERA 14 No. 6-02"
+  },
+  {
+    "no_exp": "676",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CISNEROS II Y III",
+    "direcci_n": "BARRIO SAN JOSE CARRERA 27A"
+  },
+  {
+    "no_exp": "677",
+    "propiedad_horizontal": "EDIFICIO M Y L",
+    "direcci_n": "Calle 16 Norte No. 11-51 y 11-57"
+  },
+  {
+    "no_exp": "678",
+    "propiedad_horizontal": "EDIFICIO SAN JOSE DEL PARQUE",
+    "direcci_n": "carrera 13 No. 13-20"
+  },
+  {
+    "no_exp": "679",
+    "propiedad_horizontal": "EDIFICIO EL BOHIO",
+    "direcci_n": "Carrera 15 entre Calles 17 y 18"
+  },
+  {
+    "no_exp": "680",
+    "propiedad_horizontal": "EDIFICIO DANNYS",
+    "direcci_n": "CALLE 14 CARRERAS 16 Y 17"
+  },
+  {
+    "no_exp": "681",
+    "propiedad_horizontal": "CONJUNTO TORRE ALMERIA APARTAMENTOS",
+    "direcci_n": "Calle 5 Norte Numero 19 – 136"
+  },
+  {
+    "no_exp": "682",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR CORUÑA",
+    "direcci_n": "PUERTO ESPEJO"
+  },
+  {
+    "no_exp": "683",
+    "propiedad_horizontal": "LA PLAZOLETA PROPIEDAD HORIZONTAL",
+    "direcci_n": "Carrera 19 No 4N–02/08/10/20/22/30/38/42/56/58/72"
+  },
+  {
+    "no_exp": "684",
+    "propiedad_horizontal": "SUPERMERCADO Y PASAJE COMERCIAL SAN DIEGO PLAZA",
+    "direcci_n": "Calle 30 Numero 44 - 80"
+  },
+  {
+    "no_exp": "685",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SENDEROS DE ACAYA",
+    "direcci_n": "CARRERA 20 NUMERO 17N - 36"
+  },
+  {
+    "no_exp": "686",
+    "propiedad_horizontal": "EDIFICIO LOS OLIVOS",
+    "direcci_n": "Carrera 14 Numero 11-30"
+  },
+  {
+    "no_exp": "687",
+    "propiedad_horizontal": "EDIFICIO VALERIA",
+    "direcci_n": "CALLE 21 NUMERO 26 - 41"
+  },
+  {
+    "no_exp": "688",
+    "propiedad_horizontal": "EDIFICIO BANCOLOMBIA",
+    "direcci_n": "Calle 9 No. 14-28"
+  },
+  {
+    "no_exp": "689",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL NAPOLES",
+    "direcci_n": "Calle 10N # 18 - 150"
+  },
+  {
+    "no_exp": "690",
+    "propiedad_horizontal": "EDIFICIO EL TRIANGULO",
+    "direcci_n": "CARRERA 27A NO. 22-56"
+  },
+  {
+    "no_exp": "691",
+    "propiedad_horizontal": "EDIFICIO JULIETA",
+    "direcci_n": "Cra. 18 No. 4N-41 y 4N-45"
+  },
+  {
+    "no_exp": "577",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL TERRANOVA",
+    "direcci_n": "Calle 26 No. 18-10"
+  },
+  {
+    "no_exp": "692",
+    "propiedad_horizontal": "EDIFICIO TORRE NISA CENTRO",
+    "direcci_n": "CARRERA 17 No. 22-32"
+  },
+  {
+    "no_exp": "693",
+    "propiedad_horizontal": "CENTRO COMERCIAL SUPER INTER PLAZA",
+    "direcci_n": "Avenida 19 No. 36Norte-44"
+  },
+  {
+    "no_exp": "694",
+    "propiedad_horizontal": "EDIFICIO PUERTA DE AGUA",
+    "direcci_n": "Calle 19 No. 15-86"
+  },
+  {
+    "no_exp": "695",
+    "propiedad_horizontal": "CONDOMINIO BAMBAZU",
+    "direcci_n": "Corregimiento el Caimo sobre la vía de la glorieta"
+  },
+  {
+    "no_exp": "696",
+    "propiedad_horizontal": "EDIFICIO EL PORVENIR",
+    "direcci_n": "CALLE 2a N. No. 18-158 y 18-160"
+  },
+  {
+    "no_exp": "697",
+    "propiedad_horizontal": "CENTRO COMERCIAL ARMENIA",
+    "direcci_n": "CARRERA 6a. No. 3-180"
+  },
+  {
+    "no_exp": "698",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CALLEJA DE SAN JOSE I ETAPA",
+    "direcci_n": "Calle 30 No. 33-03"
+  },
+  {
+    "no_exp": "699",
+    "propiedad_horizontal": "EDIFICIO VIVIENDA MULTIFAMILIAR COMERCIO TORRE 21",
+    "direcci_n": "CALLE 21 NO. 12-43"
+  },
+  {
+    "no_exp": "700",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CISNEROS UNIDAD UNO",
+    "direcci_n": "CARRERA 28 no. 22-62"
+  },
+  {
+    "no_exp": "701",
+    "propiedad_horizontal": "PLAZA NORTE",
+    "direcci_n": "Avenida 19 Urbanización Proviteq"
+  },
+  {
+    "no_exp": "702",
+    "propiedad_horizontal": "EDIFICIO VULCANO",
+    "direcci_n": "Calle 21 No. 11-70"
+  },
+  {
+    "no_exp": "703",
+    "propiedad_horizontal": "CENTRO COMERCIAL YALCANES",
+    "direcci_n": "Carrera 15 Calle 17 No. 16-46"
+  },
+  {
+    "no_exp": "704",
+    "propiedad_horizontal": "EDIFICIO LAS PALMAS DE CERA",
+    "direcci_n": "Carrera 12 No. 12N – 36"
+  },
+  {
+    "no_exp": "705",
+    "propiedad_horizontal": "MIRADOR DE LOS LAGOS UNIDAD INMOBILIARIA CERRADA",
+    "direcci_n": "VEREDA MURILLO"
+  },
+  {
+    "no_exp": "706",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL TORRE VERDE",
+    "direcci_n": "CARRERA 19 No. 31N-91"
+  },
+  {
+    "no_exp": "707",
+    "propiedad_horizontal": "EDIFICIO TORRE DEL PARQUE",
+    "direcci_n": "CARRERA 11A No. 12N-43"
+  },
+  {
+    "no_exp": "708",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL OPALO",
+    "direcci_n": "Calle 5N # 19 - 80"
+  },
+  {
+    "no_exp": "709",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL OCOBOS CASAS PRIMETA ETAPA I",
+    "direcci_n": "Calle 31Norte No. 20-10"
+  },
+  {
+    "no_exp": "710",
+    "propiedad_horizontal": "EDIFICIO PROVENZA",
+    "direcci_n": "Calle 10 Norte No. 15-23"
+  },
+  {
+    "no_exp": "711",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL LOS GERANIOS",
+    "direcci_n": "Calle 50 Norte No. 16-02"
+  },
+  {
+    "no_exp": "712",
+    "propiedad_horizontal": "CONDOMINIO SENIOR'S CLUB ARMENIA PRIMERA ETAPA",
+    "direcci_n": "Vereda el Caimo"
+  },
+  {
+    "no_exp": "713",
+    "propiedad_horizontal": "EDIFICIO TORREYANA",
+    "direcci_n": "Cra. 13 No. 21Norte -52"
+  },
+  {
+    "no_exp": "714",
+    "propiedad_horizontal": "CENTRO COMERCIAL EL PORTAL DE LA 15",
+    "direcci_n": "Carrera 15 N° 12-28"
+  },
+  {
+    "no_exp": "715",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL LOS CEDROS ETAPA I",
+    "direcci_n": "Calle 50N  No. 15-01"
+  },
+  {
+    "no_exp": "716",
+    "propiedad_horizontal": "EDIFICIO LA ALQUERIA",
+    "direcci_n": "Carrera 15 No. 14N-15"
+  },
+  {
+    "no_exp": "717",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL TERRA APARTAMENTOS I ETAPA",
+    "direcci_n": "Carrera 10 No. 11 Norte-05"
+  },
+  {
+    "no_exp": "718",
+    "propiedad_horizontal": "EDIFICIO EL MIRADOR",
+    "direcci_n": "Avenida 19 # 26N - 69"
+  },
+  {
+    "no_exp": "719",
+    "propiedad_horizontal": "MOCAWA PLAZA",
+    "direcci_n": "Avenida Bolívar No. 9N – 40"
+  },
+  {
+    "no_exp": "720",
+    "propiedad_horizontal": "URBANIZACION CAMPESTRE SENDEROS DE BRUSELAS",
+    "direcci_n": "Paraje Granada del Area Rural Municipio de Armenia"
+  },
+  {
+    "no_exp": "721",
+    "propiedad_horizontal": "EDIFICIO CANA",
+    "direcci_n": "Calle 19N # 19 -54"
+  },
+  {
+    "no_exp": "722",
+    "propiedad_horizontal": "EDIFICIO OZONO",
+    "direcci_n": "Calle 22N # 17 - 15"
+  },
+  {
+    "no_exp": "723",
+    "propiedad_horizontal": "EDIFICIO VERACRUZ",
+    "direcci_n": "Carrera 16 con Calle 15 No. 16-14"
+  },
+  {
+    "no_exp": "724",
+    "propiedad_horizontal": "EDIFICIO SIENA",
+    "direcci_n": "Avenida Bolívar No. 32N-100"
+  },
+  {
+    "no_exp": "725",
+    "propiedad_horizontal": "EDIFICIO POPORO",
+    "direcci_n": "carrera 13 con calle 24 esquina"
+  },
+  {
+    "no_exp": "726",
+    "propiedad_horizontal": "EDIFICIO PARQUE RESIDENCIAL TORRE CRISTAL APARTAMENTOS",
+    "direcci_n": "Carrera 11 No. 9aNorte-14"
+  },
+  {
+    "no_exp": "727",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL CIBELES",
+    "direcci_n": "Carrera 40 No. 51 - 41"
+  },
+  {
+    "no_exp": "728",
+    "propiedad_horizontal": "EDIFICIO ALEJANDRIA",
+    "direcci_n": "CRA. 6A. NO. 25NORTE-47"
+  },
+  {
+    "no_exp": "729",
+    "propiedad_horizontal": "EDIFICIO MULTIFAMILIAR LA CORUÑA 2",
+    "direcci_n": "Urbanización Puerto Espejo Manzana 8"
+  },
+  {
+    "no_exp": "730",
+    "propiedad_horizontal": "CENTRO COMERCIAL LA 20 I ETAPA",
+    "direcci_n": "Calle 20 No. 17 – 11 esquina"
+  },
+  {
+    "no_exp": "731",
+    "propiedad_horizontal": "CONDOMINIO LOS PROFESIONALES",
+    "direcci_n": "Calle 6Norte No. 18-08"
+  },
+  {
+    "no_exp": "732",
+    "propiedad_horizontal": "CENTRO COMERCIAL SUPER INTER PLAZA FERIA DE LOS PLATANOS",
+    "direcci_n": "Calle 50 No. 24-03"
+  },
+  {
+    "no_exp": "733",
+    "propiedad_horizontal": "CENTRO MEDICO Y EMPRESARIAL CENTENARIO",
+    "direcci_n": "Carrera 6a- Mp- 2-56"
+  },
+  {
+    "no_exp": "734",
+    "propiedad_horizontal": "EDIFICIO ATIKA APARTAMENTOS",
+    "direcci_n": "CALLE 3 NORTE NO. 18-17"
+  },
+  {
+    "no_exp": "735",
+    "propiedad_horizontal": "EDIFICIO EL REMANSO",
+    "direcci_n": "Calle 15Norte No. 12-27"
+  },
+  {
+    "no_exp": "736",
+    "propiedad_horizontal": "EDIFICIO EL BOSQUE",
+    "direcci_n": "Calle 21 No. 23-14"
+  },
+  {
+    "no_exp": "737",
+    "propiedad_horizontal": "EDIFICIO PALMAS DEL CENTRO",
+    "direcci_n": "Carrera 11 No. 22-33 Barrio Vélez"
+  },
+  {
+    "no_exp": "738",
+    "propiedad_horizontal": "EDIFICIO TORRE YANUBA",
+    "direcci_n": "Calle 20ANo. 15-16"
+  },
+  {
+    "no_exp": "739",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL RIBADEO",
+    "direcci_n": "Barrio Brasilia Puerto Espejo"
+  },
+  {
+    "no_exp": "740",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL DORADO",
+    "direcci_n": "Vereda el Mezon"
+  },
+  {
+    "no_exp": "741",
+    "propiedad_horizontal": "EDIFICIO AQUAZUL",
+    "direcci_n": "Calle 24 Norte N° 19-24"
+  },
+  {
+    "no_exp": "742",
+    "propiedad_horizontal": "EDIFICIO ENTREPARQUES",
+    "direcci_n": "Cra 13 N° 26-13"
+  },
+  {
+    "no_exp": "743",
+    "propiedad_horizontal": "CONJUNTO CERRADO ARREBOLES",
+    "direcci_n": "Cra. 18 N° 49-05"
+  },
+  {
+    "no_exp": "744",
+    "propiedad_horizontal": "URBANIZACION VILLA ESPERANZA BLOQUE 1",
+    "direcci_n": "Calle 61 # 6 - 30"
+  },
+  {
+    "no_exp": "745",
+    "propiedad_horizontal": "URBANIZACION VILLA ESPERANZA BLOQUE 2",
+    "direcci_n": "Calle 61 # 6 - 30"
+  },
+  {
+    "no_exp": "746",
+    "propiedad_horizontal": "URBANIZACION VILLA ESPERANZA BLOQUE 3",
+    "direcci_n": "Calle 61 # 6 - 30"
+  },
+  {
+    "no_exp": "747",
+    "propiedad_horizontal": "URBANIZACION VILLA ESPERANZA BLOQUE 4",
+    "direcci_n": "Calle 61 # 6 - 30"
+  },
+  {
+    "no_exp": "748",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL SENDEROS DEL BOSQUE",
+    "direcci_n": "Calle 25 N° 22-53  Calle 26 N°22-08 Calle 26 N° 22-16"
+  },
+  {
+    "no_exp": "749",
+    "propiedad_horizontal": "CONJUNTO CERRADO RESERVA DE LA SABANA I-II-III ETAPA PH",
+    "direcci_n": "CALLE 24N N. 5-07"
+  },
+  {
+    "no_exp": "750",
+    "propiedad_horizontal": "EDIFICIO RESERVA DE COCORA",
+    "direcci_n": "calle 10 A norte Nro 19-34"
+  },
+  {
+    "no_exp": "751",
+    "propiedad_horizontal": "EDIFICIO CAROLINA",
+    "direcci_n": "AV. BOLIVAR 18 NORTE -49"
+  },
+  {
+    "no_exp": "752",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CALLEJA DE SAN JOSE II ET",
+    "direcci_n": "CALLE 30 N. 33-53"
+  },
+  {
+    "no_exp": "753",
+    "propiedad_horizontal": "EDIFICIO LOCALES PROCOCINAS",
+    "direcci_n": "Carrera 18 No. 11 - 38"
+  },
+  {
+    "no_exp": "754",
+    "propiedad_horizontal": "EDIFICIO MEJIA",
+    "direcci_n": "carrera 18 entre calles 11 y  12"
+  },
+  {
+    "no_exp": "755",
+    "propiedad_horizontal": "CONJUNTO PARQUEADEROS COINCA",
+    "direcci_n": "Cra 12 calle 21N # 11-55"
+  },
+  {
+    "no_exp": "756",
+    "propiedad_horizontal": "EDIFICIO LOS CIRUELOS",
+    "direcci_n": "Calle 3N # 12 - 27"
+  },
+  {
+    "no_exp": "757",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DEL QUINDIO",
+    "direcci_n": "PARAJE SANTA SOFIA SECTOR DE LA PAVONA"
+  },
+  {
+    "no_exp": "758",
+    "propiedad_horizontal": "CENTRO  COMERCIAL SANANDRESITO CENTENARIO ARMENIA",
+    "direcci_n": "CARRERA 18 NO. 59-67"
+  },
+  {
+    "no_exp": "759",
+    "propiedad_horizontal": "EDIFICIO CASTELLANA 9 A NORTE 58 APARTAMENTOS",
+    "direcci_n": "Carrera 13 # 9AN - 58"
+  },
+  {
+    "no_exp": "760",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL PORTAL DE ALAMEDA",
+    "direcci_n": "Carrera 19N Nº. 36N-40"
+  },
+  {
+    "no_exp": "761",
+    "propiedad_horizontal": "CONJUNTO CERRADO MONTESANTO",
+    "direcci_n": "Carrera 24 No. 5 - 20"
+  },
+  {
+    "no_exp": "762",
+    "propiedad_horizontal": "CASAS DE CAMPO  LAGOS DE IRAKA",
+    "direcci_n": "Vereda Murillo"
+  },
+  {
+    "no_exp": "763",
+    "propiedad_horizontal": "EDIFICIO VICTORIA APARTAESTUDIO",
+    "direcci_n": "Calle 11 # 13 - 19"
+  },
+  {
+    "no_exp": "764",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL INTER PLAZA",
+    "direcci_n": "CALLE 37N Nº. 20-85"
+  },
+  {
+    "no_exp": "765",
+    "propiedad_horizontal": "CONJUNTO CERRADO EDIFICIO TORREBELA APARTAMENTOS",
+    "direcci_n": "Calle 5N # 20 - 25"
+  },
+  {
+    "no_exp": "766",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL INTER PLAZA SUR BLOQUE A",
+    "direcci_n": "Urbanización Puerto Espejo Manzana 9"
+  },
+  {
+    "no_exp": "766A",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL INTER PLAZA SUR BLOQUE B",
+    "direcci_n": "Urbanización Puerto Espejo Manzana 10"
+  },
+  {
+    "no_exp": "767",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PORTAL DE LAS AMERICAS",
+    "direcci_n": "Calle 21 # 35 - 21"
+  },
+  {
+    "no_exp": "768",
+    "propiedad_horizontal": "EDIFICIO LOS ALPES",
+    "direcci_n": "Avenida Bolívar 35N - 18"
+  },
+  {
+    "no_exp": "769",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PARQUES DE BOLIVAR ARMENIA Nº. 3",
+    "direcci_n": "CRA 44 # 26-80"
+  },
+  {
+    "no_exp": "770",
+    "propiedad_horizontal": "EDIFICIO HABITAT APARTAMENTOS ETAPA I",
+    "direcci_n": "CLL 2 NO. 14-131 Y 14-103"
+  },
+  {
+    "no_exp": "771",
+    "propiedad_horizontal": "EDIFICIO MEDISALUD",
+    "direcci_n": "CRA 12 Nº 0N-20"
+  },
+  {
+    "no_exp": "772",
+    "propiedad_horizontal": "EDIFICIO PORTAL DE COCORA",
+    "direcci_n": "CRA 14 N. 50N-50"
+  },
+  {
+    "no_exp": "773",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PARQUES DE BOLIVAR ARMENIA No 1",
+    "direcci_n": "Calle 25 No. 45-71"
+  },
+  {
+    "no_exp": "774",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PARQUES DE BOLIVAR ARMENIA No.2",
+    "direcci_n": "Calle 26 No. 44-91"
+  },
+  {
+    "no_exp": "775",
+    "propiedad_horizontal": "CONJUNTO CERRADO HEBRON APARTAMENTOS",
+    "direcci_n": "Calle 19 Norte No. 19-23"
+  },
+  {
+    "no_exp": "776",
+    "propiedad_horizontal": "EDIFICIO TORRE 100",
+    "direcci_n": "Calle 4N No. 13-77"
+  },
+  {
+    "no_exp": "777",
+    "propiedad_horizontal": "CONJUNTO PARQUE RESIDENCIAL PAPIRO",
+    "direcci_n": "Calle 25N Nº. 13-41"
+  },
+  {
+    "no_exp": "778",
+    "propiedad_horizontal": "CONJUNTO CERRADO SAN JUAN DE LA LOMA ETAPA I y ETAPA II",
+    "direcci_n": "Calle 71 Nº. 18-141"
+  },
+  {
+    "no_exp": "779",
+    "propiedad_horizontal": "CONJUNTO CERRADO CABO MARZO",
+    "direcci_n": "CRA 19 Nº. 22N-124"
+  },
+  {
+    "no_exp": "780",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL AIRES DEL BOSQUE",
+    "direcci_n": "CALLE 45 Nº. 61-20"
+  },
+  {
+    "no_exp": "781",
+    "propiedad_horizontal": "CONDOMINIO CASA DE CAMPO",
+    "direcci_n": "CALLE 23AN Nº 19-47"
+  },
+  {
+    "no_exp": "782",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL EL CIELO ET 5",
+    "direcci_n": "LOTE LA BRASILIA 2 VEREDA PUERTO ESPEJO"
+  },
+  {
+    "no_exp": "783",
+    "propiedad_horizontal": "EDIFICIO TORRE EPIC",
+    "direcci_n": "CRA 12 CALLE 11N Y 12N CRA 14 Nº 11N-95"
+  },
+  {
+    "no_exp": "784",
+    "propiedad_horizontal": "EDIFICIO SAN JORGE",
+    "direcci_n": "CALLE 25N Nº13-41"
+  },
+  {
+    "no_exp": "785",
+    "propiedad_horizontal": "EDIFICIO ALHAMBRA",
+    "direcci_n": "CALLE 16 Nº 13-34"
+  },
+  {
+    "no_exp": "786",
+    "propiedad_horizontal": "EDIFICIO COLON",
+    "direcci_n": "Calle 17 No. 23 - 81"
+  },
+  {
+    "no_exp": "787",
+    "propiedad_horizontal": "CIUDADELA CHILACOA ETAPA 1",
+    "direcci_n": "Carrera 50 con Calle 53"
+  },
+  {
+    "no_exp": "788",
+    "propiedad_horizontal": "EDIFICIO CANAIMA",
+    "direcci_n": "Carrera 21 entre Calles 7 y 8"
+  },
+  {
+    "no_exp": "789",
+    "propiedad_horizontal": "EDIFICIO ALTOS DEL PRADO",
+    "direcci_n": "Calle 18 No. 22 - 25"
+  },
+  {
+    "no_exp": "790",
+    "propiedad_horizontal": "EDIFICIO BRISAS DE LAURELES PARQUE RESIDENCIAL",
+    "direcci_n": "CRA 18 N. 22N-06"
+  },
+  {
+    "no_exp": "791",
+    "propiedad_horizontal": "Edificio 360",
+    "direcci_n": "Carrera 6 No. 3 - 100"
+  },
+  {
+    "no_exp": "792",
+    "propiedad_horizontal": "CIUDADELA CHILACOA ETAPA 1A",
+    "direcci_n": "Carrera 50 con Calle 53"
+  },
+  {
+    "no_exp": "793",
+    "propiedad_horizontal": "CIUDADELA CHILACOA ETAPA 1B",
+    "direcci_n": "Carrera 50 con Calle 53"
+  },
+  {
+    "no_exp": "794",
+    "propiedad_horizontal": "EDIFICIO LUZ DE MARIA",
+    "direcci_n": "CRA 15 CALLES 28 Y 29"
+  },
+  {
+    "no_exp": "795",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DE LOS OCOBOS",
+    "direcci_n": "Calle 31 No. 20 - 15"
+  },
+  {
+    "no_exp": "796",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL NITEROI",
+    "direcci_n": "CRA 15A N. 23N-50"
+  },
+  {
+    "no_exp": "797",
+    "propiedad_horizontal": "CIUDADELA CHILACOA 2A",
+    "direcci_n": "Carrera 50 con Calle 53"
+  },
+  {
+    "no_exp": "798",
+    "propiedad_horizontal": "CIUDADELA CHILACOA 2B",
+    "direcci_n": "Carrera 50 con Calle 53"
+  },
+  {
+    "no_exp": "799",
+    "propiedad_horizontal": "CIUDADELA CHILACOA ETAPA 2",
+    "direcci_n": "Carrera 50 con Calle 53"
+  },
+  {
+    "no_exp": "800",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL CAMINOS DEL BOSQUE",
+    "direcci_n": "CALLE 45 N°.42-10"
+  },
+  {
+    "no_exp": "801",
+    "propiedad_horizontal": "URBANIZACIÓN MANANTIALES III ETAPA",
+    "direcci_n": "Vereda Puerto Espejo Vía pueblo Tapao Fca Portugal"
+  },
+  {
+    "no_exp": "802",
+    "propiedad_horizontal": "EDIFICIO VALENTINA",
+    "direcci_n": "Cara. 8a. No. 17-03"
+  },
+  {
+    "no_exp": "803",
+    "propiedad_horizontal": "EDIFICIO SALAZAR",
+    "direcci_n": "Carrera 24 Nos. 26-24 y 22-22"
+  },
+  {
+    "no_exp": "804",
+    "propiedad_horizontal": "PARQUE RESDIDENCIAL ORO NEGRO AMANECER",
+    "direcci_n": "Carrera 13 No. 46N-78"
+  },
+  {
+    "no_exp": "805",
+    "propiedad_horizontal": "CONDOMINIO  CAMPENTRE LA RESERVA ETAPA 1 Y 2 CASAS",
+    "direcci_n": "Carrera 5a. No. 10Norte-25"
+  },
+  {
+    "no_exp": "806",
+    "propiedad_horizontal": "CONJUNTO CERRADO RIO CLARO ETAPA I",
+    "direcci_n": "Carrera 18 No. 73-87"
+  },
+  {
+    "no_exp": "807",
+    "propiedad_horizontal": "EDIFICIO ALEJANDRIA PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 6a. No. 15-37"
+  },
+  {
+    "no_exp": "808",
+    "propiedad_horizontal": "EDIFICIO GRANADA REAL PARQUE RESIDENCIAL P.H.",
+    "direcci_n": "Calle 10 A No.23-81"
+  },
+  {
+    "no_exp": "809",
+    "propiedad_horizontal": "EDIFICIO YAKARTA",
+    "direcci_n": "Calle 10Norte No. 18-39"
+  },
+  {
+    "no_exp": "810",
+    "propiedad_horizontal": "CONJUNTO COMERCIAL LAS PALMAS",
+    "direcci_n": "Vda Murillo Lote La Union de las Palmas N° 2"
+  },
+  {
+    "no_exp": "811",
+    "propiedad_horizontal": "CONJUNTO CERRADO BRISAS DEL BOSQUE",
+    "direcci_n": "CALLE 47 Av. De occidente n° 39-71"
+  },
+  {
+    "no_exp": "812",
+    "propiedad_horizontal": "EDIFICIO PANORAMIkA",
+    "direcci_n": "CRA 18 N°21N-24"
+  },
+  {
+    "no_exp": "813",
+    "propiedad_horizontal": "TESALONICA APARTAMENTOS ETAPA I -PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 23 No. 37-25"
+  },
+  {
+    "no_exp": "814",
+    "propiedad_horizontal": "CONDOMINIO CABAÑAS CLUB DE TIRO-PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 50 No. 13-80"
+  },
+  {
+    "no_exp": "815",
+    "propiedad_horizontal": "CONJUNTO CAMPESTRE PORTUGAL",
+    "direcci_n": "Vda Pto Espejo Vía pueblo Tapao Fca PortugalMARGARITA MARÍA URIBE N."
+  },
+  {
+    "no_exp": "816",
+    "propiedad_horizontal": "CONJUNTO CERRADO ANANDA",
+    "direcci_n": "Km 2 Vía el Caimo Club Campestre"
+  },
+  {
+    "no_exp": "817",
+    "propiedad_horizontal": "PROYECTO MULTIFAMILIAR PAPIRO 16N",
+    "direcci_n": "Calle 16Norte No. 14-57"
+  },
+  {
+    "no_exp": "818",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL ATLANTIS",
+    "direcci_n": "Avenida 19 Carrera 19 con Calle 19N esquina"
+  },
+  {
+    "no_exp": "819",
+    "propiedad_horizontal": "EDIFICIO MADEIROS",
+    "direcci_n": "CARRERA 13 N° 21N 43-45"
+  },
+  {
+    "no_exp": "820",
+    "propiedad_horizontal": "MALL PARAISO P.H.",
+    "direcci_n": "Vereda Murillo parte rural"
+  },
+  {
+    "no_exp": "821",
+    "propiedad_horizontal": "EDIFICIO NORMADA",
+    "direcci_n": "Carrera 13 No. 11A-10"
+  },
+  {
+    "no_exp": "822",
+    "propiedad_horizontal": "EDIFICIO NIETO CARDENAS",
+    "direcci_n": "CRA 10 N°. 18N-39A"
+  },
+  {
+    "no_exp": "823",
+    "propiedad_horizontal": "CONJUNTO CERRADO GETSEMANI",
+    "direcci_n": "CARRERA 19 N° 26N-41"
+  },
+  {
+    "no_exp": "824",
+    "propiedad_horizontal": "CONJUNTO PORTOFINO CASAS DE CAMPO PH",
+    "direcci_n": "Km. 2.2  Vereda el Caimo-club campestre"
+  },
+  {
+    "no_exp": "825",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL ORO NEGRO ATARDECER",
+    "direcci_n": "Calle 45N #13 - 90"
+  },
+  {
+    "no_exp": "826",
+    "propiedad_horizontal": "EDIFICIO KALUA APARTAMENTOS",
+    "direcci_n": "Avenida Centenario # 31 N - 53"
+  },
+  {
+    "no_exp": "33A",
+    "propiedad_horizontal": "CONDOMINIO BOLIVAR",
+    "direcci_n": "CARRERA 13 No. 22 – 19"
+  },
+  {
+    "no_exp": "827",
+    "propiedad_horizontal": "CONDOMINIO CAMPESTRE LA RESERVA APARTAMENTOS",
+    "direcci_n": "carrera 5 \"10N- 25"
+  },
+  {
+    "no_exp": "828",
+    "propiedad_horizontal": "EDIFICIO TORRE G22",
+    "direcci_n": "Calle 11 No. 21a-51 Barrio Granada"
+  },
+  {
+    "no_exp": "829",
+    "propiedad_horizontal": "URBANIZACION CONSOTA 1",
+    "direcci_n": "CIUDADELA PUERTO ESPEJO- CRA 46 No. 52-50"
+  },
+  {
+    "no_exp": "830",
+    "propiedad_horizontal": "URBANIZACION CONSOTA 2",
+    "direcci_n": "CIUDADELA PUERTO ESPEJO- CRA 46 No. 52-50"
+  },
+  {
+    "no_exp": "831",
+    "propiedad_horizontal": "URBANIZACION CERRADA EL PAISAJE",
+    "direcci_n": "CALLE 23 N N° 22-50"
+  },
+  {
+    "no_exp": "832",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL EL CAMINO DE COCORA ETAPA I y ETAPA II",
+    "direcci_n": "VEREDA  PUERTO ESPEJO"
+  },
+  {
+    "no_exp": "833",
+    "propiedad_horizontal": "EDIFICIO LAURELES EPIC",
+    "direcci_n": "Carrera 15 No. 21N-45"
+  },
+  {
+    "no_exp": "834",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL BELMONTE PLAZA",
+    "direcci_n": "Cra. 6a. Avenida Centenario No. 1-45"
+  },
+  {
+    "no_exp": "835",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL BRISAS DEL CAMPO",
+    "direcci_n": "CALLE 47 Av. De occidente n° 39-71"
+  },
+  {
+    "no_exp": "836",
+    "propiedad_horizontal": "ALTOS DE LOS OCOBOS -CONJUNTO RESIDENCIAL",
+    "direcci_n": "Calle 31nORTE No. 20-50"
+  },
+  {
+    "no_exp": "837",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL Y COMERCIAL SERRANIAS DEL PARQUE APTOS",
+    "direcci_n": "Carrera 6a. 8Norte-40"
+  },
+  {
+    "no_exp": "838",
+    "propiedad_horizontal": "TORRE MAKANA CONJUNTO RESIDENCIAL-PROPIEDAD HORIZ.",
+    "direcci_n": "Calle 19N No.15-53"
+  },
+  {
+    "no_exp": "839",
+    "propiedad_horizontal": "CONJUNTO DE VIVIENDA PARQUE DE LOS SUEÑOS",
+    "direcci_n": "Calle 14 No. 30-80"
+  },
+  {
+    "no_exp": "840",
+    "propiedad_horizontal": "CONJUNTO HACIENDA EL CABRERO CASAS DE CAMPO",
+    "direcci_n": "Vereda Murillo"
+  },
+  {
+    "no_exp": "841",
+    "propiedad_horizontal": "SANTA SOFIA CLUB RESIDENCIAL VIS",
+    "direcci_n": "Cara. 27 No. 44-25"
+  },
+  {
+    "no_exp": "842",
+    "propiedad_horizontal": "CONJUNTO CERRADO ALTOS DE AGUA BONITA",
+    "direcci_n": "Calle 29 No. 32-10 ETAPA I"
+  },
+  {
+    "no_exp": "843",
+    "propiedad_horizontal": "EDIFICIO VERTICE 2 NORTE",
+    "direcci_n": "carrera 15 No.2N-10 / No.2N-18 calles 2 y 3 Norte"
+  },
+  {
+    "no_exp": "844",
+    "propiedad_horizontal": "EDIFICIO BAHIA PLAZA",
+    "direcci_n": "Calle 13 No. 14-41"
+  },
+  {
+    "no_exp": "845",
+    "propiedad_horizontal": "EDIFICIO URIBE",
+    "direcci_n": "Carrera 11 Calle 29"
+  },
+  {
+    "no_exp": "846",
+    "propiedad_horizontal": "CONJUNTO CERRADO CIUDADELA MONTECARLO GIRASOLES",
+    "direcci_n": "Carrera 17 No. 59-75"
+  },
+  {
+    "no_exp": "847",
+    "propiedad_horizontal": "EDIFICIO CALLE SEVILLA 2",
+    "direcci_n": "Carrera 13 calle 26 No. 13-19,13-17,13-13 y 26-06"
+  },
+  {
+    "no_exp": "848",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL CAMINO DEL PUERTO ETAPA I Y II",
+    "direcci_n": "Carrera 44 N° 50-86 Via del Café"
+  },
+  {
+    "no_exp": "849",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL HOREB APTOS ETAPAS 1 Y 2",
+    "direcci_n": "Avenida Centenario Calle 13Norte"
+  },
+  {
+    "no_exp": "850",
+    "propiedad_horizontal": "CONJUNTO PARQUE RESIDENCIAL DEL CAFE ETAPA I",
+    "direcci_n": "Carrera 20 No. 3N-00"
+  },
+  {
+    "no_exp": "851",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL ORO NEGRO OCASO",
+    "direcci_n": "Calle 45Norte No. 13-90"
+  },
+  {
+    "no_exp": "852",
+    "propiedad_horizontal": "HABITAT RESIDENCIAL ETAPA 2",
+    "direcci_n": "Calle 2A 14-68"
+  },
+  {
+    "no_exp": "853",
+    "propiedad_horizontal": "EDIFICIO DAHIANA-PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 20 No. 23-58"
+  },
+  {
+    "no_exp": "854",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL NATURA",
+    "direcci_n": "CARRERA 4 Nº. 47N-50"
+  },
+  {
+    "no_exp": "855",
+    "propiedad_horizontal": "EDIFICIO SOHO APARTAMENTOS LOFT – PH.",
+    "direcci_n": "CALLE 13N Nº. 11-13"
+  },
+  {
+    "no_exp": "856",
+    "propiedad_horizontal": "EDIFICIO DE LOCALES EL PARAISO 5 PROPIEDAD HORIZONTAL",
+    "direcci_n": "KM 5 VIA AL EDEN"
+  },
+  {
+    "no_exp": "857",
+    "propiedad_horizontal": "PARCELACION LA ESTRELLA PH",
+    "direcci_n": "VEREDA MARMATO VIA AL CAIMO"
+  },
+  {
+    "no_exp": "858",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL PARAISO CASA DE CAMPO PH.",
+    "direcci_n": "CORREDOR SUBURBANO VEREDA MURILLO"
+  },
+  {
+    "no_exp": "859",
+    "propiedad_horizontal": "EQUILIBRIO APARTAMENTOS",
+    "direcci_n": "CARRERA 48 Nº 30-35"
+  },
+  {
+    "no_exp": "860",
+    "propiedad_horizontal": "EDIFICIO 1A CLUB HOUSE",
+    "direcci_n": "CALLE 1 Nº 12-30"
+  },
+  {
+    "no_exp": "861",
+    "propiedad_horizontal": "EDIFICIO VILLATINA",
+    "direcci_n": "CALLE 22 Nº 30-58"
+  },
+  {
+    "no_exp": "862",
+    "propiedad_horizontal": "BAYON APARTAMENTOS",
+    "direcci_n": "CALLE 5 NORTE Nº 19-18"
+  },
+  {
+    "no_exp": "863",
+    "propiedad_horizontal": "EDIFICIO EL POMAR",
+    "direcci_n": "CARRERA 19 CALL 31 ESQUINA Nº 31-00"
+  },
+  {
+    "no_exp": "864",
+    "propiedad_horizontal": "EDIFICIO BRITANNIA",
+    "direcci_n": "CARRERA 11 CALLE 9-73"
+  },
+  {
+    "no_exp": "865",
+    "propiedad_horizontal": "EDIFICIO BACARA",
+    "direcci_n": "CARRERA 14 Nº 38N-110 Y 38N-112"
+  },
+  {
+    "no_exp": "866",
+    "propiedad_horizontal": "CONDOMINIO RESIDENCIAL LA PRIMAVERA PROPIEDAD HORIZONTAL",
+    "direcci_n": "CARRERA 14 Nº 54 NORTE-10"
+  },
+  {
+    "no_exp": "867",
+    "propiedad_horizontal": "TORRES DE ORENSE CONJUNTO RESIDENCIA ETAPA 1 Y ETAPA 4 PROPIEDAD HORIZONTAL",
+    "direcci_n": "ALLE 50 Nº 51-80"
+  },
+  {
+    "no_exp": "868",
+    "propiedad_horizontal": "CONJUNTO CERRADO CASTILLA NUEVA",
+    "direcci_n": "CARRERA 9 Nº 57-10"
+  },
+  {
+    "no_exp": "869",
+    "propiedad_horizontal": "CONDOMINIO VILLA LIDA",
+    "direcci_n": "CARRERA 13 Nº 23-48"
+  },
+  {
+    "no_exp": "870",
+    "propiedad_horizontal": "EDIFICIO BELALCAZAR",
+    "direcci_n": "CRA 13 Nº. 2N-40"
+  },
+  {
+    "no_exp": "871",
+    "propiedad_horizontal": "VERDU PARQUE RESIDENCIAL – PROPIEDAD HORIZONTAL",
+    "direcci_n": "CALLE 50 Nº 53-70"
+  },
+  {
+    "no_exp": "872",
+    "propiedad_horizontal": "CONDOMINIO LINDARAJA VILLAS & CLUB",
+    "direcci_n": "CORREGIMIENTO EL CAIMO  AREA RURAL"
+  },
+  {
+    "no_exp": "873",
+    "propiedad_horizontal": "EDIFICO BIFAMILIAR VILLA",
+    "direcci_n": "CALLE 10N N°: 17-44"
+  },
+  {
+    "no_exp": "874",
+    "propiedad_horizontal": "EDIFICIO ANGULAR APARTAESTUDIOS - PROPIEDAD HORIZONTAL",
+    "direcci_n": "DIAGONAL 19N N°. 15-81"
+  },
+  {
+    "no_exp": "875",
+    "propiedad_horizontal": "CONJUNTO CERRADO RIO VERDE",
+    "direcci_n": "CARRERA 18A N°. 72-15 PARQUE RESIDENCIAL COLOMBIA URBANIZACION RIO VERDE"
+  },
+  {
+    "no_exp": "876",
+    "propiedad_horizontal": "VILLA AGROPRODUCTIVA LA DULCE ERA",
+    "direcci_n": "VEREDA PUERTO ESPEJO  VILLA AGROPRODUCTIVA LA DULCERA"
+  },
+  {
+    "no_exp": "877",
+    "propiedad_horizontal": "CONJUNTO LA CASONA PROPIEDAD HORIZONTAL",
+    "direcci_n": "VEREDA LA TITINA - EL TIZON"
+  },
+  {
+    "no_exp": "878",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL SANTA BARBARA ETAPA 1.",
+    "direcci_n": "CARRERA 6 N°: 38N-07"
+  },
+  {
+    "no_exp": "879",
+    "propiedad_horizontal": "EDIFICIO MADRIGAL PROPIEDAD HORIZONTAL",
+    "direcci_n": "CALLE 10 N°. 23-44"
+  },
+  {
+    "no_exp": "880",
+    "propiedad_horizontal": "CONJUNTO CERRADO VILLAS DE LUSITANIA",
+    "direcci_n": "CARRERA 19 N°. 71-02"
+  },
+  {
+    "no_exp": "881",
+    "propiedad_horizontal": "CONJUNTO OVIEDO PARQUE RESIDENCIAL",
+    "direcci_n": "CALLE 50 N°: 50-01"
+  },
+  {
+    "no_exp": "882",
+    "propiedad_horizontal": "EDIFICIO LOCALES COMERCIALES",
+    "direcci_n": "CALLE 17 N: 20-18 ENTRE CARRERA 20 Y 21"
+  },
+  {
+    "no_exp": "883",
+    "propiedad_horizontal": "EDIFICIO  ANTONIO GIRALDO",
+    "direcci_n": "CALLE 15 N °. 17-22"
+  },
+  {
+    "no_exp": "884",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL AMBAR RESERVA PROPIEDAD HORIZONTAL",
+    "direcci_n": "CARRERA 19 N°. 21N-01"
+  },
+  {
+    "no_exp": "885",
+    "propiedad_horizontal": "RANCHO EDEN HOTEL - PROPIEDAD HORIZONTAL",
+    "direcci_n": "VEREDA MURILLO"
+  },
+  {
+    "no_exp": "886",
+    "propiedad_horizontal": "CONDOMINIO LOS CORALES APARTASUITES PROPIEDAD HORIZONTAL",
+    "direcci_n": "VEREDA MURILLO - 1KM VIA AL CAIMO GLORIETA CAMPESTRE"
+  },
+  {
+    "no_exp": "887",
+    "propiedad_horizontal": "URBANIZACION VILLA CECILIA",
+    "direcci_n": "CALLE 30 N°. 60-15"
+  },
+  {
+    "no_exp": "888",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL SAN JOSE -",
+    "direcci_n": "CALLE 28 N°: 26-40"
+  },
+  {
+    "no_exp": "889",
+    "propiedad_horizontal": "HORIZONTE VERDE CONJUNTO RESIDENCIAL PROPIEDAD HORIZONTAL",
+    "direcci_n": "CALLE 27N N°. 5-02"
+  },
+  {
+    "no_exp": "890",
+    "propiedad_horizontal": "LA URBANIZACION VILLA INES",
+    "direcci_n": "CORREGIMIENTO EL CAIMO"
+  },
+  {
+    "no_exp": "891",
+    "propiedad_horizontal": "ZONATA APARTAMENTOS TORRE 4 ETAPA CONSTRUCTIVA 1",
+    "direcci_n": "CARRERA 5A N. 26N-02"
+  },
+  {
+    "no_exp": "892",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MIRADOR DEL LIMONAR",
+    "direcci_n": "CALLE 6 N°. 21-01"
+  },
+  {
+    "no_exp": "893",
+    "propiedad_horizontal": "EDIFICIO EL JORDAN",
+    "direcci_n": "CARRERA 15 N°. 10AN-11"
+  },
+  {
+    "no_exp": "894",
+    "propiedad_horizontal": "MATTIZ CONDOMINIO - PROPIEDAD HORIZONTAL",
+    "direcci_n": "CARRERA 14 No. 50N - 44"
+  },
+  {
+    "no_exp": "895",
+    "propiedad_horizontal": "SENDEROS DE LOS OCOBOS",
+    "direcci_n": "Calle 31N # 20 - 80"
+  },
+  {
+    "no_exp": "896",
+    "propiedad_horizontal": "EDIFICIO TORRE ALAMEDA",
+    "direcci_n": "Carrera 19 No. 36N - 38"
+  },
+  {
+    "no_exp": "897",
+    "propiedad_horizontal": "RESERVA AGUA BONITA",
+    "direcci_n": "Calle 29 No. 32 - 65"
+  },
+  {
+    "no_exp": "898",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIALVIAVENTO PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 57  No.24 - 40"
+  },
+  {
+    "no_exp": "899",
+    "propiedad_horizontal": "EDIFICIO PRIVE PROPIEDAD HORIZONTAL",
+    "direcci_n": "carrera10 N° 11 norte -40"
+  },
+  {
+    "no_exp": "900",
+    "propiedad_horizontal": "TORRE AVENIDA BOLIVAR",
+    "direcci_n": "CARRERA 14-1-100"
+  },
+  {
+    "no_exp": "901",
+    "propiedad_horizontal": "EDIFICIO COLOR PROPIEDAD HORIZONTAL",
+    "direcci_n": "CALLE 24  N° 11-14"
+  },
+  {
+    "no_exp": "902",
+    "propiedad_horizontal": "PARQUE RESIDENCIAL SAN LUIS REY",
+    "direcci_n": "Calle 44 Norte # 13 - 01"
+  },
+  {
+    "no_exp": "903",
+    "propiedad_horizontal": "EDIFICIO MARSELLA",
+    "direcci_n": "CALLE 23 No. 12-23"
+  },
+  {
+    "no_exp": "904",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL ENTRE LOMAS",
+    "direcci_n": "CARRERA 9 51-255 PORTERIA 1 Y 245 PORTERIA 2"
+  },
+  {
+    "no_exp": "905",
+    "propiedad_horizontal": "EDIFICIO QBIKA APATAMENTOS",
+    "direcci_n": "CARRERA 11 A No. 10 Norte 48"
+  },
+  {
+    "no_exp": "906",
+    "propiedad_horizontal": "ARBOLEDA REAL",
+    "direcci_n": "CARRERA 22 No. 8-36"
+  },
+  {
+    "no_exp": "907",
+    "propiedad_horizontal": "Motel Casa Blanca Propiedad Horizontal",
+    "direcci_n": "Vereda Mesones (vía Montenegro)"
+  },
+  {
+    "no_exp": "908",
+    "propiedad_horizontal": "Montecarlo Plaza Sky Club",
+    "direcci_n": "Avenida Montecarlo No 18 - 45"
+  },
+  {
+    "no_exp": "909",
+    "propiedad_horizontal": "Edificio 14 Norte",
+    "direcci_n": "Carrera 14 No. 14Norte - 20"
+  },
+  {
+    "no_exp": "910",
+    "propiedad_horizontal": "Conjunto Residencial La Nueva Cecilia",
+    "direcci_n": "Calle 3 Norte # 17 - 37"
+  },
+  {
+    "no_exp": "911",
+    "propiedad_horizontal": "Conjunto Residencial Hacienda El Cortijo Imperial",
+    "direcci_n": "Carrera 14 # 49 Norte - 09"
+  },
+  {
+    "no_exp": "912",
+    "propiedad_horizontal": "Multifamiliar Ghuancha - Propiedad Horizontal",
+    "direcci_n": "Carrera 20 No. 48 - 86"
+  },
+  {
+    "no_exp": "913",
+    "propiedad_horizontal": "Condominio Campestre Vilas de Campo Madero",
+    "direcci_n": "VEREDA MURILLO"
+  },
+  {
+    "no_exp": "914",
+    "propiedad_horizontal": "CONJUNTO CERRADO CAMINO DEL OASIS",
+    "direcci_n": "CALLE 16 # 25-32"
+  },
+  {
+    "no_exp": "915",
+    "propiedad_horizontal": "TORRE VALPARAISO",
+    "direcci_n": "6N # 16A-44"
+  },
+  {
+    "no_exp": "916",
+    "propiedad_horizontal": "EDIFICIO COPENHAGUEN",
+    "direcci_n": "CARRERA 13 No. 21 NORTE 22"
+  },
+  {
+    "no_exp": "917",
+    "propiedad_horizontal": "EDIFICIO NELMAN",
+    "direcci_n": "CARRERA 13 CALLE 16 No. 15-49 - 15-51 - 15-53 Y No. 12-42 CALLE 16"
+  },
+  {
+    "no_exp": "918",
+    "propiedad_horizontal": "ICONO CENTRO EMPRESARIAL",
+    "direcci_n": "CARRERA 14 No. 35 NORTE 18"
+  },
+  {
+    "no_exp": "919",
+    "propiedad_horizontal": "CONDOMIO CAMPESTRE VERDU II",
+    "direcci_n": "CALLE 49 No. 56-65"
+  },
+  {
+    "no_exp": "920",
+    "propiedad_horizontal": "EDIFICIO SAPZURRO",
+    "direcci_n": "CALLE 50 CRA 51 -41"
+  },
+  {
+    "no_exp": "921",
+    "propiedad_horizontal": "EDIFICIO EL SAMAN",
+    "direcci_n": "CALLE 23 No. 31-24"
+  },
+  {
+    "no_exp": "922",
+    "propiedad_horizontal": "EDIFICIO SAN JOSE",
+    "direcci_n": "CARRERA 26 CALLE 21 ESQUINA"
+  },
+  {
+    "no_exp": "923",
+    "propiedad_horizontal": "EDIFICIO TORRE RESIDENCIAL JADE",
+    "direcci_n": "CALLE 5N No. 17-37"
+  },
+  {
+    "no_exp": "924",
+    "propiedad_horizontal": "TORRE BELLAGIO APARTAMENTOS",
+    "direcci_n": "CALLE 12N No. 10-32 BARRO LA CASTELLANA"
+  },
+  {
+    "no_exp": "925",
+    "propiedad_horizontal": "COMPLEJO EMPRESARIAL LUXOR",
+    "direcci_n": "Cra 14 No. 1-73"
+  },
+  {
+    "no_exp": "926",
+    "propiedad_horizontal": "EDIFICIO MARIN GALLEGO HERMANOS",
+    "direcci_n": "CALLE 21 No. 17-43 A 17-59, CRA 18 No. 21-03 AL 21-07"
+  },
+  {
+    "no_exp": "927",
+    "propiedad_horizontal": "EDIFICIO PORTAL DE LOS ALAMOS",
+    "direcci_n": "CALLE 12 No. 23A-45"
+  },
+  {
+    "no_exp": "928",
+    "propiedad_horizontal": "EDIFICIO SANTA MARGARITA",
+    "direcci_n": "CRA 14 No. 8-27/29"
+  },
+  {
+    "no_exp": "929",
+    "propiedad_horizontal": "EDIFICIO BALCONES DEL PARQUE – PROPIEDAD HORIZONTAL",
+    "direcci_n": "Carrera 14 # 27 - 20"
+  },
+  {
+    "no_exp": "930",
+    "propiedad_horizontal": "EDIFICIO PILOTTO – PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 25 # 11-22"
+  },
+  {
+    "no_exp": "931",
+    "propiedad_horizontal": "CONJUNTO RESIDENCIAL MARAWI",
+    "direcci_n": "Avenida 19 Calle 26N - 72"
+  },
+  {
+    "no_exp": "932",
+    "propiedad_horizontal": "EDIFICIO BALCONES DE SAN JOSÉ – PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 19 # 28 -07"
+  },
+  {
+    "no_exp": "933",
+    "propiedad_horizontal": "EDIFICIO LE QUARTIER",
+    "direcci_n": "Avenida Bolívar # 45N - 04"
+  },
+  {
+    "no_exp": "934",
+    "propiedad_horizontal": "QUIMBAYA EQ – PROPIEDAD HORIZONTAL",
+    "direcci_n": "Carrera 12 # 14N - 41"
+  },
+  {
+    "no_exp": "935",
+    "propiedad_horizontal": "EL PORTÓN DEL PARQUE",
+    "direcci_n": "Calle 28 # 12 – 20/28"
+  },
+  {
+    "no_exp": "936",
+    "propiedad_horizontal": "CAMINO VERDE CONJUNTO CERRADO – PROPIEDAD HORIZONTAL",
+    "direcci_n": "Carrera 17 # 24 - 04"
+  },
+  {
+    "no_exp": "937",
+    "propiedad_horizontal": "CENTRO EMPRESARIAL DE LA CONSTRUCCIÓN – CEMCO – ETAPAS 1 Y 2",
+    "direcci_n": "Carrera 8 # 76 – 50"
+  },
+  {
+    "no_exp": "938",
+    "propiedad_horizontal": "GRANADA CENTER – PROPIEDAD HORIZONTAL",
+    "direcci_n": "Carrera 22 # 10A – 61 Granada Center"
+  },
+  {
+    "no_exp": "939",
+    "propiedad_horizontal": "EDIFICIO FÉNIX",
+    "direcci_n": "Carrera 24 # 19-51/57 con Calle 20 # 23-72/74/78"
+  },
+  {
+    "no_exp": "940",
+    "propiedad_horizontal": "ZAZACUARÍ CONJUNTO CERRADO - PROPIEDAD HORIZONTAL",
+    "direcci_n": "Calle 58 # 48-39"
+  },
+  {
+    "no_exp": "941",
+    "propiedad_horizontal": "JOSÉ HERIBERTO CASTAÑO",
+    "direcci_n": "Calle 2N # 17-32"
+  },
+  {
+    "no_exp": "942",
+    "propiedad_horizontal": "ARBORETUM CONDOMINIO",
+    "direcci_n": "Calle 27N # 5-00"
+  }
+]
