@@ -1,0 +1,146 @@
+{
+  "fishnet_stats": {
+    "totalCells": 1584,
+    "cellSizeMeters": 50,
+    "areaPerCellM2": 2500,
+    "totalAreaHa": 396,
+    "cellsWithPOIs": 6,
+    "poiDistribution": {
+      "religioso": 1,
+      "infraestructura_deportiva": 1,
+      "educacion": 1,
+      "educacion_cultural": 1,
+      "parque_recreacional": 1,
+      "patrimonio": 1
+    }
+  },
+  "zona_estudio": {
+    "nombre": "Zona de Estudio: San José y El Bosque (Combinada)",
+    "bbox": [
+      -75.685,
+      4.526,
+      -75.67,
+      4.548
+    ],
+    "area_calculada_ha": 406.74
+  },
+  "pois_analizados": [
+    {
+      "id": "parque_recreacional_bosque",
+      "nombre": "Parque Recreacional El Bosque (Junto Plaza de Toros)",
+      "tipo": "parque_recreacional",
+      "coordenadas": [
+        -75.676,
+        4.5395
+      ]
+    },
+    {
+      "id": "estadio_san_jose",
+      "nombre": "Estadio San José / Parque de la Cultura Deportiva",
+      "tipo": "infraestructura_deportiva",
+      "coordenadas": [
+        -75.67935,
+        4.53172
+      ]
+    },
+    {
+      "id": "plaza_toros_bosque",
+      "nombre": "Plaza de Toros El Bosque",
+      "tipo": "patrimonio",
+      "coordenadas": [
+        -75.6755,
+        4.54025
+      ]
+    },
+    {
+      "id": "parroquia_san_jose_obrero",
+      "nombre": "Parroquia San José Obrero",
+      "tipo": "religioso",
+      "coordenadas": [
+        -75.68005,
+        4.5305
+      ]
+    },
+    {
+      "id": "fundanza",
+      "nombre": "FUNDANZA - Fundación Cultural del Quindío",
+      "tipo": "educacion_cultural",
+      "coordenadas": [
+        -75.6765,
+        4.5358
+      ]
+    },
+    {
+      "id": "colegio_rufino_cuervo",
+      "nombre": "Colegio Rufino J. Cuervo (Centro)",
+      "tipo": "educacion",
+      "coordenadas": [
+        -75.677,
+        4.5375
+      ]
+    }
+  ],
+  "celdas_destacadas": [
+    {
+      "cellId": "CELL_0490",
+      "centroid": [
+        -75.68019796109122,
+        4.530479927363
+      ],
+      "pois": [
+        "Parroquia San José Obrero"
+      ]
+    },
+    {
+      "cellId": "CELL_0589",
+      "centroid": [
+        -75.67929864072751,
+        4.531828907908588
+      ],
+      "pois": [
+        "Estadio San José / Parque de la Cultura Deportiva"
+      ]
+    },
+    {
+      "cellId": "CELL_0842",
+      "centroid": [
+        -75.67705033981822,
+        4.537674490272803
+      ],
+      "pois": [
+        "Colegio Rufino J. Cuervo (Centro)"
+      ]
+    },
+    {
+      "cellId": "CELL_0886",
+      "centroid": [
+        -75.67660067963637,
+        4.535875849545352
+      ],
+      "pois": [
+        "FUNDANZA - Fundación Cultural del Quindío"
+      ]
+    },
+    {
+      "cellId": "CELL_0942",
+      "centroid": [
+        -75.67615101945451,
+        4.539473131000253
+      ],
+      "pois": [
+        "Parque Recreacional El Bosque (Junto Plaza de Toros)"
+      ]
+    },
+    {
+      "cellId": "CELL_0992",
+      "centroid": [
+        -75.67570135927265,
+        4.540372451363979
+      ],
+      "pois": [
+        "Plaza de Toros El Bosque"
+      ]
+    }
+  ],
+  "fecha_analisis": "2026-01-16T19:47:21.101Z"
+}

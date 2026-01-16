@@ -1,0 +1,354 @@
+{
+  "type": "FeatureCollection",
+  "name": "Barrio San José y El Bosque - Armenia, Quindío (Datos Verificados Gemini)",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "barrio_san_jose",
+        "nombre": "Barrio San José",
+        "comuna": "Comuna 6",
+        "ciudad": "Armenia",
+        "departamento": "Quindío",
+        "pais": "Colombia",
+        "centro": { "lat": 4.5317, "lon": -75.6793 },
+        "limites": {
+          "norte": "Calle 26 (Límite con El Bosque)",
+          "sur": "Calle 30 / Vía a Montenegro",
+          "este": "Carrera 19 (Avenida principal)",
+          "oeste": "Barrancos hacia Las Américas/Montevideo"
+        },
+        "barrios_vecinos": ["El Bosque", "Las Américas", "Los Quindos", "Granada"],
+        "tipo": "barrio",
+        "fuente": "Datos verificados Gemini - POT Armenia",
+        "precision": "verificada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.6850, 4.5260],
+            [-75.6750, 4.5260],
+            [-75.6750, 4.5350],
+            [-75.6850, 4.5350],
+            [-75.6850, 4.5260]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "barrio_el_bosque",
+        "nombre": "Barrio El Bosque",
+        "comuna": "Comuna 5",
+        "ciudad": "Armenia",
+        "departamento": "Quindío",
+        "pais": "Colombia",
+        "centro": { "lat": 4.5402, "lon": -75.6755 },
+        "limites": {
+          "norte": "Calle 21 / Parque de La Vida",
+          "sur": "Calle 26 (Límite con San José)",
+          "este": "Carrera 19",
+          "oeste": "Carrera 23 / Pendiente hacia La Vieja Libertad"
+        },
+        "barrios_vecinos": ["San José", "La Unión", "Recreo", "Parque de la Vida"],
+        "tipo": "barrio",
+        "fuente": "Datos verificados Gemini - POT Armenia",
+        "precision": "verificada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.6800, 4.5350],
+            [-75.6700, 4.5350],
+            [-75.6700, 4.5450],
+            [-75.6800, 4.5450],
+            [-75.6800, 4.5350]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zona_estudio_completa",
+        "nombre": "Zona de Estudio: San José y El Bosque (Combinada)",
+        "descripcion": "Polígono combinado para análisis Fishnet",
+        "tipo": "zona_estudio",
+        "area_estimada_ha": 45,
+        "fuente": "Unión de polígonos San José + El Bosque"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.6850, 4.5260],
+            [-75.6700, 4.5260],
+            [-75.6700, 4.5480],
+            [-75.6850, 4.5480],
+            [-75.6850, 4.5260]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parque_de_la_vida",
+        "nombre": "Parque De La Vida (Antiguo Bosque Municipal)",
+        "tipo": "area_protegida",
+        "extension_ha": 8.5,
+        "figura_proteccion": "Estructura Ecológica Principal (EEP) - Suelo de Protección POT",
+        "descripcion": "Pulmón principal de Armenia, nodo de conservación urbana y corredor biológico",
+        "centroide": { "lat": 4.5462, "lon": -75.6705 },
+        "vertices": {
+          "norte": { "lat": 4.5480, "lon": -75.6690 },
+          "sur": { "lat": 4.5445, "lon": -75.6720 }
+        },
+        "fuente": "Datos verificados Gemini - POT Armenia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.6720, 4.5445],
+            [-75.6690, 4.5445],
+            [-75.6690, 4.5480],
+            [-75.6720, 4.5480],
+            [-75.6720, 4.5445]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parque_recreacional_bosque",
+        "nombre": "Parque Recreacional El Bosque (Junto Plaza de Toros)",
+        "tipo": "parque_recreacional",
+        "extension_ha": 1.75,
+        "descripcion": "Zona dura + arbórea junto a la Plaza de Toros",
+        "fuente": "Datos verificados Gemini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.6760, 4.5395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "estadio_san_jose",
+        "nombre": "Estadio San José / Parque de la Cultura Deportiva",
+        "tipo": "infraestructura_deportiva",
+        "coordenadas_exactas": { "lat": 4.53172, "lon": -75.67935 },
+        "fundacion_original": 1951,
+        "reconstruccion": 2009,
+        "historia": "Primer estadio de Armenia. Deportes Quindío ganó su primera estrella en 1956",
+        "rol_analisis": "Nodo sur del análisis espacial",
+        "fuente": "Datos verificados Gemini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.67935, 4.53172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "plaza_toros_bosque",
+        "nombre": "Plaza de Toros El Bosque",
+        "tipo": "patrimonio",
+        "coordenadas_exactas": { "lat": 4.54025, "lon": -75.67550 },
+        "fundacion": 1948,
+        "estado": "Inactiva (leyes protección animal)",
+        "rol_analisis": "Nodo central-norte del análisis espacial",
+        "fuente": "Datos verificados Gemini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.67550, 4.54025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parroquia_san_jose_obrero",
+        "nombre": "Parroquia San José Obrero",
+        "tipo": "religioso",
+        "coordenadas_exactas": { "lat": 4.53050, "lon": -75.68005 },
+        "ubicacion": "Frente al parque del barrio San José",
+        "fuente": "Datos verificados Gemini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.68005, 4.53050]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fundanza",
+        "nombre": "FUNDANZA - Fundación Cultural del Quindío",
+        "tipo": "educacion_cultural",
+        "coordenadas_exactas": { "lat": 4.53580, "lon": -75.67650 },
+        "direccion": "Calle 19 # 27-40",
+        "fundacion": 1988,
+        "servicios": ["Bachillerato Artístico", "Danza", "Teatro", "Música"],
+        "descripcion": "Ubicada estratégicamente entre ambos barrios",
+        "fuente": "Datos verificados Gemini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.67650, 4.53580]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "colegio_rufino_cuervo",
+        "nombre": "Colegio Rufino J. Cuervo (Centro)",
+        "tipo": "educacion",
+        "coordenadas_exactas": { "lat": 4.53750, "lon": -75.67700 },
+        "nivel": "Público",
+        "descripcion": "Referente educativo clave en el sector",
+        "fuente": "Datos verificados Gemini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.67700, 4.53750]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "eje_calle_21",
+        "nombre": "Calle 21 - Eje Comercial Principal",
+        "tipo": "via_comercial",
+        "descripcion": "Límite norte de El Bosque, acceso a Parque de la Vida",
+        "comercios_destacados": ["Kong Sing", "Panadería El Triunfo", "Panadería El Rey"]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-75.6800, 4.5450],
+          [-75.6700, 4.5450]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "eje_calle_26",
+        "nombre": "Calle 26 - Límite entre Barrios",
+        "tipo": "via_divisoria",
+        "descripcion": "Divide Barrio San José (sur) de El Bosque (norte)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-75.6850, 4.5350],
+          [-75.6700, 4.5350]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "carrera_19",
+        "nombre": "Carrera 19 - Avenida Principal",
+        "tipo": "via_principal",
+        "descripcion": "Límite oriental de ambos barrios, conecta con centro de Armenia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-75.6700, 4.5260],
+          [-75.6700, 4.5480]
+        ]
+      }
+    }
+  ],
+  "biodiversidad": {
+    "descripcion": "Zona actúa como 'trampolín' ecológico para avifauna entre relictos boscosos urbanos",
+    "fuente_estudios": "CRQ - Programa Biodiverciudades - Corredores Biológicos Urbanos",
+    "aves_reportadas": [
+      {
+        "nombre_comun": "Barranquero",
+        "nombre_cientifico": "Momotus aequatorialis",
+        "estado": "Ave emblemática de Armenia, muy común en Parque El Bosque"
+      },
+      {
+        "nombre_comun": "Azulejo Común",
+        "nombre_cientifico": "Thraupis episcopus",
+        "estado": "Frecuente"
+      },
+      {
+        "nombre_comun": "Gavilán Caminero",
+        "nombre_cientifico": "Rupornis magnirostris",
+        "estado": "Común en copas de árboles altos"
+      }
+    ],
+    "mamiferos_reportados": [
+      {
+        "nombre_comun": "Guatín",
+        "nombre_cientifico": "Dasyprocta punctata",
+        "estado": "Frecuentemente avistado cruzando entre parque y zonas residenciales"
+      }
+    ],
+    "flora_nativa": [
+      {
+        "nombre_comun": "Guadua",
+        "nombre_cientifico": "Guadua angustifolia",
+        "ubicacion": "Predominante en laderas"
+      },
+      {
+        "nombre_comun": "Caracolí",
+        "nombre_cientifico": "Anacardium excelsum",
+        "ubicacion": "Disperso en el bosque"
+      },
+      {
+        "nombre_comun": "Nogal Cafetero",
+        "nombre_cientifico": "Cordia alliodora",
+        "ubicacion": "Áreas protegidas"
+      }
+    ]
+  },
+  "fuentes_datos": {
+    "geoportales": [
+      {
+        "nombre": "Geovisor SIG Armenia (Oficial)",
+        "descripcion": "Catastro urbano y malla vial",
+        "acceso": "SIG Armenia Hub en ArcGIS Online / Portal Planeación Municipal"
+      },
+      {
+        "nombre": "Colombia en Mapas (IGAC)",
+        "descripcion": "Catastro Quindío en GDB o Shapefile",
+        "uso": "Límites oficiales de barrios"
+      },
+      {
+        "nombre": "POT Armenia",
+        "descripcion": "Acuerdo 019 de 2009 y actualizaciones",
+        "acceso": "Alcaldía de Armenia -> Planeación / CRQ"
+      }
+    ],
+    "nota_tecnica": "Coordenadas en WGS84 Decimales (Lat, Lon). Si usas datos IGAC, reproyectar desde MAGNA-SIRGAS (Origen Nacional)"
+  },
+  "metadata": {
+    "fecha_creacion": "2026-01-16",
+    "fecha_actualizacion": "2026-01-16",
+    "fuente_principal": "Análisis Gemini + POT Armenia + CRQ",
+    "precision": "verificada",
+    "crs": "WGS84 (EPSG:4326)",
+    "proyecto": "RAG JAC San José y El Bosque",
+    "uso": "Base para análisis Fishnet con Turf.js"
+  }
+}

@@ -14,12 +14,21 @@
     "scrape:datos-abiertos": "npx tsx scripts/scrapers/datos-abiertos.ts",
     "scrape:secop": "npx tsx scripts/scrapers/secop-contratos.ts",
     "scrape:propiedades": "npx tsx scripts/scrapers/propiedades-tradicion.ts",
-    "scrape:integrate": "npx tsx scripts/scrapers/integrate-to-knowledge-base.ts"
+    "scrape:integrate": "npx tsx scripts/scrapers/integrate-to-knowledge-base.ts",
+    "scrape:geo": "npx tsx scripts/scrapers/geo-data.ts",
+    "scrape:geo:osm": "npx tsx scripts/scrapers/geo-data.ts --only=osm",
+    "scrape:geo:geocode": "npx tsx scripts/scrapers/geo-data.ts --only=geocode",
+    "scrape:geo:gbif": "npx tsx scripts/scrapers/geo-data.ts --only=gbif",
+    "scrape:biodiversidad": "npx tsx scripts/scrapers/biodiversidad-quindio.ts",
+    "geo:fishnet": "npx tsx scripts/geo/generate-fishnet.ts",
+    "geo:geocode": "npx tsx scripts/geo/geocode-negocios.ts",
+    "geo:all": "npm run geo:geocode && npm run geo:fishnet"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",
     "@supabase/ssr": "^0.8.0",
     "@supabase/supabase-js": "^2.90.1",
+    "@turf/turf": "^7.3.2",
     "dotenv": "^17.2.3",
     "framer-motion": "^12.26.2",
     "glob": "^13.0.0",

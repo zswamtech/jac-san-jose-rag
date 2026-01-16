@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-01-16T19:13:31.098Z",
+  "total_procesados": 10,
+  "exitosos": 1,
+  "fallidos": 9,
+  "resultados": [
+    {
+      "original": "est_1: CL 20 24-65 SAN JOSE",
+      "lat": 4.541117,
+      "lon": -75.6803179,
+      "display_name": "Calle 20, San José, Comuna San José, Perímetro Urbano Armenia, Armenia, Capital, Quindío, RAP Eje Cafetero, 630003, Colombia",
+      "confidence": 0.053389615472648165
+    },
+    {
+      "original": "est_2: CARRERA 14 NRO. 14N-80 EDIFICIO EL BOSQUE",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_3: CR. 23 NRO. 20-20 BRR. SAN JOSE",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_4: CL 20 NO 25-43",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_5: B.SAN JOSE SALIDA QUIMBAYA CALLE 4A 3E-32",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_6: BARRIO RECREO MZ R NRO. 7",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_7: AV 19 NRO. 24AN -63",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_8: CALLE 20 NRO. 23-45  B/ SAN JOSE",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_9: CL 22 27 A 02 BRR SAN JOSE",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    },
+    {
+      "original": "est_10: BRR SAN JOSE  CR 23 21 33 LC",
+      "lat": null,
+      "lon": null,
+      "display_name": null,
+      "confidence": 0,
+      "error": "No encontrado"
+    }
+  ]
+}

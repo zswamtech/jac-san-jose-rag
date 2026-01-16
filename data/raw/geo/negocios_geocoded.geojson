@@ -1,0 +1,5910 @@
+{
+  "type": "FeatureCollection",
+  "name": "Negocios Geocodificados - Barrio San José y El Bosque",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_1",
+        "nombre": "COMERCIALIZADORA OSFARM SAS.",
+        "direccion": "CL 20 24-65 SAN JOSE",
+        "telefono": "7486984",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_2",
+        "nombre": "OFICINA AVENIDA BOLIVAR BANCO COMERCIAL AV VILLAS",
+        "direccion": "CARRERA 14 NRO. 14N-80 EDIFICIO EL BOSQUE",
+        "telefono": "567496038",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67419624665239,
+          4.537015143403188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_3",
+        "nombre": "PAPELERIA BENETTON",
+        "direccion": "CR. 23 NRO. 20-20 BRR. SAN JOSE",
+        "telefono": "7408841",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_4",
+        "nombre": "TIENDA EL PORVENIR SAN JOSE",
+        "direccion": "CL 20 NO 25-43",
+        "telefono": "7401609",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_5",
+        "nombre": "ESTACION DE LLENADO SAN JOSE",
+        "direccion": "B.SAN JOSE SALIDA QUIMBAYA CALLE 4A 3E-32",
+        "telefono": "3172467675",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67843297742161,
+          4.539124072252491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_6",
+        "nombre": "DROGUERIA Y MISCELANEA EL BOSQUE",
+        "direccion": "BARRIO RECREO MZ R NRO. 7",
+        "telefono": "7344924",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6765540390389,
+          4.531374059250168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_7",
+        "nombre": "REFORESTADORA ANDINA S A",
+        "direccion": "AV 19 NRO. 24AN -63",
+        "telefono": "7496868",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_8",
+        "nombre": "TAX PARAMO S A",
+        "direccion": "CALLE 20 NRO. 23-45  B/ SAN JOSE",
+        "telefono": "7402254",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68112408312072,
+          4.540713534635902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_9",
+        "nombre": "EL MUNDO DE LA MASCOTA",
+        "direccion": "CL 22 27 A 02 BRR SAN JOSE",
+        "telefono": "3147245804",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_10",
+        "nombre": "TORTAS GOYITA ZULUAGA",
+        "direccion": "BRR SAN JOSE  CR 23 21 33 LC",
+        "telefono": "3003828244",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_11",
+        "nombre": "EL BOSQUE DE BAMBU NATURAL",
+        "direccion": "INT GALERIA LC 2 PISO 1",
+        "telefono": "3218610541",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67473985339122,
+          4.537634686428377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_12",
+        "nombre": "MISCELANEA VENTANILLA FER",
+        "direccion": "BR SAN JOSE CR 24 20 28",
+        "telefono": "3162516597",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_13",
+        "nombre": "UNIFORMES & DISEÑOS BHA",
+        "direccion": "AV 19 33 NORTE 15 CA 8 QUINTAS DE LA FLORESTA",
+        "telefono": "3042093839",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_14",
+        "nombre": "CENTRO DE ESTIMULACION PLURILINGÜE DEL EJE CAFETERO",
+        "direccion": "BRR SAN JOSE CL 21 CR 28  - 12",
+        "telefono": "3234399080",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6725,
+          4.529454545454545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_15",
+        "nombre": "MOTO REPUESTOS EL FLACO",
+        "direccion": "CR 10 5 34  BRR SAN JOSE",
+        "telefono": "3234334427",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67673123596995,
+          4.538587788941844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_16",
+        "nombre": "TIENDA Y VARIEDADES LILA",
+        "direccion": "BRR EL BOSQUE MZ C CA17",
+        "telefono": "3014749816",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67537921414122,
+          4.535856020393611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_17",
+        "nombre": "CAJAS Y EMPAQUES ARMENIA",
+        "direccion": "CR 22 21-60 EL BOSQUE",
+        "telefono": "3103027550",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_18",
+        "nombre": "UNLIMITED COMPANY",
+        "direccion": "BRR SAN JOSE CR 20 36 36",
+        "telefono": "3005783999",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67125,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_19",
+        "nombre": "FITONATURALS",
+        "direccion": "CR 25 CL 21 36 BRR SAN JOSE",
+        "telefono": "3145956786",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6740648999848,
+          4.5335314223731515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_20",
+        "nombre": "SHARID",
+        "direccion": "URB EL BOSQUE MZ 1 CA 7",
+        "telefono": "3122151771",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67500805828193,
+          4.534953919150399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_21",
+        "nombre": "APARTAMENTO RYE",
+        "direccion": "AV 19 26 N 49 ED METROLOFT AP 206",
+        "telefono": "3137195696",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_22",
+        "nombre": "MAGIC PET",
+        "direccion": "BR SAN JOSE CL 21 24 43 LC 1",
+        "telefono": "3217255445",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_23",
+        "nombre": "GREEN WASH EMBELLECIMIENTO AUTOMOTRIZ",
+        "direccion": "AV 19 8 40",
+        "telefono": "3145549364",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_24",
+        "nombre": "DROGUERIA Y TIENDA NATURISTA BIOSERVIR",
+        "direccion": "CL 21 24-78 ESQ BR SAN JOSE",
+        "telefono": "7395682",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_25",
+        "nombre": "CHOLADO Y RASPADO VALLUNO",
+        "direccion": "CR 18 CL 57 ESTADIO CENTENARIO FRENTE A BALCONES DEL EDEN",
+        "telefono": "3106635546",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68011876333019,
+          4.53587314800858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_26",
+        "nombre": "PAN TOLIMA LA 21",
+        "direccion": "CL 21 26 64 BRR SAN JOSÉ",
+        "telefono": "3158410362",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_27",
+        "nombre": "SIARA´S DESING",
+        "direccion": "CR 25 20 43 BRR SAN JOSE",
+        "telefono": "3206393725",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6775,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_28",
+        "nombre": "CAFE EL CLUB DE LOS AMIGOS",
+        "direccion": "CL 21 23-32 BRR SAN JOSE",
+        "telefono": "3225862358",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_29",
+        "nombre": "SOLINSA GC SAS CIRCASIA",
+        "direccion": "CARREA N° 11 6-50 BARRIO SAN JOSE",
+        "telefono": "6915767",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67961055050012,
+          4.535622183025938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_30",
+        "nombre": "PAPAS CHEVERES",
+        "direccion": "BRR SAN JOSE CR 27B 21A-74",
+        "telefono": "3207046860",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_31",
+        "nombre": "OH ONE COFFEE",
+        "direccion": "CR 26 21 16 BRR SAN JOSE",
+        "telefono": "3128951821",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67875000000001,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_32",
+        "nombre": "MISCELANEA LC LA 21",
+        "direccion": "CL 21 25 02 BRR SAN JOSE",
+        "telefono": "3104482528",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_33",
+        "nombre": "TIENDA Y ABARROTES LA FORTUNA",
+        "direccion": "MEJORA SAN JOSE",
+        "telefono": "3147935950",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6803526706956,
+          4.539818791713117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_34",
+        "nombre": "RED DE SERVICIOS DEL QUINDIO S.A  SAN JOSE",
+        "direccion": "CLL  21 25 29",
+        "telefono": "7412266",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_35",
+        "nombre": "LA FONDA DE LA MONTAÑA",
+        "direccion": "LA PALMITA SAN JOSE",
+        "telefono": "3134398297",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67726280482304,
+          4.536326817394989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_36",
+        "nombre": "PATACÓN CUYABRO",
+        "direccion": "CL 26 22 08 SENDEROS DEL BOSQUE CA 37",
+        "telefono": "3168293032",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.532909090909091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_37",
+        "nombre": "MISCELANEA Y VENTANILLA EL SOL",
+        "direccion": "CR 5 11 48 BRR SAN JOSE",
+        "telefono": "3137298954",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67500651877582,
+          4.539483516978582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_38",
+        "nombre": "LA MECCA ACCESORIOS",
+        "direccion": "CONJ  CAMINOS DEL BOSQUE  CL 45 42-10 MZ 7 CA 11",
+        "telefono": "7356507",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67593530703067,
+          4.531132296185548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_39",
+        "nombre": "PEQUES BOUTIQUE",
+        "direccion": "CL 47 39-71 CONJUNTO BRISAS DEL BOSQUE",
+        "telefono": "3197808702",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.676002542772,
+          4.537569259284859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_40",
+        "nombre": "LA SAZÓN DE MANOLO",
+        "direccion": "BRR SAN JOSE CR 23 19 30",
+        "telefono": "3105869558",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_41",
+        "nombre": "LAURA SUAREZ JOYAS",
+        "direccion": "AV 19 25NORTE 75 CA 8 LA COLONIA",
+        "telefono": "321783088",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_42",
+        "nombre": "PAN DEL HORNO",
+        "direccion": "BRR SAN JOSE PLAZA MINORISTA",
+        "telefono": "3142823457",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67881856885494,
+          4.537330127295996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_43",
+        "nombre": "POLLO RANCHERO DEL BOSQUE",
+        "direccion": "CL 21 23 70",
+        "telefono": "7406602",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_44",
+        "nombre": "PARQUEADERO SAN JOSE #1",
+        "direccion": "CR 23 39 37",
+        "telefono": "3118824404",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_45",
+        "nombre": "GIMNASIO GENTE ACTIVA",
+        "direccion": "KM 1 VIA EL EDEN ESTADIO CENTENARIO PISO 1",
+        "telefono": "3105000054",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67815675505695,
+          4.53443687489732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_46",
+        "nombre": "MI PLACITA - MI PLACITA",
+        "direccion": "AV 19 5 NORTE 18 ED BALLON",
+        "telefono": "3185534680",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_47",
+        "nombre": "SEDITEL",
+        "direccion": "CL 21 24 46 LC 1 BRR SAN JOSE",
+        "telefono": "7355555",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_48",
+        "nombre": "DROGUERIA SAN JOSE DE LA 6",
+        "direccion": "CR 6  6 30",
+        "telefono": "3023742961",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67496819964603,
+          4.537776641087985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_49",
+        "nombre": "FEEL CONFORT AND STYLE",
+        "direccion": "VIA BARCELONA IZQ 35 FINCA SAN JOSE CS-PRINCIPAL",
+        "telefono": "3147276040",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67907727191961,
+          4.531997248170756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_50",
+        "nombre": "HOSTAL SAN JOSE FILANDIA",
+        "direccion": "CR 5 4 33 P 2",
+        "telefono": "3228746617",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67630399136988,
+          4.532006192331031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_51",
+        "nombre": "RESTAURANTE RUBEN POLLO EXPRESS",
+        "direccion": "AV 19 15 NORTE 47 LC 6",
+        "telefono": "7335400",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_52",
+        "nombre": "HADA MADRINA HAS TU FIESTA REALIDAD",
+        "direccion": "CAMINOS DEL BOSQUE MZ 3 CA 25",
+        "telefono": "3116345909",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67839248539282,
+          4.540753409950793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_53",
+        "nombre": "TIENDA LOS TORRES",
+        "direccion": "CL 28 26 40 CON SAN JOSE TO 5 AP 101",
+        "telefono": "3164414810",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.529454545454545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_54",
+        "nombre": "FÁBRICA DE ALIMENTOS BAYRES",
+        "direccion": "KM 3 VIA CIRCASIA CONJ QUINTAS DEL BOSQUE",
+        "telefono": "3013113651",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68140416027197,
+          4.5346513290165404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_55",
+        "nombre": "VENTANILLA FER",
+        "direccion": "BRR SAN JOSE CL 21 25 49",
+        "telefono": "7400024",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_56",
+        "nombre": "PRIDE STYLE",
+        "direccion": "BRR/ SAN JOSE CR 24 Nro. 20 - 25",
+        "telefono": "3233271089",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_57",
+        "nombre": "CAFE DON PELAYO CAFE ESPECIAL ORGANICO",
+        "direccion": "CL 21 27 11 BRR SAN JOSE",
+        "telefono": "3145362600",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_58",
+        "nombre": "CASA DE MUEBLES RAMAL",
+        "direccion": "URB EL BOSQUE MZ 1 CA 7",
+        "telefono": "3135436718",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67810822982176,
+          4.537324657199459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_59",
+        "nombre": "ESTADERO TIPICO EL BOSQUE EL TRADICIONAL",
+        "direccion": "BRR LA ELVIRA ET 2 LT 2",
+        "telefono": "3104702357",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68126740456091,
+          4.536829064065348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_60",
+        "nombre": "MISCELANEA DONDE PARRA",
+        "direccion": "CL 19 24 A 27 BRR SAN JOSÉ",
+        "telefono": "3117138420",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_61",
+        "nombre": "SALUD VAPORIZACION",
+        "direccion": "KM 3 VIA CIRCASIA URB QUINTAS DEL BOSQUE CA 24",
+        "telefono": "3017011618",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68067832545671,
+          4.532623532454386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_62",
+        "nombre": "SUBLIME BOUTIQUE",
+        "direccion": "CL 47 39 71 CON BRISAS DEL BOSQUE BL G AP 401",
+        "telefono": "3104040457",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67599544678342,
+          4.5390729663252385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_63",
+        "nombre": "ASEPSIA EXPRESS",
+        "direccion": "CL 19 24 28 BRR SAN JOSÉ",
+        "telefono": "3043951517",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_64",
+        "nombre": "EL CHUZO TOPPING HOUSE",
+        "direccion": "AV 19 26 NORTE 49 LC 5 ED METROLOFT",
+        "telefono": "3113393432",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_65",
+        "nombre": "VIDRIOS JAIRO COCOTERO",
+        "direccion": "BR SAN JOSE CL 21 28 56",
+        "telefono": "3135369338",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_66",
+        "nombre": "LAS DELICIAS DE CLAUZ",
+        "direccion": "C.R. AIRES DEL BOSQUE MZ 3 CA 3",
+        "telefono": "3104233717",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68073110088203,
+          4.536074189898618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_67",
+        "nombre": "ESOTERICAS ONLINE",
+        "direccion": "CALLEJAS DE SAN JOSÉ UNIDAD 2B AP 101 BRR ROJAS PINILLA 2",
+        "telefono": "3168857469",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67450236850054,
+          4.538072751729053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_68",
+        "nombre": "HELADERIA LA TIENDITA GOURMET",
+        "direccion": "CL 21 23 71 BRR SAN JOSE",
+        "telefono": "3127873683",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_69",
+        "nombre": "MUEBLES MADERO HOGAR",
+        "direccion": "AV 19 15 NORTE 40",
+        "telefono": "3108236502",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_70",
+        "nombre": "ENSALADA ROONEY Y ALGO MAS",
+        "direccion": "CL 21 25 40 BRR SAN JOSE",
+        "telefono": "3204984140",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_71",
+        "nombre": "SYMETRIE ARMENIA",
+        "direccion": "AV 19 19N 35 LC 1 -1 ED ATLANTIS",
+        "telefono": "3104205561",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_72",
+        "nombre": "DISTRIBUIDORA GOTAS DE ORO",
+        "direccion": "BRR SAN JOSE CR 25 21-153",
+        "telefono": "3147445180",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6775,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_73",
+        "nombre": "FILANDIA HISTORIA DE CAFETAL",
+        "direccion": "CR 4 CA 13  BRR SAN JOSE",
+        "telefono": "3174399492",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67764364973077,
+          4.540514090537211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_74",
+        "nombre": "UBICALO ARMENIA",
+        "direccion": "AV 19 45 PARQUE RESIDENCIAL ORO NEGRO",
+        "telefono": "3122891088",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_75",
+        "nombre": "APARTAMENTO 513 ATLANTIS",
+        "direccion": "AV 19N CL 19 TR 4 AP 513 ED ATLANTIS",
+        "telefono": "3104210852",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_76",
+        "nombre": "INDUSTRIAS ELIPAN",
+        "direccion": "CON AIRES DEL BOSQUE MZ 5 CA 5",
+        "telefono": "3102703800",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68046518735642,
+          4.540126097416888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_77",
+        "nombre": "HOUSE IN - HOSPEDAJES VACACIONALES",
+        "direccion": "CL 45 61 20 CONJ AIRES DEL BOSQUE",
+        "telefono": "3142278988",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68135715698725,
+          4.53101803491635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_78",
+        "nombre": "BARBERÍA BARBA ROJA & TATTOO",
+        "direccion": "BR CENTRO SAN JOSE CR 6 20 52",
+        "telefono": "3212971696",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67760027844544,
+          4.531844417119937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_79",
+        "nombre": "JARDINES DEL BOSQUE CONSTRUCTORA S.A.S.",
+        "direccion": "CLL 15 NORTE NRO 12 36 ED EFIGAS",
+        "telefono": "3178684342",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_80",
+        "nombre": "SUPER TIENDA MEGA PRECIOS",
+        "direccion": "CR 27 A 22 56 ED EL TRIANGULO BRR SAN JOSE",
+        "telefono": "3105916143",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6790777859119,
+          4.538423685599871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_81",
+        "nombre": "SURTI FRUVER EL BOSQUE",
+        "direccion": "CR 23 19 04",
+        "telefono": "3117071568",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_82",
+        "nombre": "PRISMA 3D ILUMINACION PROFESIONAL",
+        "direccion": "CL 30 27 38 SEC SAN JOSE",
+        "telefono": "3173761595",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_83",
+        "nombre": "CENTRO LOGISTICO RM - ASOCOA",
+        "direccion": "CALLEJA DE SAN JOSE ET 1 OF 502",
+        "telefono": "3116006258",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675855829074,
+          4.5393344699760645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_84",
+        "nombre": "BRISAS EDILMA",
+        "direccion": "CONJ BRISAS DEL BOSQUES BL C AP 203",
+        "telefono": "3127578623",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68146242774161,
+          4.5402140239948805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_85",
+        "nombre": "INSTITUTO DE DIAGNOSTICO MEDICO S.A - SEDE QUIMBAYA",
+        "direccion": "CR 5 NRO 12 57 LC 1 BRR SAN JOSE",
+        "telefono": "3213441038",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67443579659205,
+          4.538662494401344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_86",
+        "nombre": "AZUL PROFUNDO ARMENIA",
+        "direccion": "CL 21 26 41 BRR SAN JOSE",
+        "telefono": "3138607489",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_87",
+        "nombre": "VARIEDADES ANALUPE",
+        "direccion": "AV 19 15 NORTE 49 PROVITEQ UN 3 BL 13 AP 1B",
+        "telefono": "3132715413",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_88",
+        "nombre": "MEGA TRONIK",
+        "direccion": "URB RINCON DEL BOSQUE MZ 2 CA 7",
+        "telefono": "3107352928",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67943870913288,
+          4.536084132719827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_89",
+        "nombre": "INMOBILIARIA CORAZON DE MI TIERRA CAFETERA",
+        "direccion": "PARQUE RESIDENCIAL SAN JOSE TORRE 12 APT 102",
+        "telefono": "3183864675",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67870393963015,
+          4.539317650664824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_90",
+        "nombre": "BARBERIA PROFESIONAL HOOVER ARIZA UNA NUEVA IMAGEN",
+        "direccion": "BRR SAN JOSE CL 20 23 53",
+        "telefono": "3178948133",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_91",
+        "nombre": "GRANJA SAN JULIAN DE PRAGA",
+        "direccion": "SAN JULIAN DE PRAGA GUATEMALA VDA SAN JOSE AREA RURAL DEL MUNICIPIO DE MONTENEGRO",
+        "telefono": "7441111",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67898610720854,
+          4.537749236738839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_92",
+        "nombre": "MISCELANEA SAN JOSE DEL BOSQUE",
+        "direccion": "CR 23 19 24",
+        "telefono": "3178908157",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_93",
+        "nombre": "MANTENIMIENTO TECNICO VF",
+        "direccion": "CR 9 5-11 BRR SAN JOSE",
+        "telefono": "3104433554",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67471203205044,
+          4.539070702786396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_94",
+        "nombre": "GIRALDO BIENES RAICES",
+        "direccion": "MANANTIALES CON RESIDENCIAL CAMINOS DEL BOSQUE MZ 4 CA 31",
+        "telefono": "3008179066",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67974146163961,
+          4.540994391093206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_95",
+        "nombre": "GRABAR TELEVISIÓN PRODUCCIONES",
+        "direccion": "CR 26 19 18 BRR SAN JOSE",
+        "telefono": "3144078771",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67875000000001,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_96",
+        "nombre": "HOTEL PALMI",
+        "direccion": "CR 4 3 16 CA 10 URB QUINTAS DEL BOSQUE",
+        "telefono": "3135797000",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67979748620444,
+          4.53182784393191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_97",
+        "nombre": "MR MUSTACHES BARBER SHOP",
+        "direccion": "CR 24A Nro. 18-60 BRR SAN JOSE PS 1",
+        "telefono": "3134978168",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_98",
+        "nombre": "ALOJAMIENTO MONTESORO",
+        "direccion": "VDA SAN JOSE FINCA EL HORIZONTE LOTE 4",
+        "telefono": "3104936694",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6773122374956,
+          4.540414722706713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_99",
+        "nombre": "MAXICARNES DEL QUINDIO",
+        "direccion": "BRR SAN JOSE CL 20 23 58 LC B",
+        "telefono": "3205435820",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_100",
+        "nombre": "AUTOELECTRONICA EL BOSQUE",
+        "direccion": "CR 21   22 63",
+        "telefono": "3117312819",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6725,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_101",
+        "nombre": "TIENDA LA CAJITA QUIMBAYA",
+        "direccion": "CL 11 5 17 BRR SAN JOSE",
+        "telefono": "3105187723",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67356426885395,
+          4.5336199176353045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_102",
+        "nombre": "CONCRETOS & DISEÑOS ARMENIA",
+        "direccion": "CL 21 25-69 BRR SAN JOSE",
+        "telefono": "3113846790",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_103",
+        "nombre": "ANGEL ARTE PASTELERIA",
+        "direccion": "BARRIO SAN JOSE CALLE 21 24 62",
+        "telefono": "7362962",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_104",
+        "nombre": "HELLO DEKA",
+        "direccion": "AV 19 NRO. 44 - 50 LC 8",
+        "telefono": "3147110720",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_105",
+        "nombre": "TAPICERIA MILLOS",
+        "direccion": "CL 19 22 40 BRR SAN JOSE",
+        "telefono": "3137267630",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_106",
+        "nombre": "SALON DE BELLEZA ISSA",
+        "direccion": "CL 21 28 55 BRR SAN JOSE",
+        "telefono": "3105488258",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_107",
+        "nombre": "AGROQUIN",
+        "direccion": "AV 19 32N 100",
+        "telefono": "3176699721",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_108",
+        "nombre": "DISTRIBEBIDAS J.J",
+        "direccion": "CR 5 11-17 BRR SAN JOSE",
+        "telefono": "3117153183",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67739744576043,
+          4.5368091475551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_109",
+        "nombre": "MUDESPCOL",
+        "direccion": "BARRIO SAN JOSE CL 19 Nro. 25 - 33",
+        "telefono": "3176372522",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_110",
+        "nombre": "SCHOREM BARBER CLUB",
+        "direccion": "BRR SAN JOSE CR 29 20-36",
+        "telefono": "3205980719",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_111",
+        "nombre": "GIRALDO ROMERO & CIA S EN C",
+        "direccion": "VDA SAN JOSE HACIENDA GUAYAQUIL LT 2 SAN JOSE",
+        "telefono": "3174273436",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67397396714837,
+          4.532248819865404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_112",
+        "nombre": "SITARA BIENES RAICES",
+        "direccion": "AV 19 26 NORTE 69 APTO 404 ED EL MIRADOR",
+        "telefono": "3182165818",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_113",
+        "nombre": "ESCUELA DE CAPACITACIÓN EN VIGILANCIA PRIVADA ANTORCHA LTDA",
+        "direccion": "CLL 21 N° 26-16 BARRIO SAN JOSE",
+        "telefono": "3159274054",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_114",
+        "nombre": "LA RUTA DE LA BICICLETA COLOMBIA",
+        "direccion": "FCA SAN JOSE VDA LA BELLA",
+        "telefono": "3105061613",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6767527095233,
+          4.538377444896585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_115",
+        "nombre": "TOTALSERVICES COL",
+        "direccion": "CL 47 NRO 39-71 BRISAS DEL BOSQUE A 501",
+        "telefono": "3124610558",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68047330674504,
+          4.534716393057671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_116",
+        "nombre": "MOTO PISTON DEL QUINDIO",
+        "direccion": "BRR SAN JOSE CL  19 24-79 LC 2",
+        "telefono": "3107937555",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_117",
+        "nombre": "ESCUELA FUNDANZA",
+        "direccion": "CL 19 27 40 BRR SAN JOSE",
+        "telefono": "7400362",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_118",
+        "nombre": "INSTITUTO DE DIAGNOSTICO MEDICO SA - SEDE ARMENIA AV 19",
+        "direccion": "CRA 19 N° 2 NORTE - 38",
+        "telefono": "3123179420",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67613522064315,
+          4.535200512265982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_119",
+        "nombre": "PARRILLA 2",
+        "direccion": "CL 24 CR 27 LOC 2 ESTADIO SAN JOSE",
+        "telefono": "3113705946",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67497917412311,
+          4.5407175195481555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_120",
+        "nombre": "PIZZA NAPOLI",
+        "direccion": "URB EL ESTADIO MZ 2 C 24",
+        "telefono": "3226142769",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680696228938,
+          4.538601522109315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_121",
+        "nombre": "MISCELANEA SOL DE CIRCASIA",
+        "direccion": "CL 6 11 76 BRR SAN JOSE",
+        "telefono": "3122807632",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6798844145741,
+          4.532896212006291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_122",
+        "nombre": "WIL AUTOS",
+        "direccion": "BRR SAN JOSE CL 20 24 25",
+        "telefono": "3156207814",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_123",
+        "nombre": "GUAYACANES LJL",
+        "direccion": "CR 18 59 03 P 2 LC 14 (!) FRENTE AL ESTADIO CENTENARIO",
+        "telefono": "3115024593",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_124",
+        "nombre": "MARCO AREPA",
+        "direccion": "BRR SAN JOSE CL 27 A 22-30",
+        "telefono": "3104531729",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.531181818181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_125",
+        "nombre": "FULL MOTOS LA 21",
+        "direccion": "BRR SAN JOSE CL 21 25 51",
+        "telefono": "3147793251",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_126",
+        "nombre": "CASA CAMPESTRE SAN JOSE DE LA MONTAÑA",
+        "direccion": "CONDOMINIO CAMPESTRE RANCHO LA SOLEDAD CS 11-2",
+        "telefono": "3216435465",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67622665061485,
+          4.531071514858524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_127",
+        "nombre": "RESTAURACIONES CLAUDIA",
+        "direccion": "CR 27 28 04 BRR SAN JOSÉ",
+        "telefono": "7403727",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.529454545454545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_128",
+        "nombre": "DISTRIPIJAO SAN JOSE",
+        "direccion": "CL 21 NRO 27 02",
+        "telefono": "7384856",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67925578957251,
+          4.539675748666044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_129",
+        "nombre": "B2V BOUTIQUE",
+        "direccion": "CR 25A 17A 41 BRR SAN JOSE",
+        "telefono": "3012783739",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6775,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_130",
+        "nombre": "EQUILIBRIUM FITNESS",
+        "direccion": "AV 19 NORTE ED METROLOFT LC 8",
+        "telefono": "3226848309",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_131",
+        "nombre": "NAVIO CROSS MEDIA",
+        "direccion": "CONJ CALLEJAS DE SAN JOSE UN 1 B AP 304",
+        "telefono": "3146684033",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67727700170146,
+          4.535102499414286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_132",
+        "nombre": "MISCELANEA FORTUNAMAX",
+        "direccion": "CL 21 26-66 BR SAN JOSE",
+        "telefono": "3155975451",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_133",
+        "nombre": "HOSTAL 7 VERDES",
+        "direccion": "FINCA LA FLORIDA BLANCA PARAJE SAN JOSE LOTE 5",
+        "telefono": "3183078985",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67532582225006,
+          4.539478138703773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_134",
+        "nombre": "VARIEDADES V&D",
+        "direccion": "BRR EL BOSQUE CL 9 3-05",
+        "telefono": "3206752892",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67882626134337,
+          4.538485191389104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_135",
+        "nombre": "MONSTER PIZZA",
+        "direccion": "CL 21 23 38 BRR SAN JOSE",
+        "telefono": "3103887870",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_136",
+        "nombre": "LA ESQUINA DEL SABOR CUYABRO",
+        "direccion": "CR 21 20 85   BRR SAN JOSE",
+        "telefono": "3117930250",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6725,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_137",
+        "nombre": "MARKETING LA ESTACION GOURMET",
+        "direccion": "CL 21 29 24  BRR SAN JOSE",
+        "telefono": "3128341792",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_138",
+        "nombre": "CAFETERIA BAR DON EFRA",
+        "direccion": "CL 20 NRO. 25-24 BRR SAN JOSE",
+        "telefono": "3104700237",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67718095081385,
+          4.536566144457253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_139",
+        "nombre": "RESTAURANTE EL CEBOLLIN",
+        "direccion": "CR 27A N 21A 04 BRR SAN JOSE",
+        "telefono": "3229455520",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6739111020988,
+          4.533979935742963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_140",
+        "nombre": "HOTEL FINCA EL BOSQUE  PIJAO FRANCE",
+        "direccion": "VDA EL RECREO FCA EL BOSQUE",
+        "telefono": "3163402054",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67571240963468,
+          4.531671589000267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_141",
+        "nombre": "UCHU COCINA PERUANA",
+        "direccion": "CRA 14 14 NORTE  80 ED EL BOSQUE LC 201",
+        "telefono": "3058166146",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67444840817986,
+          4.537614785200588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_142",
+        "nombre": "COMIDAS MI VECI",
+        "direccion": "AV 19  25N ESQUINA",
+        "telefono": "3013363940",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_143",
+        "nombre": "AQUAMARINE DISEÑOS",
+        "direccion": "AV 19   1 NORTE - 03 BL 11 AP 101",
+        "telefono": "3116992087",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_144",
+        "nombre": "CREACIONES JALHIN",
+        "direccion": "CLL 21 24 20 BRR SAN JOSE",
+        "telefono": "3228190130",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_145",
+        "nombre": "CHERRY SHOP BOUTIQUE",
+        "direccion": "BARRIO SAN JOSÉ CL 21 N°23-14 APTO 401",
+        "telefono": "3117197357",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_146",
+        "nombre": "ASADERO LA ABUELA SAN JOSE",
+        "direccion": "CR 27 A 21-03 CLL 21 BRR SAN JOSE",
+        "telefono": "3218176987",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67844075175559,
+          4.538881240254251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_147",
+        "nombre": "EASYQUINDIO.COM",
+        "direccion": "CONDOMINIO CAMPESTRE EL BOSQUE VEREDA LA ESPAÑOLA PARAJE LA  Y CA 16",
+        "telefono": "3006168385",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68075239311926,
+          4.536626105331472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_148",
+        "nombre": "MULTILLANTAS Y SERVICIOS DEL CAFE",
+        "direccion": "PARQUE RESIDENCIAL AIRES DEL BOSQUE MZ 1 CS 5",
+        "telefono": "3166715581",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67994863500405,
+          4.533356541589855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_149",
+        "nombre": "VETLOGY",
+        "direccion": "CL 45  51  20 CON AIRES DEL BOSQUE MZ 3 CA 6",
+        "telefono": "3136984741",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67837412818635,
+          4.535846460157547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_150",
+        "nombre": "TIENDA Y REPARACIONES SAN JOSE",
+        "direccion": "BRR SAN JOSE CR 12 5 15",
+        "telefono": "3148225894",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6755899020304,
+          4.533280458372404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_151",
+        "nombre": "SURTI HOGAR LOS COSTALES",
+        "direccion": "BRR SAN JOSE  CLL 21 24 77",
+        "telefono": "7389191",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_152",
+        "nombre": "CASA CAMPESTRE LA ESPERANZA",
+        "direccion": "KM 4 VIA LA TEBAIDA CONJ SAN JOSE CHALET 12",
+        "telefono": "3206032349",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625211378206,
+          4.53674251184467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_153",
+        "nombre": "FUXION MUEBLES",
+        "direccion": "CR 26 21 27 BRR SAN JOSE",
+        "telefono": "3136448990",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67875000000001,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_154",
+        "nombre": "INTERNET SAN JOSE .COM",
+        "direccion": "BRR SAN JOSE CL 21 25 15",
+        "telefono": "3007918240",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_155",
+        "nombre": "ALMACEN ANDROMEDA",
+        "direccion": "CL 21 23 12 BRR SAN JOSE",
+        "telefono": "3006164966",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_156",
+        "nombre": "TIENDA SAN JOSE DE QUIMBAYA",
+        "direccion": "CL 12  3 07",
+        "telefono": "3215981139",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67395159315083,
+          4.531810864121567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_157",
+        "nombre": "LINA TOBON STORE",
+        "direccion": "AV 19 36 NORTE 30 MZ F CA 17 CON PORTAL DE ALAMEDA",
+        "telefono": "3136518099",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_158",
+        "nombre": "CESTERIA DE MI PUEBLO",
+        "direccion": "BRR SAN JOSE CASA 4",
+        "telefono": "3024172494",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68037751900535,
+          4.535521715150029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_159",
+        "nombre": "PARQUEADERO EL BOSQUE",
+        "direccion": "CRA 24 NRO 20 57",
+        "telefono": "3024378703",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_160",
+        "nombre": "HUEVOS KILLER",
+        "direccion": "CL 21 26-36 BRR SAN JOSE",
+        "telefono": "3145024482",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_161",
+        "nombre": "MIA MANTENIMIENTO INTEGRAL Y ASEO",
+        "direccion": "CL 47  39 71 CONJ BRISAS DEL BOSQUE BL H AP 401",
+        "telefono": "3213069199",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67961267992406,
+          4.536888211459788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_162",
+        "nombre": "PARQUEADERO MTS",
+        "direccion": "CR 25 A 17 A 16 BRR SAN JOSE",
+        "telefono": "7322611",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6743333592229,
+          4.534664091783952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_163",
+        "nombre": "ELIZABETHA HOSTAL",
+        "direccion": "CR 4 3 16 CA 5 QUINTAS DEL BOSQUE",
+        "telefono": "3146173718",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6735886671536,
+          4.539449397537993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_164",
+        "nombre": "TIENDA REYES",
+        "direccion": "CR 33 24 A 23 LC 2 BRR SAN JOSE DE LA SIERRA",
+        "telefono": "3103752227",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.536363636363636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_165",
+        "nombre": "CREDITOS LIMPIA FACIL",
+        "direccion": "CL 45 61 20 AP 103 TORRE 5 AIRES DEL BOSQUE",
+        "telefono": "3134698062",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67462355888513,
+          4.533478305222859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_166",
+        "nombre": "CASA MIRADOR",
+        "direccion": "CR 4 5E 03 BR SAN JOSE",
+        "telefono": "3008065074",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67835244891207,
+          4.533466078830691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_167",
+        "nombre": "CA SOLUCION INFORMATICA",
+        "direccion": "BRR SAN JOSE CR 25 21 126",
+        "telefono": "3116453803",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6775,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_168",
+        "nombre": "Q-YABRITOS PETS",
+        "direccion": "AV 19 NRO 26 NORTE 69 LC 102 ED EL MIRADOR",
+        "telefono": "3125924246",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_169",
+        "nombre": "EL RINCON VIRTUAL DISTRIBUIDORES COMERCIALES",
+        "direccion": "CR 24 18-34 BRR SAN JOSE",
+        "telefono": "3162999570",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_170",
+        "nombre": "TORTAS Y POSTRES DULCE MARIA",
+        "direccion": "CRA 29 NRO 20 69 BRR SAN JOSE",
+        "telefono": "3104189710",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_171",
+        "nombre": "TIENDA EL BOSQUE D",
+        "direccion": "BRR EL BOSQUE MZ  B 11",
+        "telefono": "3176616830",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6798543303232,
+          4.5401430290862415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_172",
+        "nombre": "PARADOR TURISTICO Y RESTAURANTE EL BOSQUE",
+        "direccion": "VEREDA LA GRANJA FINCA BELLA VISTA",
+        "telefono": "3128433524",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68021160767789,
+          4.5345128862004955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_173",
+        "nombre": "LE K´FÉE",
+        "direccion": "CR 4 3 16 CON QUINTAS DEL BOSQUE CA 13",
+        "telefono": "3158959145",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67698248399381,
+          4.534932917213432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_174",
+        "nombre": "GRUPO WAIA",
+        "direccion": "CONJ BRISAS DEL BOSQUE TO A APTO 502",
+        "telefono": "3023292607",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67872472671029,
+          4.533472598307897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_175",
+        "nombre": "DANIK COFECCIONES",
+        "direccion": "CLL 21 23 71  SAN JOSE",
+        "telefono": "3107026011",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_176",
+        "nombre": "TIENDA MULTIMARCA MMX",
+        "direccion": "CR 18 59 37  LC  14  C.C  SAN SUR FRENTE ESTADIO CENTENARIO",
+        "telefono": "3128868669",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_177",
+        "nombre": "FRUTAS Y VERDURAS DE LOS CAMPOS",
+        "direccion": "CL 20 27 60 BR SAN JOSE",
+        "telefono": "3193860946",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_178",
+        "nombre": "DELIPOLLO EL BOSQUE",
+        "direccion": "CL 21 24 68 BRR SAN JOSE",
+        "telefono": "7406887",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_179",
+        "nombre": "COFFEE TURISMO",
+        "direccion": "FCA SAN JOSE VEREDA LA BELLA",
+        "telefono": "3105061613",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68058319038752,
+          4.538967984287418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_180",
+        "nombre": "TOURQUINDIO",
+        "direccion": "VDA SAN JOSE FCA EL RECREO",
+        "telefono": "3137307976",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67764223004825,
+          4.5370167816871305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_181",
+        "nombre": "ALMACEN MEKADDESH",
+        "direccion": "CL 19 NRO. 28-31 BRR SAN JOSE",
+        "telefono": "3207264807",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67573144742072,
+          4.531388430247633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_182",
+        "nombre": "KAMILAS FASHION SPA",
+        "direccion": "BRR SAN JOSE CL 19 24A 07",
+        "telefono": "3186645141",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_183",
+        "nombre": "CAFETERIA Y RESTAURANTE EL DICHO",
+        "direccion": "CR 23    21   23 URB EL BOSQUE",
+        "telefono": "3176843691",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_184",
+        "nombre": "LUCY COFFEE MARKETING",
+        "direccion": "AV 19 16 NORTE 60 PROVITEQ BL 3 APTO 4A",
+        "telefono": "3003197057",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_185",
+        "nombre": "EDITORIAL SAN JOSE DE ARMENIA",
+        "direccion": "CR 18 NRO 9 52",
+        "telefono": "3206296622",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_186",
+        "nombre": "LA JUGOSITA",
+        "direccion": "AV 19 CL 9 NORTE 18-385 APT 112",
+        "telefono": "3005156983",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_187",
+        "nombre": "QUESANÍSIMO",
+        "direccion": "FINCA EL BOSQUE VDA PUERTO RICO",
+        "telefono": "3218846946",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67640092750753,
+          4.531705157087275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_188",
+        "nombre": "BRISA SANTA",
+        "direccion": "AVENIDA 19 30N-14 QUINTAS DE SAN FELIPE CSA 13",
+        "telefono": "3024124014",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_189",
+        "nombre": "INDUSTRIA METALMECANICA JFA",
+        "direccion": "CL 16 22 69   BBR SAN JOSE BAJO",
+        "telefono": "3137467484",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_190",
+        "nombre": "PAPELERIA Y VARIEDADES MIL COLORES SAN JOSE",
+        "direccion": "CLL 5 NRO 12 60",
+        "telefono": "3016651909",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67777456856285,
+          4.532669512519652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_191",
+        "nombre": "CLINICA DE ROPA BRICKELL",
+        "direccion": "CLL 22 NRO 27-10 SAN JOSE",
+        "telefono": "7313852",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_192",
+        "nombre": "MISCELANEA N Y",
+        "direccion": "CLL 19 NRO 24-00 SAN JOSE",
+        "telefono": "3136725952",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_193",
+        "nombre": "KAIROS INGENIERIA",
+        "direccion": "CR 22 22 57 AP 301 ED JOSHUA BBR SAN JOSE",
+        "telefono": "3017046618",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67375,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_194",
+        "nombre": "MISCELANEA GERMANIA",
+        "direccion": "CL 21 28 56 BRR SAN JOSE",
+        "telefono": "3167638342",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_195",
+        "nombre": "MISCELANEA MY WENSANT",
+        "direccion": "CL 19 26 36 BRR SAN JOSE",
+        "telefono": "3127435183",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_196",
+        "nombre": "KIOSCO EL PUNTO DE LA EMPANADA",
+        "direccion": "KIOSCO ENTRADA PARQUE EL BOSQUE (RECREO)",
+        "telefono": "3117229836",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67823356640635,
+          4.538520161406426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_197",
+        "nombre": "RESTAURANTE EL HOGAREÑO",
+        "direccion": "CL 21 24 61 BR SAN JOSE",
+        "telefono": "7385967",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_198",
+        "nombre": "LA PARRILLADA DE ANDRES",
+        "direccion": "CL 20   23   71 BRR SAN JOSE",
+        "telefono": "3182569427",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_199",
+        "nombre": "AUTOS EL BOSQUE",
+        "direccion": "CR 21 A 22 63",
+        "telefono": "3113595097",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67724259494004,
+          4.532410964187744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_200",
+        "nombre": "DROGUERIA RIOS",
+        "direccion": "CL 21 25 14 BRR SAN JOSE",
+        "telefono": "3116306203",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_201",
+        "nombre": "DISEÑOS Y CONFECCIONES EL BOSQUE",
+        "direccion": "CRA  23 NRO.21-35 BRR SAN JOSE",
+        "telefono": "3106708030",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_202",
+        "nombre": "COFFEE FRIENDS CAFE BAR",
+        "direccion": "AV 19 CL 15 NORTE PROVITEQ LC 1",
+        "telefono": "3148288278",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_203",
+        "nombre": "MISCELANEA LA CUYABRA",
+        "direccion": "BRR SAN JOSE CALLE 21 NRO. 25 34",
+        "telefono": "3217318339",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_204",
+        "nombre": "LICORES DUBAII",
+        "direccion": "CL 21 24 36 BRR SAN JOSE",
+        "telefono": "3113311877",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_205",
+        "nombre": "MAX QUESOS DEL BOSQUE",
+        "direccion": "CRA 22  22 - 01",
+        "telefono": "7402402",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67375,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_206",
+        "nombre": "QUINDIOBRAS Y FERRETERIA",
+        "direccion": "CR 45 42 10 CONJUNTO CAMINOS DEL BOSQUE MZ 7 21",
+        "telefono": "3164838931",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67673724622558,
+          4.534649157217169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_207",
+        "nombre": "SIA SERVICIO INTEGRADO DE ASEO Y ALIMENTOS",
+        "direccion": "AV 19 NO. 36N-44 CONJ. GETSEMANI CS 2",
+        "telefono": "3168320004",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_208",
+        "nombre": "LUIS ALBERTO VARGAS VELEZ ALUMINIO Y VIDRIO S.A.S.",
+        "direccion": "CL 20 23 38 BRR SAN JOSE",
+        "telefono": "3154191900",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_209",
+        "nombre": "PRESAS Y PRESAS DE LA 30",
+        "direccion": "AV 19 NRO. 30-02 ESQUINA",
+        "telefono": "3155960050",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_210",
+        "nombre": "PARQUEADERO SAN JOSE DEL PARQUE",
+        "direccion": "CL 13 13 27",
+        "telefono": "3188832282",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6750626022861,
+          4.540191988922313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_211",
+        "nombre": "SOCIALGREEN",
+        "direccion": "MZ 10 CASA 99 RINCON DEL BOSQUE",
+        "telefono": "3122371795",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67806115883599,
+          4.540220733394092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_212",
+        "nombre": "PASTELERIA DELICIAS DEL HOJALDRE",
+        "direccion": "CL 21 24 43 BRR SAN JOSE",
+        "telefono": "3013188316",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_213",
+        "nombre": "AM STUDIOS",
+        "direccion": "CL 21 28-42 SAN JOSE",
+        "telefono": "7401491",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_214",
+        "nombre": "CAFE CUYABRITO",
+        "direccion": "KM 4 VIA ARMENIA LA TEBAIDA PARCELACION SAN JOSE CA 8",
+        "telefono": "3166411119",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67688772076721,
+          4.537975131261105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_215",
+        "nombre": "TIENDA LA ECONOMIA ARMENIA",
+        "direccion": "CRA 25 NRO 20 38 BRR SAN JOSE",
+        "telefono": "3134182500",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6775,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_216",
+        "nombre": "PAÑALERA Y VARIEDADES EL PARAISO DE LOS NIÑOS",
+        "direccion": "CARRERA 23 20-48 BARRIO SAN JOSE",
+        "telefono": "3147959970",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_217",
+        "nombre": "MUNDO FILTROS Y ACCESORIOS",
+        "direccion": "AV 19 NO 39 33 LOCAL 3",
+        "telefono": "3136158635",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_218",
+        "nombre": "TIENDA MERCATODO DEL SAN JOSE",
+        "direccion": "CR 25 NRO. 20-23 BRR SAN JOSE",
+        "telefono": "3117079462",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6775,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_219",
+        "nombre": "FERREVARIEDADES M.D",
+        "direccion": "CRA 27 NO. 27-70 SAN JOSE",
+        "telefono": "3113923982",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.531181818181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_220",
+        "nombre": "SINERGIA SALUD ATENCION BASICA EL BOSQUE",
+        "direccion": "CALLE 22 22-65",
+        "telefono": "7358325",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_221",
+        "nombre": "AGLOMADERAS COCICLOSETS",
+        "direccion": "CRA 23 20-20 BR SAN JOSE",
+        "telefono": "3162566140",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_222",
+        "nombre": "MEJIA OSSMAN SEGUROS & CIA LTDA",
+        "direccion": "CR 14 14 NORTE 80 LC 105 ED EL BOSQUE",
+        "telefono": "7496795",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68118236064886,
+          4.5370029741780264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_223",
+        "nombre": "DON POLLO SAS GRANJA EL BOSQUE",
+        "direccion": "VEREDA SAN ANTONIO - GRANJA EL BOSQUE",
+        "telefono": "7441111",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67803872587399,
+          4.537199090542305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_224",
+        "nombre": "A & C CALIDAD Y HABILITACIÓN",
+        "direccion": "CL 19 24 28 BRR SAN JOSE",
+        "telefono": "3103585366",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_225",
+        "nombre": "AUTOPARABRISAS Y EMPAQUES",
+        "direccion": "CR 24 19  10 BRR SAN JOSE",
+        "telefono": "3137709579",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_226",
+        "nombre": "PCICIVIL SAS",
+        "direccion": "CRA 14 14 NORTE 80 OF 120 ED EL BOSQUE",
+        "telefono": "3113813275",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67775460229575,
+          4.533411477331975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_227",
+        "nombre": "ODONTOCARE SALUD ORAL",
+        "direccion": "AV. BOLIVAR 14 NORTE 80 EDIFICIO EL BOSQUE CONSULTORIO 119",
+        "telefono": "7344228",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67820800881869,
+          4.540352305703996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_228",
+        "nombre": "MEGA POLLO SAN JOSE",
+        "direccion": "CL 21   23   56",
+        "telefono": "3105390015",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_229",
+        "nombre": "CONFECCIONES A&S ARMENIA",
+        "direccion": "BARRIO SAN JOSE CALLE 19 NRO. 25-31",
+        "telefono": "3117473144",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_230",
+        "nombre": "COM AUTOMOTRIZ ARMENIA",
+        "direccion": "AVENIDA 19 NO. 18 NORTE 45",
+        "telefono": "7455501",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_231",
+        "nombre": "DON POLLO SAS GRANJA AGUAS CLARAS 1",
+        "direccion": "FINCA SAN JOSE",
+        "telefono": "7441111",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67551840926022,
+          4.537715221618435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_232",
+        "nombre": "DON POLLO SAS GRANJA AGUAS CLARAS 2",
+        "direccion": "FINCA SAN JOSE",
+        "telefono": "7441111",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6805038666022,
+          4.535793830431172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_233",
+        "nombre": "CONFECCIONES ORME",
+        "direccion": "BRR SAN JOSE CL 21 27 41",
+        "telefono": "3137500146",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_234",
+        "nombre": "PRISMA IMPRESORES ARMENIA",
+        "direccion": "CL 22 22-14 SAN JOSE",
+        "telefono": "7311498",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_235",
+        "nombre": "VARIEDADES MARIA NUBIA",
+        "direccion": "CL 19 27 22 SAN JOSE",
+        "telefono": "3187670320",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_236",
+        "nombre": "LILIANA LLANO LONDOÑO NEGOCIOS INMOBILIARIOS",
+        "direccion": "AV 19 NRO. 21N-48 ALTOS DE LA SIERRA CASA 22",
+        "telefono": "3152886673",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_237",
+        "nombre": "VIVERO JARDINES DEL PORTICO",
+        "direccion": "KM 2 ENTRADA AL CONGAL EL BOSQUE",
+        "telefono": "3122686185",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625108090486,
+          4.532829870608251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_238",
+        "nombre": "TIENDA SAMI ARMENIA",
+        "direccion": "CLL 19 27 28 SAN JOSE",
+        "telefono": "3158158850",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_239",
+        "nombre": "COLONIAL HOSTAL FILANDIA",
+        "direccion": "BRR SAN JOSE CA 2 64",
+        "telefono": "3147673657",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67389166900668,
+          4.531745666745234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_240",
+        "nombre": "VIVERO MIRADOR DEL BOSQUE",
+        "direccion": "AVE CENTENARIO VIVERO DIAGONAL 14 CALIMA",
+        "telefono": "3168434529",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67953347334095,
+          4.5349816838761825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_241",
+        "nombre": "MARMOLERIA SAN JOSE 1",
+        "direccion": "URB LA MILAGROSA MZ A CA 4",
+        "telefono": "3116257457",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67966789717971,
+          4.531324370056886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_242",
+        "nombre": "LA PARRILLA DE DON G",
+        "direccion": "CR 27 20 25 BRR SAN JOSE",
+        "telefono": "3116307945",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_243",
+        "nombre": "VARIEDADES EL SECADOR & LA PLANCHA",
+        "direccion": "CRA 27 19 43 ARMENIA SAN JOSE",
+        "telefono": "7310720",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_244",
+        "nombre": "TIENDA LA LUZ DE SAN JOSE",
+        "direccion": "CRA 29 20 19 ARMENIA",
+        "telefono": "3154034511",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_245",
+        "nombre": "RESTAURANTE LA ESQUINA DE LA 20",
+        "direccion": "CALLE 20 23-77 LC. SAN JOSE",
+        "telefono": "3207458185",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.543272727272727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_246",
+        "nombre": "ZAKURA VARIEDADES",
+        "direccion": "CL 30 NRO. 33-03 UNID 2 APTO 303 CONJ RESID CALLEJA DE SAN JOSE",
+        "telefono": "3127332842",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67559250735175,
+          4.536212723871798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_247",
+        "nombre": "3 MARIAS CAFE LOUNGE",
+        "direccion": "CLL 24 CRA 27 LC 3 PAR CULTURAL DEPORTIVO SAN JOSE",
+        "telefono": "3108209094",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67625,
+          4.531181818181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_248",
+        "nombre": "UMB CONSULTORIO ODONTOLOGICO",
+        "direccion": "CL 21 KR 25 61 SAN JOSE",
+        "telefono": "7401017",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67755190507619,
+          4.534375368630822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_249",
+        "nombre": "LVS DISTRIBUCIONES",
+        "direccion": "AV 19 32 NORTE 100 EDF SIENA",
+        "telefono": "7414032",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_250",
+        "nombre": "QUINDITEC TELECOMUNICACIONES Y SEGURIDAD ELECTRONICA",
+        "direccion": "CL 30 33-03 UND 2 TORRE E APTO 501 CALLEJA DE SAN JOSE",
+        "telefono": "3155629365",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_251",
+        "nombre": "METALES SAN JOSE",
+        "direccion": "BRR SAN JOSE CLL 19 N° 28-36",
+        "telefono": "7344285",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_252",
+        "nombre": "CARNES Y VERDURAS UNO A EL BOSQUE",
+        "direccion": "MZ 8 CS 172 - URB BOSQUES DE PINARES",
+        "telefono": "7410533",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68044147957691,
+          4.533655879760925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_253",
+        "nombre": "SALA DE BELLEZA LUZ MAR UNISEX",
+        "direccion": "CL 21 25 32 BRR SAN JOSE",
+        "telefono": "3127456134",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_254",
+        "nombre": "NUEVA PAPELERIA SAN JOSE",
+        "direccion": "CL 12 4 12",
+        "telefono": "3113336527",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67913225811995,
+          4.532458993290933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_255",
+        "nombre": "COCINA & SABOR",
+        "direccion": "CRA 14 NRO. 14N-80 LOCAL 207 ED. EL BOSQUE",
+        "telefono": "7450505",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68058695294086,
+          4.535271352308672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_256",
+        "nombre": "TALLER AUTO-SPORT 2",
+        "direccion": "CALLE 19 NRO. 25-67 BRR SAN JOSE",
+        "telefono": "3168722562",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68104447759544,
+          4.5391162533148295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_257",
+        "nombre": "ACADEMIA DE BELLEZA ANDREA",
+        "direccion": "CL 21 NRO. 25-84 BRR SAN JOSE",
+        "telefono": "3218022736",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68057496507348,
+          4.535974755933797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_258",
+        "nombre": "METALISTERIA SAN JOSE",
+        "direccion": "CR 20  23-41 BRR EL BERLIN",
+        "telefono": "3136700379",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67125,
+          4.538090909090909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_259",
+        "nombre": "ARTESANIAS MARQUEZ",
+        "direccion": "CR 4 4 32 BARRIO SAN JOSE",
+        "telefono": "3148678058",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67565863109706,
+          4.537031842197573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_260",
+        "nombre": "HOTEL SAN JOSE DEL BOSQUE",
+        "direccion": "BRR SAN JOSE CL 21 23 52 INTERIOR FRENTE AL PARQUE EL BOSQUE",
+        "telefono": "3163693866",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_261",
+        "nombre": "EDICIONES ALMA",
+        "direccion": "CL 22 22 70 BRR SAN JOSE",
+        "telefono": "7339316",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_262",
+        "nombre": "CONFECCIONES & VARIEDADES EL ESTUDIANTE",
+        "direccion": "CL. 22 NRO. 27A-32 BRR. SAN JOSE LOCAL",
+        "telefono": "3137737218",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_263",
+        "nombre": "REFUGIO SAN JOSE DEL COCORA",
+        "direccion": "FINCA SAN JOSE DEL COCORA VALLE DEL COCORA KM. 11",
+        "telefono": "3122886549",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67497493615012,
+          4.533025353998751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_264",
+        "nombre": "COMPRAVENTA DE VITRINAS ESTANTES Y VARIOS LEO-DAR",
+        "direccion": "CLL 19  25 55 BRR SAN JOSE",
+        "telefono": "7406726",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_265",
+        "nombre": "FLORISTERIA HILLARY",
+        "direccion": "CL 21 24 63 BRR SAN JOSE",
+        "telefono": "3127884636",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_266",
+        "nombre": "METRO MARKET MINIMERCADO",
+        "direccion": "AV 19 26N 49 LC 2 ED METROLOFT",
+        "telefono": "3103761051",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_267",
+        "nombre": "PELUQUERIA D`MARGARETH",
+        "direccion": "CL. 21 NRO. 27-30 BRR. SAN JOSE",
+        "telefono": "3127396503",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_268",
+        "nombre": "ATICO AGENCIA",
+        "direccion": "URN RINCON DEL BOSQUE MZ 10 CS 99",
+        "telefono": "3137349709",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67926588583424,
+          4.540117182541851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_269",
+        "nombre": "PREGOS PREVENCION EN RIESGOS",
+        "direccion": "AVENIDA 19 NRO. 24N-04 GALICIA CASA 2",
+        "telefono": "7342877",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_270",
+        "nombre": "PLATINIUM IBERICA S.A.",
+        "direccion": "AV 19  32N 100",
+        "telefono": "7312782",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_271",
+        "nombre": "LEONARDO VERA G PELUQUERIA",
+        "direccion": "CL 21  25  83 BRR SAN JOSE DEL BOSQUE",
+        "telefono": "3146882577",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_272",
+        "nombre": "SURTIMODAS EL BOSQUE",
+        "direccion": "CR 6 NRO 2 45  CALLE REAL",
+        "telefono": "3105917815",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68116210772004,
+          4.540436492172702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_273",
+        "nombre": "PELUQUERIA GLORIA C",
+        "direccion": "CALLE 21A 27A-04 BARRIO SAN JOSE",
+        "telefono": "3113170268",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_274",
+        "nombre": "FINCA EL BOSQUE NATIVO",
+        "direccion": "VDA EL BRILLANTE FCA EL BOSQUE",
+        "telefono": "7537190",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67980067463009,
+          4.540379963927823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_275",
+        "nombre": "PANADERIA Y PASTELERIA MULTIPAN DE LA 21",
+        "direccion": "BARRIO SAN JOSE CALLE 21 CRA 24 CLL 24-01",
+        "telefono": "3128431108",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6725,
+          4.536363636363636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_276",
+        "nombre": "IN COLOR`S PELUQUERIA",
+        "direccion": "CLL 21 26 23 BRR SAN JOSE",
+        "telefono": "7348516",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_277",
+        "nombre": "TALLER PINTURAS J.H.V",
+        "direccion": "BRR SAN JOSE CRA 26 NRO. 21-34",
+        "telefono": "3154073397",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67875000000001,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_278",
+        "nombre": "CACHARRERIA SOL Y ANGEL",
+        "direccion": "CL 21 24 40 BRR SAN JOSE",
+        "telefono": "3206243388",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_279",
+        "nombre": "MUEBLERIA Y TAPICERIA ALBEIRO",
+        "direccion": "CR 27 NRO. 27-12 FRENTE AL ESTADIO SAN JOSE",
+        "telefono": "7340586",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          4.531181818181818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_280",
+        "nombre": "RAPITIENDA EL PLANETA",
+        "direccion": "CL. 19 NRO. 25-03 BRR. SAN JOSE",
+        "telefono": "3173235607",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_281",
+        "nombre": "LA CERERIA... VELAS Y VELONES",
+        "direccion": "CR 18 NRO. 57-49 DIAGONAL AL ESTADIO CENTENARIO",
+        "telefono": "7475997",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67,
+          4.535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_282",
+        "nombre": "TIENDA NATURISTA EL BOSQUE ARMENIA",
+        "direccion": "CALLE 21  24 - 32",
+        "telefono": "3002126814",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_283",
+        "nombre": "CLASSAUTOS S.A.",
+        "direccion": "AVENIDA 19 NRO. 8-78",
+        "telefono": "7451624",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_284",
+        "nombre": "ACCIONES Y VALORES WESTER UNION-OLIMPICA EL BOSQUE",
+        "direccion": "CARRERA 22 NRO. 22 14 INT. OLIMPICA EL BOSQUE",
+        "telefono": "3116059",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67375,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_285",
+        "nombre": "STO 359 EL BOSQUE",
+        "direccion": "CL 22 NO. 22-65",
+        "telefono": "7405738",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.539818181818181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_286",
+        "nombre": "REVUELTERIA JM DE LAS AMERICAS",
+        "direccion": "CL. 21 NRO. 27-20 BRR. SAN JOSE",
+        "telefono": "7361930",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_287",
+        "nombre": "CONFECCIONES MAURI DEL SAN JOSE",
+        "direccion": "CR 23 N°35-34 BARRIO SANTANDER",
+        "telefono": "3155306179",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68112772751054,
+          4.538617057583976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_288",
+        "nombre": "DISTRI-CARBONES SAN JOSE Y LA VIRGEN MILAGROSA",
+        "direccion": "CL 51 4 56 FRENTE A JARDINES",
+        "telefono": "3113070981",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6771090154028,
+          4.536928988898501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_289",
+        "nombre": "PRODUCTOS EL BOSQUE DEL QUINDIO",
+        "direccion": "BRR LA FACHADA MZ 16 9",
+        "telefono": "3113561661",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_290",
+        "nombre": "EL RANCHO CARNICOS",
+        "direccion": "CL 21 23-50 BR SAN JOSE",
+        "telefono": "3192108643",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_291",
+        "nombre": "MEMOS PELUQUERIA",
+        "direccion": "CL. 21 NRO. 25-16 BRR. SAN JOSE",
+        "telefono": "3218981836",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6625,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_292",
+        "nombre": "TALLER JAPON AUTOS",
+        "direccion": "CALLE 20 NRO. 25-07 B/ SAN JOSE",
+        "telefono": "7400405",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67923551423203,
+          4.537613522404889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_293",
+        "nombre": "TIENDA LA PRIMOROSA",
+        "direccion": "B/ BOSQUES DE PINARES MZ. 8 CASA NRO. 159",
+        "telefono": "7470838",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67754989878866,
+          4.534983258627124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_294",
+        "nombre": "FERRETERIA OROZCO",
+        "direccion": "CLL 21 NRO. 24 - 28 BRR SAN JOSE",
+        "telefono": "3148916645",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_295",
+        "nombre": "DYSCOPIAS",
+        "direccion": "CR 23 CL 23 ESQ COMFENALCO EL BOSQUE",
+        "telefono": "3218963399",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68020994394725,
+          4.536308588279763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_296",
+        "nombre": "FONDA LA RAMADA",
+        "direccion": "BRR. SAN JOSE CASA 11",
+        "telefono": "3104476818",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68078579520693,
+          4.533455959992681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_297",
+        "nombre": "RED DE SERVICIOS DEL QUINDIO S.A. EL BOSQUE",
+        "direccion": "CALLE 21 NRO.23 -70",
+        "telefono": "7412266",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68006103449648,
+          4.536382750787718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_298",
+        "nombre": "HOTEL EL BOSQUE",
+        "direccion": "CL 19 N° 25-40",
+        "telefono": "7389479",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6777163718252,
+          4.539962554050099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_299",
+        "nombre": "FINCA HOTEL SAN JOSE",
+        "direccion": "VRD CANTORES MONTENEGRO",
+        "telefono": "7412880",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67966010245358,
+          4.532686782498394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_300",
+        "nombre": "MUEBLES UNIVERSAL",
+        "direccion": "AV 19 22 NORTE 124 TO 1 AP 15 01",
+        "telefono": "3113339976",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66625,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_301",
+        "nombre": "TORREFACTORA LA GAVIOTA Y CAFÉ AL PASO MIRADOR",
+        "direccion": "CR 3 BIS URB EL ESTADIO CA 28",
+        "telefono": "3127264550",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67693182136291,
+          4.539253129434482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_302",
+        "nombre": "INMOBILIARIA PANORAMA",
+        "direccion": "AV 19 26 N 69 APTO 306 ED EL MIRADOR",
+        "telefono": "7415541",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66125,
+          4.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_303",
+        "nombre": "RED DE SERVICIOS DEL QUINDIO S.A. VENTANILLA LA 26",
+        "direccion": "CALLE 21 NRO.26-05 L.1 EDIF.SAN JOSE",
+        "telefono": "7412266",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67602154132098,
+          4.535562872898062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_304",
+        "nombre": "TIENDA EL BOSQUE DE LA 21",
+        "direccion": "CL 21 23 24",
+        "telefono": "3127449024",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66499999999999,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_305",
+        "nombre": "ESTACION DE SERVICIO LA VILLA GRISALES ALVAREZ SAS",
+        "direccion": "KM 1 VIA AL EDEN ESTADIO CR 18 57-25",
+        "telefono": "7384460",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67390638015128,
+          4.539573188786278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_306",
+        "nombre": "TIENDA MIXTA LA BODEGUITA DEL SAN JOSE",
+        "direccion": "CL. 21 NRO. 24-31 BRR. SAN JOSE",
+        "telefono": "3105206867",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66375,
+          4.541545454545455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_307",
+        "nombre": "KIOSKO EL BOSQUE DE CIRCASIA",
+        "direccion": "CARRERA 15 CALLE 15",
+        "telefono": "3113976397",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67482424905913,
+          4.531647790697747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_308",
+        "nombre": "RED DE SERVICIOS DEL QUINDIO S.A. BOSQUES DE PINARES 2",
+        "direccion": "B/ BOSQUES DE PINARES MZ.13 NRO.6",
+        "telefono": "7412266",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6753138619083,
+          4.540997220313656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_309",
+        "nombre": "RED DE SERVICIOS DEL QUINDIO S.A. BOSQUES DE PINARES 1",
+        "direccion": "B/ BOSQUES DE PINARES MZ1 NRO. 1",
+        "telefono": "7412266",
+        "categoria": "Comercio",
+        "precision": "centroide_barrio",
+        "metodo_geocoding": "fallback_centroide_jitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67547688113459,
+          4.539999672962768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "est_310",
+        "nombre": "QUINDIMAG",
+        "direccion": "AV 19 NRO.  2 97 CENTRO",
+        "telefono": "7468202",
+        "categoria": "Comercio",
+        "precision": "interpolada",
+        "metodo_geocoding": "interpolacion_ejes_viales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675,
+          4.545
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "fecha_geocoding": "2026-01-16T19:48:53.503Z",
+    "total_negocios": 310,
+    "precision_interpolada": 183,
+    "precision_aproximada": 0,
+    "precision_centroide": 127,
+    "metodo": "Interpolación por ejes viales + puntos de referencia Gemini"
+  }
+}

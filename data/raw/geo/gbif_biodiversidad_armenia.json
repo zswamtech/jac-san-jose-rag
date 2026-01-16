@@ -1,0 +1,264 @@
+{
+  "fecha": "2026-01-16T19:13:07.134Z",
+  "centro": {
+    "lat": 4.5339,
+    "lon": -75.6811
+  },
+  "radio_km": 5,
+  "total_registros": 1,
+  "registros_descargados": 1,
+  "estadisticas": {
+    "por_reino": {
+      "Animalia": 1
+    },
+    "por_clase": {
+      "Squamata": 1
+    }
+  },
+  "registros": [
+    {
+      "key": 1899845579,
+      "datasetKey": "d3ba75d5-1382-440f-8f79-c45d8e3e69be",
+      "publishingOrgKey": "cccff716-2694-4209-9f9e-2f7a484465a0",
+      "installationKey": "68845aab-a453-4816-b36d-a3ec8455deb0",
+      "hostingOrganizationKey": "c4f66525-4d36-4c18-82ac-98e088f54db4",
+      "publishingCountry": "CO",
+      "protocol": "EML",
+      "lastCrawled": "2025-11-18T12:15:13.920+00:00",
+      "lastParsed": "2025-11-25T14:30:48.099+00:00",
+      "crawlId": 390,
+      "extensions": {},
+      "basisOfRecord": "PRESERVED_SPECIMEN",
+      "occurrenceStatus": "PRESENT",
+      "classifications": {
+        "7ddf754f-d193-4cc9-b351-99906754a03b": {
+          "usage": {
+            "key": "5V63X",
+            "name": "Anolis tolimensis Werner, 1916",
+            "rank": "SPECIES",
+            "code": "ZOOLOGICAL",
+            "authorship": "Werner, 1916",
+            "genericName": "Anolis",
+            "specificEpithet": "tolimensis",
+            "formattedName": "<i>Anolis</i> <i>tolimensis</i> Werner, 1916"
+          },
+          "acceptedUsage": {
+            "key": "5V63X",
+            "name": "Anolis tolimensis Werner, 1916",
+            "rank": "SPECIES",
+            "code": "ZOOLOGICAL",
+            "authorship": "Werner, 1916",
+            "genericName": "Anolis",
+            "specificEpithet": "tolimensis",
+            "formattedName": "<i>Anolis</i> <i>tolimensis</i> Werner, 1916"
+          },
+          "taxonomicStatus": "ACCEPTED",
+          "classification": [
+            {
+              "key": "CS5HF",
+              "name": "Eukaryota",
+              "rank": "DOMAIN"
+            },
+            {
+              "key": "N",
+              "name": "Animalia",
+              "rank": "KINGDOM"
+            },
+            {
+              "key": "CH2",
+              "name": "Chordata",
+              "rank": "PHYLUM"
+            },
+            {
+              "key": "8V4V3",
+              "name": "Vertebrata",
+              "rank": "SUBPHYLUM"
+            },
+            {
+              "key": "8V4V5",
+              "name": "Gnathostomata",
+              "rank": "INFRAPHYLUM"
+            },
+            {
+              "key": "8VVWB",
+              "name": "Osteichthyes",
+              "rank": "PARVPHYLUM"
+            },
+            {
+              "key": "9CK8W",
+              "name": "Tetrapoda",
+              "rank": "MEGACLASS"
+            },
+            {
+              "key": "45C",
+              "name": "Squamata",
+              "rank": "ORDER"
+            },
+            {
+              "key": "CV92F",
+              "name": "Iguania",
+              "rank": "UNRANKED"
+            },
+            {
+              "key": "C683T",
+              "name": "Anolidae",
+              "rank": "FAMILY"
+            },
+            {
+              "key": "WQP",
+              "name": "Anolis",
+              "rank": "GENUS"
+            },
+            {
+              "key": "5V63X",
+              "name": "Anolis tolimensis",
+              "rank": "SPECIES"
+            }
+          ],
+          "iucnRedListCategoryCode": "LC",
+          "issues": []
+        },
+        "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+          "usage": {
+            "key": "2467519",
+            "name": "Anolis tolimensis Werner, 1916",
+            "rank": "SPECIES",
+            "code": "ZOOLOGICAL",
+            "authorship": "Werner, 1916",
+            "genericName": "Anolis",
+            "specificEpithet": "tolimensis",
+            "formattedName": "<i>Anolis</i> <i>tolimensis</i> Werner, 1916"
+          },
+          "acceptedUsage": {
+            "key": "2467519",
+            "name": "Anolis tolimensis Werner, 1916",
+            "rank": "SPECIES",
+            "code": "ZOOLOGICAL",
+            "authorship": "Werner, 1916",
+            "genericName": "Anolis",
+            "specificEpithet": "tolimensis",
+            "formattedName": "<i>Anolis</i> <i>tolimensis</i> Werner, 1916"
+          },
+          "taxonomicStatus": "ACCEPTED",
+          "classification": [
+            {
+              "key": "1",
+              "name": "Animalia",
+              "rank": "KINGDOM"
+            },
+            {
+              "key": "44",
+              "name": "Chordata",
+              "rank": "PHYLUM"
+            },
+            {
+              "key": "11592253",
+              "name": "Squamata",
+              "rank": "CLASS"
+            },
+            {
+              "key": "8345926",
+              "name": "Dactyloidae",
+              "rank": "FAMILY"
+            },
+            {
+              "key": "8782549",
+              "name": "Anolis",
+              "rank": "GENUS"
+            },
+            {
+              "key": "2467519",
+              "name": "Anolis tolimensis",
+              "rank": "SPECIES"
+            }
+          ],
+          "iucnRedListCategoryCode": "LC",
+          "issues": []
+        }
+      },
+      "taxonKey": 2467519,
+      "kingdomKey": 1,
+      "phylumKey": 44,
+      "classKey": 11592253,
+      "familyKey": 8345926,
+      "genusKey": 8782549,
+      "speciesKey": 2467519,
+      "acceptedTaxonKey": 2467519,
+      "scientificName": "Anolis tolimensis Werner, 1916",
+      "scientificNameAuthorship": "Werner, 1916",
+      "acceptedScientificName": "Anolis tolimensis Werner, 1916",
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "family": "Dactyloidae",
+      "genus": "Anolis",
+      "species": "Anolis tolimensis",
+      "genericName": "Anolis",
+      "specificEpithet": "tolimensis",
+      "taxonRank": "SPECIES",
+      "taxonomicStatus": "ACCEPTED",
+      "iucnRedListCategory": "LC",
+      "decimalLatitude": 4.5339,
+      "decimalLongitude": -75.6811,
+      "elevation": 1500,
+      "elevationAccuracy": 0,
+      "continent": "SOUTH_AMERICA",
+      "stateProvince": "Quindío",
+      "gadm": {
+        "level0": {
+          "gid": "COL",
+          "name": "Colombia"
+        },
+        "level1": {
+          "gid": "COL.25_2",
+          "name": "Quindío"
+        },
+        "level2": {
+          "gid": "COL.25.1_2",
+          "name": "Armenia"
+        }
+      },
+      "year": 2003,
+      "eventDate": "2003",
+      "issues": [
+        "INSTITUTION_MATCH_FUZZY",
+        "COLLECTION_MATCH_FUZZY"
+      ],
+      "lastInterpreted": "2025-11-25T14:30:48.099+00:00",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/legalcode",
+      "isSequenced": false,
+      "identifiers": [
+        {
+          "identifier": "890980040-8:MHUA-R:11353"
+        }
+      ],
+      "media": [],
+      "facts": [],
+      "relations": [],
+      "institutionKey": "ef5144dd-5586-4d54-819c-8e1b86c51834",
+      "collectionKey": "4b73bac9-3f58-4c56-b492-06a85a9dba94",
+      "isInCluster": false,
+      "recordedBy": "A. Arias",
+      "preparations": "Ejemplar ETOH 70%",
+      "dnaSequenceID": [],
+      "geodeticDatum": "WGS84",
+      "class": "Squamata",
+      "countryCode": "CO",
+      "recordedByIDs": [],
+      "identifiedByIDs": [],
+      "gbifRegion": "LATIN_AMERICA",
+      "country": "Colombia",
+      "publishedByGbifRegion": "LATIN_AMERICA",
+      "identifier": "890980040-8:MHUA-R:11353",
+      "catalogNumber": "MHUA-R 11353",
+      "institutionID": "890980040-8",
+      "institutionCode": "Universidad de Antioquia (UdeA)",
+      "identificationQualifier": "cf. tolimensis",
+      "georeferenceRemarks": "Precision Cabecera Municipal",
+      "locality": "Reserva Villa Momposanos",
+      "collectionCode": "MHUA-R",
+      "gbifID": "1899845579",
+      "occurrenceID": "890980040-8:MHUA-R:11353",
+      "collectionID": "https://scientific-collections.gbif.org/collection/4b73bac9-3f58-4c56-b492-06a85a9dba94"
+    }
+  ]
+}
