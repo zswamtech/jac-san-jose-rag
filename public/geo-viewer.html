@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🗺️ Visor GeoJSON - Barrio San José y El Bosque</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+        
+        #map {
+            height: calc(100vh - 60px);
+            width: 100%;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #1a5f2a 0%, #2d8f4a 100%);
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 60px;
+        }
+        
+        .header h1 {
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .control-btn {
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.3);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        
+        .control-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        
+        .control-btn.active {
+            background: white;
+            color: #1a5f2a;
+        }
+        
+        .legend {
+            position: absolute;
+            bottom: 30px;
+            right: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            z-index: 1000;
+            max-width: 250px;
+        }
+        
+        .legend h3 {
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 6px;
+            font-size: 0.8rem;
+        }
+        
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 3px;
+            border: 1px solid #ccc;
+        }
+        
+        .stats-panel {
+            position: absolute;
+            top: 70px;
+            left: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            z-index: 1000;
+            max-width: 280px;
+        }
+        
+        .stats-panel h3 {
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+            color: #1a5f2a;
+        }
+        
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px 0;
+            border-bottom: 1px solid #eee;
+            font-size: 0.85rem;
+        }
+        
+        .stat-value {
+            font-weight: 600;
+            color: #1a5f2a;
+        }
+        
+        .popup-content h4 {
+            color: #1a5f2a;
+            margin-bottom: 8px;
+        }
+        
+        .popup-content p {
+            margin: 4px 0;
+            font-size: 0.85rem;
+        }
+        
+        .popup-content .label {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🗺️ Visor GeoJSON - Barrio San José y El Bosque, Armenia</h1>
+        <div class="controls">
+            <button class="control-btn active" onclick="toggleLayer('barrios')">📍 Barrios</button>
+            <button class="control-btn active" onclick="toggleLayer('pois')">🏛️ POIs</button>
+            <button class="control-btn active" onclick="toggleLayer('negocios')">🏪 Negocios</button>
+            <button class="control-btn" onclick="toggleLayer('fishnet')">🔲 Fishnet</button>
+            <button class="control-btn" onclick="toggleLayer('vias')">🛣️ Vías</button>
+        </div>
+    </div>
+    
+    <div id="map"></div>
+    
+    <div class="stats-panel">
+        <h3>📊 Estadísticas</h3>
+        <div class="stat-row">
+            <span>Área de estudio:</span>
+            <span class="stat-value">~45 ha</span>
+        </div>
+        <div class="stat-row">
+            <span>Celdas Fishnet:</span>
+            <span class="stat-value">1,584</span>
+        </div>
+        <div class="stat-row">
+            <span>Negocios:</span>
+            <span class="stat-value">310</span>
+        </div>
+        <div class="stat-row">
+            <span>POIs verificados:</span>
+            <span class="stat-value">6</span>
+        </div>
+        <div class="stat-row">
+            <span>Geocodificación:</span>
+            <span class="stat-value">59% precisa</span>
+        </div>
+    </div>
+    
+    <div class="legend">
+        <h3>🎨 Leyenda</h3>
+        <div class="legend-item">
+            <div class="legend-color" style="background: #2d8f4a; opacity: 0.3;"></div>
+            <span>Barrio San José</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background: #1a5f2a; opacity: 0.3;"></div>
+            <span>Barrio El Bosque</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background: #4CAF50; opacity: 0.4;"></div>
+            <span>Parque de la Vida (EEP)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background: #FF5722; border-radius: 50%;"></div>
+            <span>POIs verificados</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background: #2196F3; border-radius: 50%;"></div>
+            <span>Negocios interpolados</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background: #FFC107; border-radius: 50%;"></div>
+            <span>Negocios (centroide)</span>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <script>
+        // Inicializar mapa centrado en el barrio
+        const map = L.map('map').setView([4.5360, -75.6775], 15);
+        
+        // Capa base - OpenStreetMap
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+        
+        // Capas para toggle
+        const layers = {
+            barrios: L.layerGroup().addTo(map),
+            pois: L.layerGroup().addTo(map),
+            negocios: L.layerGroup().addTo(map),
+            fishnet: L.layerGroup(),
+            vias: L.layerGroup()
+        };
+        
+        // === DATOS GeoJSON INLINE (copiados de los archivos) ===
+        
+        // Polígonos de barrios
+        const barrioSanJose = {
+            type: "Polygon",
+            coordinates: [[
+                [-75.6850, 4.5260],
+                [-75.6750, 4.5260],
+                [-75.6750, 4.5350],
+                [-75.6850, 4.5350],
+                [-75.6850, 4.5260]
+            ]]
+        };
+        
+        const barrioElBosque = {
+            type: "Polygon",
+            coordinates: [[
+                [-75.6800, 4.5350],
+                [-75.6700, 4.5350],
+                [-75.6700, 4.5450],
+                [-75.6800, 4.5450],
+                [-75.6800, 4.5350]
+            ]]
+        };
+        
+        const parqueVida = {
+            type: "Polygon",
+            coordinates: [[
+                [-75.6720, 4.5445],
+                [-75.6690, 4.5445],
+                [-75.6690, 4.5480],
+                [-75.6720, 4.5480],
+                [-75.6720, 4.5445]
+            ]]
+        };
+        
+        // POIs verificados (Gemini)
+        const pois = [
+            { name: "Estadio San José", lat: 4.53172, lon: -75.67935, tipo: "infraestructura_deportiva", icon: "🏟️" },
+            { name: "Plaza de Toros El Bosque", lat: 4.54025, lon: -75.67550, tipo: "patrimonio", icon: "🐂" },
+            { name: "Parroquia San José Obrero", lat: 4.53050, lon: -75.68005, tipo: "religioso", icon: "⛪" },
+            { name: "FUNDANZA", lat: 4.53580, lon: -75.67650, tipo: "educacion_cultural", icon: "🎭" },
+            { name: "Colegio Rufino J. Cuervo", lat: 4.53750, lon: -75.67700, tipo: "educacion", icon: "🏫" },
+            { name: "Parque Recreacional El Bosque", lat: 4.5395, lon: -75.6760, tipo: "parque_recreacional", icon: "🌲" }
+        ];
+        
+        // Vías principales
+        const vias = [
+            { name: "Calle 21 - Eje Comercial", coords: [[-75.6800, 4.5450], [-75.6700, 4.5450]] },
+            { name: "Calle 26 - Límite entre Barrios", coords: [[-75.6850, 4.5350], [-75.6700, 4.5350]] },
+            { name: "Carrera 19 - Avenida Principal", coords: [[-75.6700, 4.5260], [-75.6700, 4.5480]] }
+        ];
+        
+        // Agregar polígonos de barrios
+        L.geoJSON({ type: "Feature", geometry: barrioSanJose, properties: { name: "Barrio San José" }}, {
+            style: { color: '#2d8f4a', fillColor: '#2d8f4a', fillOpacity: 0.2, weight: 2 }
+        }).bindPopup('<div class="popup-content"><h4>📍 Barrio San José</h4><p><span class="label">Comuna:</span> 6</p><p><span class="label">Centro:</span> 4.5317, -75.6793</p></div>').addTo(layers.barrios);
+        
+        L.geoJSON({ type: "Feature", geometry: barrioElBosque, properties: { name: "Barrio El Bosque" }}, {
+            style: { color: '#1a5f2a', fillColor: '#1a5f2a', fillOpacity: 0.2, weight: 2 }
+        }).bindPopup('<div class="popup-content"><h4>📍 Barrio El Bosque</h4><p><span class="label">Comuna:</span> 5</p><p><span class="label">Centro:</span> 4.5402, -75.6755</p></div>').addTo(layers.barrios);
+        
+        L.geoJSON({ type: "Feature", geometry: parqueVida, properties: { name: "Parque de la Vida" }}, {
+            style: { color: '#4CAF50', fillColor: '#4CAF50', fillOpacity: 0.4, weight: 3 }
+        }).bindPopup('<div class="popup-content"><h4>🌲 Parque de la Vida</h4><p><span class="label">Extensión:</span> 8.5 ha</p><p><span class="label">Protección:</span> EEP - Suelo de Protección POT</p><p><span class="label">Biodiversidad:</span> Barranquero, Guatín, Guadua</p></div>').addTo(layers.barrios);
+        
+        // Agregar POIs
+        pois.forEach(poi => {
+            const marker = L.circleMarker([poi.lat, poi.lon], {
+                radius: 10,
+                fillColor: '#FF5722',
+                color: '#fff',
+                weight: 2,
+                fillOpacity: 0.9
+            }).bindPopup(`
+                <div class="popup-content">
+                    <h4>${poi.icon} ${poi.name}</h4>
+                    <p><span class="label">Tipo:</span> ${poi.tipo}</p>
+                    <p><span class="label">Coords:</span> ${poi.lat.toFixed(5)}, ${poi.lon.toFixed(5)}</p>
+                    <p><span class="label">Fuente:</span> Gemini (verificado)</p>
+                </div>
+            `).addTo(layers.pois);
+        });
+        
+        // Agregar vías
+        vias.forEach(via => {
+            L.polyline(via.coords.map(c => [c[1], c[0]]), {
+                color: '#9C27B0',
+                weight: 3,
+                opacity: 0.7,
+                dashArray: '10, 5'
+            }).bindPopup(`<div class="popup-content"><h4>🛣️ ${via.name}</h4></div>`).addTo(layers.vias);
+        });
+        
+        // Generar Fishnet visual (simplificado - solo muestra algunas celdas)
+        function generateFishnetPreview() {
+            const bbox = { minLon: -75.6850, maxLon: -75.6700, minLat: 4.5260, maxLat: 4.5480 };
+            const cellSize = 0.0005; // ~50m aproximado
+            
+            for (let lon = bbox.minLon; lon < bbox.maxLon; lon += cellSize) {
+                for (let lat = bbox.minLat; lat < bbox.maxLat; lat += cellSize) {
+                    const rect = L.rectangle([
+                        [lat, lon],
+                        [lat + cellSize, lon + cellSize]
+                    ], {
+                        color: '#666',
+                        weight: 0.5,
+                        fillOpacity: 0
+                    });
+                    layers.fishnet.addLayer(rect);
+                }
+            }
+        }
+        generateFishnetPreview();
+        
+        // Generar negocios de muestra (aleatorios para demo)
+        function generateNegociosSample() {
+            // Negocios interpolados (59%)
+            for (let i = 0; i < 60; i++) {
+                const lat = 4.5260 + Math.random() * 0.022;
+                const lon = -75.6850 + Math.random() * 0.015;
+                L.circleMarker([lat, lon], {
+                    radius: 4,
+                    fillColor: '#2196F3',
+                    color: '#fff',
+                    weight: 1,
+                    fillOpacity: 0.7
+                }).bindPopup(`<div class="popup-content"><h4>🏪 Negocio ${i+1}</h4><p>Precisión: interpolada</p></div>`).addTo(layers.negocios);
+            }
+            
+            // Negocios centroide (41%)
+            for (let i = 0; i < 40; i++) {
+                const lat = 4.5320 + Math.random() * 0.01;
+                const lon = -75.6800 + Math.random() * 0.01;
+                L.circleMarker([lat, lon], {
+                    radius: 4,
+                    fillColor: '#FFC107',
+                    color: '#fff',
+                    weight: 1,
+                    fillOpacity: 0.7
+                }).bindPopup(`<div class="popup-content"><h4>🏪 Negocio ${60+i+1}</h4><p>Precisión: centroide</p></div>`).addTo(layers.negocios);
+            }
+        }
+        generateNegociosSample();
+        
+        // Toggle layers
+        function toggleLayer(layerName) {
+            const btn = event.target;
+            if (map.hasLayer(layers[layerName])) {
+                map.removeLayer(layers[layerName]);
+                btn.classList.remove('active');
+            } else {
+                map.addLayer(layers[layerName]);
+                btn.classList.add('active');
+            }
+        }
+        
+        // Agregar escala
+        L.control.scale({ metric: true, imperial: false }).addTo(map);
+    </script>
+</body>
+</html>
