@@ -9,7 +9,9 @@
  * - Límites de barrios
  */
 
-import 'dotenv/config'
+import { config } from 'dotenv'
+config({ path: '.env.local' })
+
 import { createClient } from '@supabase/supabase-js'
 import * as fs from 'fs'
 import * as path from 'path'
@@ -81,6 +83,15 @@ async function cargarNegocios() {
       fishnetCellId = f.properties.fishnet_cell_id || null
     }
     
+    // Mapear valores de precisión al formato esperado por la BD
+    const precisionMap: Record<string, string> = {
+      'interpolada': 'interpolado',
+      'centroide_barrio': 'centroide',
+      'verificada': 'verificado',
+    }
+    const rawPrecision = f.properties.precision || 'centroide_barrio'
+    const precision = precisionMap[rawPrecision] || 'centroide'
+    
     return {
       negocio_id: f.properties.id,
       nombre: f.properties.nombre,
@@ -89,7 +100,7 @@ async function cargarNegocios() {
       subcategoria: f.properties.subcategoria || null,
       telefono: f.properties.telefono || null,
       ubicacion: pointToWKT(coords),
-      precision: f.properties.precision || 'centroide',
+      precision,
       metodo_geocoding: f.properties.metodo_geocoding || 'desconocido',
       fishnet_cell_id: fishnetCellId,
       geocoded_at: new Date().toISOString(),
